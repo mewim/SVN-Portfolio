@@ -1,0 +1,179 @@
+var assert = require('assert');
+var request = require('sync-request');
+
+describe('comment', function () {
+    var id_1, id_2, id_3;
+    it('POST comment 1', function () {
+        var res = request(
+            'POST', 
+            'http://localhost:5000/api/comment', {
+            json: {
+                content:'test1',
+                path:'/test'
+            }
+        });
+        res = (JSON.parse(res.body));
+        assert(res.content == 'test1');
+        assert(res.level == 0);
+        assert(res.path == '/test');
+        assert(res.username == 'Anonymous');
+        id_1 = res._id;
+    });
+
+    it('POST comment 2', function () {
+        var res = request(
+            'POST', 
+            'http://localhost:5000/api/comment', {
+            json: {
+                content:'test2',
+                path:'/test',
+                parent:id_1,
+                username:'test2',
+                level:1
+            }
+        });
+        res = (JSON.parse(res.body));
+        assert(res.content == 'test2');
+        assert(res.level == 1);
+        assert(res.path == '/test');
+        assert(res.username == 'test2');
+        id_2 = res._id;
+    });
+
+    it('Reject bad comment', function () {
+        var res = request(
+            'POST', 
+            'http://localhost:5000/api/comment', {
+            json: {
+            }
+        });
+
+    });
+
+    it('GET comment 1', function () {
+        var res = request(
+            'GET', 
+            'http://localhost:5000/api/comment/' + id_1
+        );
+        assert(res.statusCode == 200);
+        res = (JSON.parse(res.body));
+        assert(res.content == 'test1');
+        assert(res.level == 0);
+        assert(res.path == '/test');
+        assert(res.username == 'Anonymous');
+    });
+
+    it('GET comment 2', function () {
+        var res = request(
+            'GET', 
+            'http://localhost:5000/api/comment/' + id_2
+        );
+        assert(res.statusCode == 200);
+        res = (JSON.parse(res.body));
+        assert(res.content == 'test2');
+        assert(res.level == 1);
+        assert(res.path == '/test');
+        assert(res.username == 'test2');
+    });
+
+    it('Return error status code for invalid GET', function () {
+        var res = request(
+            'GET', 
+            'http://localhost:5000/api/comment/0'
+        );
+        assert(res.statusCode != 200);
+    });
+
+    it('Retrive comment by path', function () {
+        var res = request(
+            'POST', 
+            'http://localhost:5000/api/comment/p', {
+            json: {
+                path:'/test'
+            }
+        });
+        assert(res.statusCode == 200);
+        var len_1 = JSON.parse(res.body).length;
+        res = request(
+            'POST', 
+            'http://localhost:5000/api/comment', {
+            json: {
+                content:'test3',
+                path:'/test'
+            }
+        });
+        assert(res.statusCode == 200);
+        res = request(
+            'POST', 
+            'http://localhost:5000/api/comment/p', {
+            json: {
+                path:'/test'
+            }
+        });
+        assert(res.statusCode == 200);
+        var len_2 = JSON.parse(res.body).length;
+        assert(len_2 == len_1 + 1);
+    });
+});
+
+describe('red_flag', function () {
+    it('POST word 1', function () {
+        var date = new Date().getTime();
+        var res = request(
+            'POST', 
+            'http://localhost:5000/api/red_flag', {
+            json: {
+                original: date,
+                replaced:'test'
+            }
+        });
+        assert(res.statusCode == 200);
+        res = (JSON.parse(res.body));
+        assert(res.original == date);
+        assert(res.replaced == 'test');
+    });
+
+    it('Reject bad word', function () {
+        var date = new Date().getTime();
+        var res = request(
+            'POST', 
+            'http://localhost:5000/api/red_flag', {
+            json: {
+                
+            }
+        });
+        assert(res.statusCode != 200);
+    });
+
+    it('Reject duplicate', function () {
+        var res = request(
+            'POST', 
+            'http://localhost:5000/api/red_flag', {
+            json: {
+                original: 'fuck',
+                replaced:'test'
+            }
+        });
+        assert(res.statusCode != 200);
+    });
+
+    it('GET word', function () {
+        var res = request(
+            'GET', 
+            'http://localhost:5000/api/red_flag/fuck'
+        );
+        assert(res.statusCode == 200);
+        res = (JSON.parse(res.body));
+        assert(res.original == 'fuck');
+    });
+
+    it('GET all words', function () {
+        var res = request(
+            'GET', 
+            'http://localhost:5000/api/red_flag/'
+        );
+        assert(res.statusCode == 200);
+        res = (JSON.parse(res.body));
+        assert(res.length > 0);
+    });
+});

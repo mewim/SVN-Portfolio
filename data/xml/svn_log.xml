@@ -1,0 +1,5842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="6614">
+<author>cliu81</author>
+<date>2017-03-07T22:04:46.590906Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/api.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/data.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/index.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/.bin</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/.bin/mime</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/.bin/semver</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/.bin/sshpk-conv</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/.bin/sshpk-sign</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/.bin/sshpk-verify</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/.bin/uuid</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/accepts</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/accepts/HISTORY.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/accepts/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/accepts/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/accepts/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/accepts/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/ajv</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/.tonic_example.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/README.md</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/dist</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/dist/ajv.bundle.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/dist/ajv.min.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/dist/ajv.min.js.map</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/dist/nodent.min.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/dist/regenerator.min.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/ajv.d.ts</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/ajv.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/async.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/cache.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/ajv/lib/compile</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/compile/_rules.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/compile/equal.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/compile/formats.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/compile/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/compile/resolve.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/compile/rules.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/compile/schema_obj.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/compile/ucs2length.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/compile/util.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/compile/validation_error.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/_limit.jst</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/_limitItems.jst</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/_limitLength.jst</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/_limitProperties.jst</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/allOf.jst</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/anyOf.jst</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/coerce.def</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/custom.jst</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/defaults.def</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/definitions.def</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/dependencies.jst</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/enum.jst</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/errors.def</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/format.jst</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/items.jst</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/missing.def</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/multipleOf.jst</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/not.jst</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/oneOf.jst</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/pattern.jst</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/properties.jst</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/ref.jst</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/required.jst</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/uniqueItems.jst</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/v5</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/v5/_formatLimit.jst</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/v5/constant.jst</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/v5/patternRequired.jst</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/v5/switch.jst</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dot/validate.jst</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dotjs</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dotjs/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dotjs/_formatLimit.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dotjs/_limit.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dotjs/_limitItems.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dotjs/_limitLength.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dotjs/_limitProperties.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dotjs/allOf.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dotjs/anyOf.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dotjs/constant.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dotjs/custom.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dotjs/dependencies.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dotjs/enum.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dotjs/format.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dotjs/items.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dotjs/multipleOf.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dotjs/not.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dotjs/oneOf.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dotjs/pattern.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dotjs/patternRequired.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dotjs/properties.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dotjs/ref.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dotjs/required.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dotjs/switch.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dotjs/uniqueItems.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/dotjs/validate.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/keyword.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/lib/refs</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/refs/json-schema-draft-04.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/refs/json-schema-v5.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/lib/v5.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/ajv/scripts</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/scripts/bundle</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/scripts/compile-dots.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/scripts/info</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ajv/scripts/prepare-tests</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ajv/scripts/travis-gh-pages</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/array-flatten</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/array-flatten/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/array-flatten/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/array-flatten/array-flatten.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/array-flatten/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/asn1</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/asn1/.npmignore</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/asn1/.travis.yml</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/asn1/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/asn1/README.md</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/asn1/lib</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/asn1/lib/ber</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/asn1/lib/ber/errors.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/asn1/lib/ber/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/asn1/lib/ber/reader.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/asn1/lib/ber/types.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/asn1/lib/ber/writer.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/asn1/lib/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/asn1/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/asn1/tst</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/asn1/tst/ber</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/asn1/tst/ber/reader.test.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/asn1/tst/ber/writer.test.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/assert-plus</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/assert-plus/AUTHORS</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/assert-plus/CHANGES.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/assert-plus/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/assert-plus/assert.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/assert-plus/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/asynckit</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/asynckit/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/asynckit/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/asynckit/bench.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/asynckit/index.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/asynckit/lib</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/asynckit/lib/abort.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/asynckit/lib/async.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/asynckit/lib/defer.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/asynckit/lib/iterate.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/asynckit/lib/readable_asynckit.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/asynckit/lib/readable_parallel.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/asynckit/lib/readable_serial.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/asynckit/lib/readable_serial_ordered.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/asynckit/lib/state.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/asynckit/lib/streamify.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/asynckit/lib/terminator.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/asynckit/package.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/asynckit/parallel.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/asynckit/serial.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/asynckit/serialOrdered.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/asynckit/stream.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/aws-sign2</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/aws-sign2/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/aws-sign2/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/aws-sign2/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/aws-sign2/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/aws4</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/aws4/.npmignore</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/aws4/.tern-port</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/aws4/.travis.yml</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/aws4/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/aws4/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/aws4/aws4.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/aws4/lru.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/aws4/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/bcrypt-pbkdf</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/bcrypt-pbkdf/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/bcrypt-pbkdf/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/bcrypt-pbkdf/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/body-parser</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/HISTORY.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/index.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/body-parser/lib</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/lib/read.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/body-parser/lib/types</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/lib/types/json.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/lib/types/raw.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/lib/types/text.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/lib/types/urlencoded.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/debug</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/debug/.coveralls.yml</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/debug/.eslintrc</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/debug/.npmignore</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/debug/.travis.yml</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/debug/CHANGELOG.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/debug/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/debug/Makefile</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/debug/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/debug/bower.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/debug/component.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/debug/karma.conf.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/debug/node.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/debug/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/debug/src</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/debug/src/browser.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/debug/src/debug.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/debug/src/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/debug/src/node.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/depd</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/depd/History.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/depd/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/depd/Readme.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/depd/index.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/depd/lib</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/depd/lib/browser</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/depd/lib/browser/index.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/depd/lib/compat</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/depd/lib/compat/buffer-concat.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/depd/lib/compat/callsite-tostring.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/depd/lib/compat/event-listener-count.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/depd/lib/compat/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/depd/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/http-errors</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/http-errors/HISTORY.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/http-errors/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/http-errors/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/http-errors/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/http-errors/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/ms</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/ms/LICENSE.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/ms/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/ms/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/ms/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/qs</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/qs/.eslintignore</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/qs/.eslintrc</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/qs/.jscs.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/qs/CHANGELOG.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/qs/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/qs/README.md</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/qs/dist</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/qs/dist/qs.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/qs/lib</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/qs/lib/formats.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/qs/lib/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/qs/lib/parse.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/qs/lib/stringify.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/qs/lib/utils.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/qs/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/qs/test</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/qs/test/.eslintrc</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/qs/test/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/qs/test/parse.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/qs/test/stringify.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/qs/test/utils.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/statuses</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/statuses/HISTORY.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/statuses/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/statuses/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/statuses/codes.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/statuses/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/node_modules/statuses/package.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/body-parser/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/boom</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/boom/.npmignore</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/boom/.travis.yml</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/boom/CONTRIBUTING.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/boom/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/boom/README.md</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/boom/images</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/boom/images/boom.png</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/boom/lib</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/boom/lib/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/boom/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/boom/test</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/boom/test/index.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/bson</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/bson/HISTORY.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/bson/LICENSE.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/bson/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/bson/bower.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/bson/browser_build</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/bson/browser_build/bson.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/bson/browser_build/package.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/bson/index.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/bson/lib</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/bson/lib/bson</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/bson/lib/bson/binary.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/bson/lib/bson/bson.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/bson/lib/bson/code.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/bson/lib/bson/db_ref.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/bson/lib/bson/decimal128.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/bson/lib/bson/double.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/bson/lib/bson/float_parser.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/bson/lib/bson/int_32.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/bson/lib/bson/long.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/bson/lib/bson/map.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/bson/lib/bson/max_key.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/bson/lib/bson/min_key.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/bson/lib/bson/objectid.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/bson/lib/bson/parser</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/bson/lib/bson/parser/calculate_size.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/bson/lib/bson/parser/deserializer.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/bson/lib/bson/parser/serializer.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/bson/lib/bson/regexp.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/bson/lib/bson/symbol.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/bson/lib/bson/timestamp.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/bson/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/buffer-shims</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/buffer-shims/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/buffer-shims/license.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/buffer-shims/package.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/buffer-shims/readme.md</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/bytes</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/bytes/History.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/bytes/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/bytes/Readme.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/bytes/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/bytes/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/caseless</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/caseless/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/caseless/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/caseless/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/caseless/package.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/caseless/test.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/co</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/co/History.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/co/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/co/Readme.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/co/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/co/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/combined-stream</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/combined-stream/License</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/combined-stream/Readme.md</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/combined-stream/lib</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/combined-stream/lib/combined_stream.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/combined-stream/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/content-disposition</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/content-disposition/HISTORY.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/content-disposition/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/content-disposition/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/content-disposition/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/content-disposition/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/content-type</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/content-type/HISTORY.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/content-type/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/content-type/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/content-type/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/content-type/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/cookie</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/cookie/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/cookie/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/cookie/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/cookie/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/cookie-signature</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/cookie-signature/.npmignore</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/cookie-signature/History.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/cookie-signature/Readme.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/cookie-signature/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/cookie-signature/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/core-util-is</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/core-util-is/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/core-util-is/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/core-util-is/float.patch</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/core-util-is/lib</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/core-util-is/lib/util.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/core-util-is/package.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/core-util-is/test.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/cryptiles</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/cryptiles/.npmignore</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/cryptiles/.travis.yml</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/cryptiles/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/cryptiles/README.md</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/cryptiles/lib</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/cryptiles/lib/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/cryptiles/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/cryptiles/test</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/cryptiles/test/index.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/dashdash</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/dashdash/CHANGES.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/dashdash/LICENSE.txt</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/dashdash/README.md</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/dashdash/etc</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/dashdash/etc/dashdash.bash_completion.in</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/dashdash/lib</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/dashdash/lib/dashdash.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/dashdash/node_modules</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/dashdash/node_modules/assert-plus</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/dashdash/node_modules/assert-plus/AUTHORS</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/dashdash/node_modules/assert-plus/CHANGES.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/dashdash/node_modules/assert-plus/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/dashdash/node_modules/assert-plus/assert.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/dashdash/node_modules/assert-plus/package.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/dashdash/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/debug</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/debug/.jshintrc</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/debug/.npmignore</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/debug/History.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/debug/Makefile</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/debug/Readme.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/debug/bower.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/debug/browser.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/debug/component.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/debug/debug.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/debug/node.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/debug/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/delayed-stream</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/delayed-stream/.npmignore</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/delayed-stream/License</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/delayed-stream/Makefile</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/delayed-stream/Readme.md</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/delayed-stream/lib</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/delayed-stream/lib/delayed_stream.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/delayed-stream/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/depd</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/depd/History.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/depd/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/depd/Readme.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/depd/index.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/depd/lib</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/depd/lib/compat</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/depd/lib/compat/buffer-concat.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/depd/lib/compat/callsite-tostring.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/depd/lib/compat/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/depd/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/destroy</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/destroy/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/destroy/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/destroy/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/ecc-jsbn</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ecc-jsbn/.npmignore</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ecc-jsbn/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ecc-jsbn/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ecc-jsbn/index.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ecc-jsbn/lib</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ecc-jsbn/lib/LICENSE-jsbn</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ecc-jsbn/lib/ec.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ecc-jsbn/lib/sec.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ecc-jsbn/package.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ecc-jsbn/test.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/ee-first</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ee-first/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ee-first/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ee-first/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ee-first/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/es6-promise</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/es6-promise/CHANGELOG.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/es6-promise/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/es6-promise/README.md</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/es6-promise/dist</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/es6-promise/dist/es6-promise.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/es6-promise/dist/es6-promise.min.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/es6-promise/lib</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/es6-promise/lib/es6-promise</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/es6-promise/lib/es6-promise/-internal.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/es6-promise/lib/es6-promise/asap.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/es6-promise/lib/es6-promise/enumerator.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/es6-promise/lib/es6-promise/polyfill.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/es6-promise/lib/es6-promise/promise</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/es6-promise/lib/es6-promise/promise/all.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/es6-promise/lib/es6-promise/promise/race.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/es6-promise/lib/es6-promise/promise/reject.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/es6-promise/lib/es6-promise/promise/resolve.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/es6-promise/lib/es6-promise/promise.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/es6-promise/lib/es6-promise/then.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/es6-promise/lib/es6-promise/utils.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/es6-promise/lib/es6-promise.umd.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/es6-promise/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/escape-html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/escape-html/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/escape-html/Readme.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/escape-html/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/escape-html/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/etag</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/etag/HISTORY.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/etag/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/etag/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/etag/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/etag/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/express</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/express/History.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/express/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/express/Readme.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/express/index.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/express/lib</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/express/lib/application.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/express/lib/express.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/express/lib/middleware</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/express/lib/middleware/init.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/express/lib/middleware/query.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/express/lib/request.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/express/lib/response.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/express/lib/router</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/express/lib/router/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/express/lib/router/layer.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/express/lib/router/route.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/express/lib/utils.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/express/lib/view.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/express/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/extend</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/extend/.eslintrc</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/extend/.jscs.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/extend/.npmignore</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/extend/.travis.yml</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/extend/CHANGELOG.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/extend/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/extend/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/extend/component.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/extend/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/extend/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/extsprintf</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/extsprintf/.gitmodules</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/extsprintf/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/extsprintf/Makefile</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/extsprintf/Makefile.deps</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/extsprintf/Makefile.targ</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/extsprintf/README.md</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/extsprintf/examples</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/extsprintf/examples/simple.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/extsprintf/jsl.node.conf</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/extsprintf/lib</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/extsprintf/lib/extsprintf.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/extsprintf/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/finalhandler</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/finalhandler/HISTORY.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/finalhandler/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/finalhandler/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/finalhandler/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/finalhandler/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/forever-agent</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/forever-agent/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/forever-agent/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/forever-agent/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/forever-agent/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/form-data</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/form-data/License</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/form-data/README.md</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/form-data/lib</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/form-data/lib/browser.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/form-data/lib/form_data.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/form-data/lib/populate.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/form-data/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/forwarded</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/forwarded/HISTORY.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/forwarded/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/forwarded/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/forwarded/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/forwarded/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/fresh</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/fresh/HISTORY.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/fresh/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/fresh/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/fresh/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/fresh/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/getpass</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/getpass/.npmignore</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/getpass/.travis.yml</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/getpass/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/getpass/README.md</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/getpass/lib</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/getpass/lib/index.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/getpass/node_modules</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/getpass/node_modules/assert-plus</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/getpass/node_modules/assert-plus/AUTHORS</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/getpass/node_modules/assert-plus/CHANGES.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/getpass/node_modules/assert-plus/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/getpass/node_modules/assert-plus/assert.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/getpass/node_modules/assert-plus/package.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/getpass/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/har-schema</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/har-schema/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/har-schema/README.md</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/har-schema/lib</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/har-schema/lib/afterRequest.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/har-schema/lib/beforeRequest.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/har-schema/lib/browser.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/har-schema/lib/cache.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/har-schema/lib/content.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/har-schema/lib/cookie.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/har-schema/lib/creator.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/har-schema/lib/entry.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/har-schema/lib/har.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/har-schema/lib/header.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/har-schema/lib/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/har-schema/lib/log.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/har-schema/lib/page.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/har-schema/lib/pageTimings.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/har-schema/lib/postData.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/har-schema/lib/query.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/har-schema/lib/request.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/har-schema/lib/response.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/har-schema/lib/timings.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/har-schema/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/har-validator</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/har-validator/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/har-validator/README.md</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/har-validator/lib</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/har-validator/lib/browser</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/har-validator/lib/browser/async.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/har-validator/lib/browser/error.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/har-validator/lib/browser/promise.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/har-validator/lib/node4</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/har-validator/lib/node4/async.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/har-validator/lib/node4/error.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/har-validator/lib/node4/promise.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/har-validator/lib/node6</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/har-validator/lib/node6/async.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/har-validator/lib/node6/error.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/har-validator/lib/node6/promise.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/har-validator/lib/node7</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/har-validator/lib/node7/async.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/har-validator/lib/node7/error.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/har-validator/lib/node7/promise.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/har-validator/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/har-validator/src</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/har-validator/src/async.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/har-validator/src/error.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/har-validator/src/promise.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/hawk</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/hawk/.npmignore</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hawk/.travis.yml</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/hawk/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hawk/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hawk/bower.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hawk/component.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hawk/dist</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hawk/dist/client.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hawk/example</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hawk/example/usage.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/hawk/images</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/hawk/images/hawk.png</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hawk/images/logo.png</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hawk/lib</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/hawk/lib/browser.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/hawk/lib/client.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/hawk/lib/crypto.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/hawk/lib/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/hawk/lib/server.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/hawk/lib/utils.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hawk/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hawk/test</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hawk/test/browser.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/hawk/test/client.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hawk/test/crypto.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hawk/test/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hawk/test/readme.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hawk/test/server.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hawk/test/uri.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hawk/test/utils.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hoek</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/hoek/.npmignore</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/hoek/.travis.yml</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/hoek/CONTRIBUTING.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hoek/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/hoek/README.md</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/hoek/images</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/hoek/images/hoek.png</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/hoek/lib</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/hoek/lib/escape.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/hoek/lib/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hoek/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/hoek/test</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hoek/test/escaper.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hoek/test/index.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hoek/test/modules</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hoek/test/modules/ignore.txt</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hoek/test/modules/test1.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/hoek/test/modules/test2.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/hoek/test/modules/test3.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/http-errors</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/http-errors/HISTORY.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/http-errors/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/http-errors/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/http-errors/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/http-errors/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/http-signature</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/http-signature/.dir-locals.el</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/http-signature/.npmignore</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/http-signature/CHANGES.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/http-signature/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/http-signature/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/http-signature/http_signing.md</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/http-signature/lib</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/http-signature/lib/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/http-signature/lib/parser.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/http-signature/lib/signer.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/http-signature/lib/utils.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/http-signature/lib/verify.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/http-signature/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/iconv-lite</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/iconv-lite/.npmignore</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/iconv-lite/.travis.yml</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/iconv-lite/Changelog.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/iconv-lite/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/iconv-lite/README.md</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/iconv-lite/encodings</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/iconv-lite/encodings/dbcs-codec.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/iconv-lite/encodings/dbcs-data.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/iconv-lite/encodings/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/iconv-lite/encodings/internal.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/iconv-lite/encodings/sbcs-codec.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/iconv-lite/encodings/sbcs-data-generated.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/iconv-lite/encodings/sbcs-data.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/iconv-lite/encodings/tables</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/iconv-lite/encodings/tables/big5-added.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/iconv-lite/encodings/tables/cp936.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/iconv-lite/encodings/tables/cp949.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/iconv-lite/encodings/tables/cp950.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/iconv-lite/encodings/tables/eucjp.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/iconv-lite/encodings/tables/gb18030-ranges.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/iconv-lite/encodings/tables/gbk-added.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/iconv-lite/encodings/tables/shiftjis.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/iconv-lite/encodings/utf16.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/iconv-lite/encodings/utf7.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/iconv-lite/lib</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/iconv-lite/lib/bom-handling.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/iconv-lite/lib/extend-node.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/iconv-lite/lib/index.d.ts</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/iconv-lite/lib/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/iconv-lite/lib/streams.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/iconv-lite/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/inherits</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/inherits/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/inherits/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/inherits/inherits.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/inherits/inherits_browser.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/inherits/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/ipaddr.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ipaddr.js/.npmignore</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ipaddr.js/.travis.yml</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ipaddr.js/Cakefile</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ipaddr.js/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ipaddr.js/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ipaddr.js/bower.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ipaddr.js/ipaddr.min.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/ipaddr.js/lib</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ipaddr.js/lib/ipaddr.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ipaddr.js/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/ipaddr.js/src</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ipaddr.js/src/ipaddr.coffee</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ipaddr.js/test</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ipaddr.js/test/ipaddr.test.coffee</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/is-typedarray</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/is-typedarray/LICENSE.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/is-typedarray/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/is-typedarray/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/is-typedarray/package.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/is-typedarray/test.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/isarray</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/isarray/.npmignore</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/isarray/.travis.yml</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/isarray/Makefile</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/isarray/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/isarray/component.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/isarray/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/isarray/package.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/isarray/test.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/isstream</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/isstream/.jshintrc</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/isstream/.npmignore</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/isstream/.travis.yml</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/isstream/LICENSE.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/isstream/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/isstream/isstream.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/isstream/package.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/isstream/test.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/jodid25519</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/jodid25519/.npmignore</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/jodid25519/.travis.yml</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/jodid25519/AUTHORS.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/jodid25519/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/jodid25519/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/jodid25519/almond.0</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/jodid25519/almond.1</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/jodid25519/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/jodid25519/jsdoc.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/jodid25519/lib</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/jodid25519/lib/core.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/jodid25519/lib/curve255.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/jodid25519/lib/dh.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/jodid25519/lib/eddsa.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/jodid25519/lib/utils.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/jodid25519/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/jsbn</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/jsbn/.npmignore</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/jsbn/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/jsbn/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/jsbn/example.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/jsbn/example.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/jsbn/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/jsbn/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/json-schema</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/json-schema/README.md</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-00</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-00/hyper-schema</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-00/json-ref</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-00/links</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-00/schema</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-01</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-01/hyper-schema</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-01/json-ref</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-01/links</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-01/schema</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-02</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-02/hyper-schema</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-02/json-ref</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-02/links</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-02/schema</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-03</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-03/examples</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-03/examples/address</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-03/examples/calendar</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-03/examples/card</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-03/examples/geo</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-03/examples/interfaces</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-03/hyper-schema</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-03/json-ref</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-03/links</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-03/schema</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-04</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-04/hyper-schema</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-04/links</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-04/schema</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-zyp-json-schema-03.xml</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/json-schema/draft-zyp-json-schema-04.xml</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/json-schema/lib</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-schema/lib/links.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/json-schema/lib/validate.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/json-schema/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/json-schema/test</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/json-schema/test/tests.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/json-stable-stringify</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/json-stable-stringify/.npmignore</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/json-stable-stringify/.travis.yml</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-stable-stringify/LICENSE</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-stable-stringify/example</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/json-stable-stringify/example/key_cmp.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-stable-stringify/example/nested.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-stable-stringify/example/str.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-stable-stringify/example/value_cmp.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-stable-stringify/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-stable-stringify/package.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-stable-stringify/readme.markdown</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-stable-stringify/test</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/json-stable-stringify/test/cmp.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/json-stable-stringify/test/nested.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-stable-stringify/test/replacer.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-stable-stringify/test/space.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/json-stable-stringify/test/str.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/json-stable-stringify/test/to-json.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/json-stringify-safe</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/json-stringify-safe/.npmignore</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/json-stringify-safe/CHANGELOG.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-stringify-safe/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/json-stringify-safe/Makefile</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/json-stringify-safe/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-stringify-safe/package.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-stringify-safe/stringify.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-stringify-safe/test</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-stringify-safe/test/mocha.opts</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/json-stringify-safe/test/stringify_test.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/jsonify</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/jsonify/README.markdown</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/jsonify/index.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/jsonify/lib</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/jsonify/lib/parse.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/jsonify/lib/stringify.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/jsonify/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/jsonify/test</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/jsonify/test/parse.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/jsonify/test/stringify.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/jsprim</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/jsprim/CHANGES.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/jsprim/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/jsprim/README.md</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/jsprim/lib</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/jsprim/lib/jsprim.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/jsprim/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/media-typer</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/media-typer/HISTORY.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/media-typer/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/media-typer/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/media-typer/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/media-typer/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/merge-descriptors</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/merge-descriptors/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/merge-descriptors/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/merge-descriptors/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/merge-descriptors/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/methods</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/methods/HISTORY.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/methods/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/methods/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/methods/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/methods/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mime</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mime/.npmignore</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mime/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mime/README.md</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/mime/build</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mime/build/build.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mime/build/test.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mime/cli.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mime/mime.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mime/package.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mime/types.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/mime-db</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mime-db/HISTORY.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mime-db/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mime-db/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mime-db/db.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mime-db/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mime-db/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mime-types</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mime-types/HISTORY.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mime-types/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mime-types/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mime-types/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mime-types/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb/.coveralls.yml</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb/.eslintrc</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb/HISTORY.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb/Makefile</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb/THIRD-PARTY-NOTICES</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb/boot_auth.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb/conf.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb/insert_bench.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb/lib</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/admin.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/aggregation_cursor.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/apm.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/bulk</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/bulk/common.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/bulk/ordered.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/bulk/unordered.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/collection.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/command_cursor.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/cursor.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/db.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/gridfs</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/gridfs/chunk.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/gridfs/grid_store.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/gridfs-stream</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/gridfs-stream/download.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/gridfs-stream/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/gridfs-stream/upload.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/metadata.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/mongo_client.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/mongos.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/read_preference.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/replset.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/server.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/topology_base.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/url_parser.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb/lib/utils.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb/package.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb/yarn.lock</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/mongodb-core</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb-core/.coveralls.yml</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb-core/.eslintrc</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb-core/HISTORY.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb-core/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb-core/Makefile</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb-core/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb-core/TESTING.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb-core/THIRD-PARTY-NOTICES</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb-core/blocking_test.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb-core/conf.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb-core/connect_test.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb-core/index.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/auth</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/auth/gssapi.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/auth/mongocr.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/auth/plain.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/auth/scram.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/auth/sspi.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/auth/x509.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/connection</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/connection/command_result.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/connection/commands.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/connection/connection.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/connection/logger.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/connection/pool.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/connection/utils.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/cursor.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/error.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/tools</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/tools/smoke_plugin.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/topologies</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/topologies/mongos.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/topologies/read_preference.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/topologies/replset.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/topologies/replset_state.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/topologies/server.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/topologies/shared.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/wireprotocol</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/wireprotocol/2_4_support.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/wireprotocol/2_6_support.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/wireprotocol/3_2_support.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/wireprotocol/commands.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb-core/lib/wireprotocol/shared.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb-core/package.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/mongodb-core/simple_2_document_limit_toArray.dat</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb-core/test.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb-core/test1.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb-core/test_bug.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/mongodb-core/yarn.lock</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ms</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ms/.npmignore</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ms/History.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ms/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/ms/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ms/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/ms/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/negotiator</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/negotiator/HISTORY.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/negotiator/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/negotiator/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/negotiator/index.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/negotiator/lib</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/negotiator/lib/charset.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/negotiator/lib/encoding.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/negotiator/lib/language.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/negotiator/lib/mediaType.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/negotiator/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/oauth-sign</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/oauth-sign/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/oauth-sign/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/oauth-sign/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/oauth-sign/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/on-finished</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/on-finished/HISTORY.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/on-finished/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/on-finished/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/on-finished/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/on-finished/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/parseurl</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/parseurl/HISTORY.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/parseurl/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/parseurl/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/parseurl/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/parseurl/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/path-to-regexp</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/path-to-regexp/History.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/path-to-regexp/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/path-to-regexp/Readme.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/path-to-regexp/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/path-to-regexp/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/performance-now</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/performance-now/.npmignore</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/performance-now/.tm_properties</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/performance-now/.travis.yml</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/performance-now/Makefile</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/performance-now/README.md</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/performance-now/lib</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/performance-now/lib/performance-now.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/performance-now/license.txt</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/performance-now/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/performance-now/src</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/performance-now/src/performance-now.coffee</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/performance-now/test</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/performance-now/test/mocha.opts</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/performance-now/test/performance-now.coffee</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/process-nextick-args</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/process-nextick-args/.travis.yml</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/process-nextick-args/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/process-nextick-args/license.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/process-nextick-args/package.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/process-nextick-args/readme.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/process-nextick-args/test.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/proxy-addr</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/proxy-addr/HISTORY.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/proxy-addr/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/proxy-addr/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/proxy-addr/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/proxy-addr/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/punycode</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/punycode/LICENSE-MIT.txt</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/punycode/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/punycode/package.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/punycode/punycode.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/qs</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/qs/.eslintignore</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/qs/.npmignore</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/qs/.travis.yml</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/qs/CHANGELOG.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/qs/CONTRIBUTING.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/qs/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/qs/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/qs/bower.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/qs/lib</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/qs/lib/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/qs/lib/parse.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/qs/lib/stringify.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/qs/lib/utils.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/qs/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/qs/test</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/qs/test/parse.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/qs/test/stringify.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/qs/test/utils.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/range-parser</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/range-parser/HISTORY.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/range-parser/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/range-parser/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/range-parser/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/range-parser/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/raw-body</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/raw-body/HISTORY.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/raw-body/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/raw-body/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/raw-body/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/raw-body/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/readable-stream</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/readable-stream/.npmignore</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/readable-stream/.travis.yml</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/readable-stream/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/readable-stream/README.md</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/readable-stream/doc</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/readable-stream/doc/stream.md</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/readable-stream/doc/wg-meetings</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/readable-stream/doc/wg-meetings/2015-01-30.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/readable-stream/duplex.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/readable-stream/lib</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/readable-stream/lib/_stream_duplex.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/readable-stream/lib/_stream_passthrough.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/readable-stream/lib/_stream_readable.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/readable-stream/lib/_stream_transform.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/readable-stream/lib/_stream_writable.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/readable-stream/lib/internal</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/readable-stream/lib/internal/streams</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/readable-stream/lib/internal/streams/BufferList.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/readable-stream/package.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/readable-stream/passthrough.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/readable-stream/readable.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/readable-stream/transform.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/readable-stream/writable.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/request</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/request/CHANGELOG.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/request/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/request/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/request/index.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/request/lib</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/request/lib/auth.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/request/lib/cookies.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/request/lib/getProxyFromURI.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/request/lib/har.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/request/lib/helpers.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/request/lib/multipart.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/request/lib/oauth.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/request/lib/querystring.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/request/lib/redirect.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/request/lib/tunnel.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/request/node_modules</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/request/node_modules/qs</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/request/node_modules/qs/.eslintignore</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/request/node_modules/qs/.eslintrc</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/request/node_modules/qs/CHANGELOG.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/request/node_modules/qs/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/request/node_modules/qs/README.md</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/request/node_modules/qs/dist</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/request/node_modules/qs/dist/qs.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/request/node_modules/qs/lib</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/request/node_modules/qs/lib/formats.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/request/node_modules/qs/lib/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/request/node_modules/qs/lib/parse.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/request/node_modules/qs/lib/stringify.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/request/node_modules/qs/lib/utils.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/request/node_modules/qs/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/request/node_modules/qs/test</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/request/node_modules/qs/test/.eslintrc</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/request/node_modules/qs/test/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/request/node_modules/qs/test/parse.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/request/node_modules/qs/test/stringify.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/request/node_modules/qs/test/utils.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/request/package.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/request/request.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/require_optional</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/require_optional/.npmignore</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/require_optional/.travis.yml</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/require_optional/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/require_optional/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/require_optional/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/require_optional/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/require_optional/test</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/require_optional/test/require_optional_tests.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/resolve-from</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/resolve-from/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/resolve-from/license</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/resolve-from/package.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/resolve-from/readme.md</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/semver</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/semver/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/semver/README.md</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/semver/bin</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/semver/bin/semver</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/semver/package.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/semver/range.bnf</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/semver/semver.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/send</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/send/HISTORY.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/send/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/send/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/send/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/send/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/serve-static</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/serve-static/HISTORY.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/serve-static/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/serve-static/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/serve-static/index.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/depd</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/depd/History.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/depd/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/depd/Readme.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/depd/index.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/depd/lib</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/depd/lib/browser</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/depd/lib/browser/index.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/depd/lib/compat</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/depd/lib/compat/buffer-concat.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/depd/lib/compat/callsite-tostring.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/depd/lib/compat/event-listener-count.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/depd/lib/compat/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/depd/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/destroy</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/destroy/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/destroy/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/destroy/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/destroy/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/escape-html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/escape-html/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/escape-html/Readme.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/escape-html/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/escape-html/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/send</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/send/HISTORY.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/send/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/send/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/send/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/serve-static/node_modules/send/package.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/serve-static/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/setprototypeof</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/setprototypeof/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/setprototypeof/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/setprototypeof/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/setprototypeof/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sntp</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sntp/.npmignore</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sntp/.travis.yml</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sntp/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sntp/Makefile</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sntp/README.md</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/sntp/examples</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sntp/examples/offset.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sntp/examples/time.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sntp/index.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/sntp/lib</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sntp/lib/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sntp/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sntp/test</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sntp/test/index.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sshpk</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sshpk/.npmignore</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sshpk/.travis.yml</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sshpk/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sshpk/README.md</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/sshpk/bin</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sshpk/bin/sshpk-conv</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sshpk/bin/sshpk-sign</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sshpk/bin/sshpk-verify</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/sshpk/lib</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sshpk/lib/algs.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sshpk/lib/certificate.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sshpk/lib/dhe.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sshpk/lib/ed-compat.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sshpk/lib/errors.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sshpk/lib/fingerprint.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sshpk/lib/formats</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sshpk/lib/formats/auto.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sshpk/lib/formats/openssh-cert.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sshpk/lib/formats/pem.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sshpk/lib/formats/pkcs1.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sshpk/lib/formats/pkcs8.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sshpk/lib/formats/rfc4253.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sshpk/lib/formats/ssh-private.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sshpk/lib/formats/ssh.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sshpk/lib/formats/x509-pem.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sshpk/lib/formats/x509.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sshpk/lib/identity.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sshpk/lib/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sshpk/lib/key.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sshpk/lib/private-key.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sshpk/lib/signature.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sshpk/lib/ssh-buffer.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sshpk/lib/utils.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sshpk/man</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/sshpk/man/man1</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sshpk/man/man1/sshpk-conv.1</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sshpk/man/man1/sshpk-sign.1</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sshpk/man/man1/sshpk-verify.1</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sshpk/node_modules</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sshpk/node_modules/assert-plus</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sshpk/node_modules/assert-plus/AUTHORS</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sshpk/node_modules/assert-plus/CHANGES.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sshpk/node_modules/assert-plus/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sshpk/node_modules/assert-plus/assert.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/sshpk/node_modules/assert-plus/package.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/sshpk/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/statuses</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/statuses/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/statuses/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/statuses/codes.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/statuses/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/statuses/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/string_decoder</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/string_decoder/.npmignore</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/string_decoder/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/string_decoder/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/string_decoder/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/string_decoder/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/stringstream</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/stringstream/.npmignore</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/stringstream/.travis.yml</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/stringstream/LICENSE.txt</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/stringstream/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/stringstream/example.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/stringstream/package.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/stringstream/stringstream.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/tough-cookie</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/tough-cookie/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/tough-cookie/README.md</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/tough-cookie/lib</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/tough-cookie/lib/cookie.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/tough-cookie/lib/memstore.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/tough-cookie/lib/pathMatch.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/tough-cookie/lib/permuteDomain.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/tough-cookie/lib/pubsuffix.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/tough-cookie/lib/store.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/tough-cookie/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/tunnel-agent</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/tunnel-agent/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/tunnel-agent/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/tunnel-agent/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/tunnel-agent/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/tweetnacl</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/tweetnacl/.npmignore</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/tweetnacl/AUTHORS.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/tweetnacl/CHANGELOG.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/tweetnacl/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/tweetnacl/PULL_REQUEST_TEMPLATE.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/tweetnacl/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/tweetnacl/nacl-fast.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/tweetnacl/nacl-fast.min.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/tweetnacl/nacl.d.ts</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/tweetnacl/nacl.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/tweetnacl/nacl.min.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/tweetnacl/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/type-is</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/type-is/HISTORY.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/type-is/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/type-is/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/type-is/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/type-is/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/unpipe</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/unpipe/HISTORY.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/unpipe/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/unpipe/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/unpipe/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/unpipe/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/util-deprecate</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/util-deprecate/History.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/util-deprecate/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/util-deprecate/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/util-deprecate/browser.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/util-deprecate/node.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/util-deprecate/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/utils-merge</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/utils-merge/.travis.yml</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/utils-merge/LICENSE</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/utils-merge/README.md</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/utils-merge/index.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/utils-merge/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/uuid</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/uuid/.npmignore</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/uuid/.travis.yml</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/uuid/AUTHORS</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/uuid/HISTORY.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/uuid/LICENSE.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/uuid/README.md</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/uuid/bin</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/uuid/bin/uuid</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/uuid/index.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/uuid/lib</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/uuid/lib/bytesToUuid.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/uuid/lib/rng-browser.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/uuid/lib/rng.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/uuid/package.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/uuid/test</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/uuid/test/mocha.opts</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/uuid/test/test.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/uuid/v1.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/uuid/v4.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/vary</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/vary/HISTORY.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/vary/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/vary/README.md</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/vary/index.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/vary/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/verror</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/verror/.gitmodules</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/verror/.npmignore</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/verror/LICENSE</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/verror/Makefile</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/verror/Makefile.targ</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/verror/README.md</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/verror/examples</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/verror/examples/levels-verror.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/verror/examples/levels-werror.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/verror/examples/varargs.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/verror/examples/verror.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/verror/examples/werror.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/verror/jsl.node.conf</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api/node_modules/verror/lib</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/api/node_modules/verror/lib/verror.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/verror/package.json</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/api/node_modules/verror/tests</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/verror/tests/tst.inherit.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/verror/tests/tst.verror.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/node_modules/verror/tests/tst.werror.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/api/package.json</path>
+</paths>
+<msg>Assignment 2.1 api</msg>
+</logentry>
+<logentry
+   revision="6601">
+<author>cliu81</author>
+<date>2017-03-07T20:40:21.313803Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/analysis/analysis.js</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/analysis/data</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/analysis/data/Tom_Hanks.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/analysis/data/provided.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/analysis/graph_construct.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/analysis/runner.js</path>
+</paths>
+<msg>Assignment 2.1 analysis</msg>
+</logentry>
+<logentry
+   revision="6600">
+<author>cliu81</author>
+<date>2017-03-07T20:40:14.087555Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Assignment2.1/analysis/graph.js</path>
+</paths>
+<msg>Assignment 2.1 analysis</msg>
+</logentry>
+<logentry
+   revision="6568">
+<author>cliu81</author>
+<date>2017-03-07T16:36:51.824645Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/analysis</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/analysis/graph.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/api</path>
+</paths>
+<msg>Create folders</msg>
+</logentry>
+<logentry
+   revision="6567">
+<author>cliu81</author>
+<date>2017-03-07T16:34:27.174595Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Assignment2.1/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/cliu81/Assignment2.1/visualization/visualization.js</path>
+</paths>
+<msg>Visualization citations</msg>
+</logentry>
+<logentry
+   revision="6559">
+<author>cliu81</author>
+<date>2017-03-07T16:26:45.717071Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.1/.idea</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/.idea/Assignment2.0.iml</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/.idea/jsLibraryMappings.xml</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/.nyc_output</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/.nyc_output/5a8cb2ae17bc296441e4739fabd7341b.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/.nyc_output/7648c76f718f044d88059bc01079dd46.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.1/visualization</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/visualization/data.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/visualization/index.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.1/visualization/visualization.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.1/visualization/visualization.js</path>
+</paths>
+<msg>Visualization done</msg>
+</logentry>
+<logentry
+   revision="6007">
+<author>cliu81</author>
+<date>2017-02-28T23:00:58.419339Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Assignment2.0/graph/graph_util.js</path>
+<path
+   kind="file"
+   action="M">/cliu81/Assignment2.0/graph/util_runner.js</path>
+</paths>
+<msg>Assignment 2.0</msg>
+</logentry>
+<logentry
+   revision="6001">
+<author>cliu81</author>
+<date>2017-02-28T22:38:42.453999Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Assignment2.0/graph/graph_util.js</path>
+<path
+   kind="file"
+   action="M">/cliu81/Assignment2.0/graph/util_runner.js</path>
+</paths>
+<msg>Assignment 2.0</msg>
+</logentry>
+<logentry
+   revision="5991">
+<author>cliu81</author>
+<date>2017-02-28T21:48:53.474421Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.0</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment2.0/.idea</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.0/.idea/Assignment2.0.iml</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.0/.idea/jsLibraryMappings.xml</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.0/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.0/.idea/workspace.xml</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.0/.nyc_output</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.0/.nyc_output/5a8cb2ae17bc296441e4739fabd7341b.json</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.0/.nyc_output/7648c76f718f044d88059bc01079dd46.json</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.0/crawler</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.0/crawler/config.JSON</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.0/crawler/crawler.js</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.0/crawler/crawler_results</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.0/crawler/crawler_results/.idea</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.0/crawler/crawler_results/.idea/crawler_results.iml</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.0/crawler/crawler_results/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.0/crawler/crawler_results/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.0/crawler/crawler_results/Furious_7.JSON</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.0/crawler/crawler_results/Iron_Man_3.JSON</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.0/crawler/crawler_results/Jeff_Bridges.JSON</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.0/crawler/crawler_results/Morgan_Freeman.JSON</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.0/crawler/crawler_results/Tom_Hanks.JSON</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.0/crawler/crawler_results/Transformers_(film).JSON</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.0/crawler/graph_construct.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.0/crawler/jquery-3.1.1.min.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.0/crawler/log.log</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.0/crawler/new.JSON</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.0/graph</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment2.0/graph/coverage</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.0/graph/graph.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.0/graph/graph_util.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment2.0/graph/test.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.0/graph/util_runner.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.0/log.log</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.0/out.JSON</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.0/package.json</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment2.0/test.js</path>
+</paths>
+<msg>Assignment 2.0</msg>
+</logentry>
+<logentry
+   revision="4571">
+<author>cliu81</author>
+<date>2017-02-14T16:42:32.172860Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment1.1</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/.classpath</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/.project</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment1.1/.settings</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/Doxyfile</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/Manual Test Plan.pdf</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment1.1/bin</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment1.1/bin/board</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/bin/board/Board.class</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/bin/board/NormalBoard.class</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/bin/board/RectangleBoard.class</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment1.1/bin/piece</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/bin/piece/Bishop.class</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/bin/piece/Color.class</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/bin/piece/Empress.class</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/bin/piece/King.class</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/bin/piece/Knight.class</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/bin/piece/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/bin/piece/Piece.class</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/bin/piece/Princess.class</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/bin/piece/Queen.class</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/bin/piece/Rook.class</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment1.1/bin/test</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/bin/test/BoardTest.class</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/bin/test/NormalBoardTest.class</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/bin/test/PiecesTest.class</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/bin/test/ViewTest.class</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment1.1/bin/view</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/bin/view/NormalBoardView.class</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment1.1/html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/annotated.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/bc_s.png</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/bdwn.png</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/classboard_1_1_board-members.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/classboard_1_1_board.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/classboard_1_1_board.png</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/classboard_1_1_normal_board-members.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/classboard_1_1_normal_board.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/classboard_1_1_normal_board.png</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/classboard_1_1_rectangle_board-members.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/classboard_1_1_rectangle_board.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/classboard_1_1_rectangle_board.png</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/classes.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/classpiece_1_1_bishop-members.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/classpiece_1_1_bishop.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/classpiece_1_1_bishop.png</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/classpiece_1_1_empress-members.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/classpiece_1_1_empress.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/classpiece_1_1_empress.png</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/classpiece_1_1_king-members.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/classpiece_1_1_king.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/classpiece_1_1_king.png</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/classpiece_1_1_knight-members.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/classpiece_1_1_knight.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/classpiece_1_1_knight.png</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/classpiece_1_1_pawn-members.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/classpiece_1_1_pawn.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/classpiece_1_1_pawn.png</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/classpiece_1_1_piece-members.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/classpiece_1_1_piece.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/classpiece_1_1_piece.png</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/classpiece_1_1_princess-members.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/classpiece_1_1_princess.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/classpiece_1_1_princess.png</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/classpiece_1_1_queen-members.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/classpiece_1_1_queen.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/classpiece_1_1_queen.png</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/classpiece_1_1_rook-members.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/classpiece_1_1_rook.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/classpiece_1_1_rook.png</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/classtest_1_1_board_test-members.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/classtest_1_1_board_test.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/classtest_1_1_normal_board_test-members.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/classtest_1_1_normal_board_test.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/classtest_1_1_pieces_test-members.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/classtest_1_1_pieces_test.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/classtest_1_1_view_test-members.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/classtest_1_1_view_test.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/classview_1_1_normal_board_view-members.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/classview_1_1_normal_board_view.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/closed.png</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/dir_120ed4da3e3217b1e7fc0b4f48568e79.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/dir_3f5d45176d67a9c706825ff9b3c7dd71.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/dir_68267d1309a1af8e8297ef4c3efbcdba.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/dir_8ce7cd6e96eb11a61d1d013aa8c7fa46.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/dir_b39b5091e8d1d2be4b7fc59d57749634.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/doc.png</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/doxygen.css</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/doxygen.png</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/dynsections.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/enumpiece_1_1_color-members.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/enumpiece_1_1_color.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/folderclosed.png</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/folderopen.png</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/functions.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/functions_func.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/hierarchy.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/index.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/jquery.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/menu.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/menudata.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/nav_f.png</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/nav_g.png</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/nav_h.png</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/open.png</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment1.1/html/search</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/all_0.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/all_0.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/all_1.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/all_1.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/all_10.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/all_10.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/all_11.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/all_11.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/all_2.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/all_2.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/all_3.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/all_3.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/all_4.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/all_4.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/all_5.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/all_5.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/all_6.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/all_6.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/all_7.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/all_7.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/all_8.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/all_8.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/all_9.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/all_9.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/all_a.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/all_a.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/all_b.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/all_b.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/all_c.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/all_c.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/all_d.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/all_d.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/all_e.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/all_e.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/all_f.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/all_f.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/classes_0.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/classes_0.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/classes_1.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/classes_1.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/classes_2.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/classes_2.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/classes_3.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/classes_3.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/classes_4.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/classes_4.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/classes_5.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/classes_5.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/classes_6.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/classes_6.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/classes_7.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/classes_7.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/classes_8.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/classes_8.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/close.png</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/functions_0.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/functions_0.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/functions_1.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/functions_1.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/functions_2.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/functions_2.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/functions_3.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/functions_3.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/functions_4.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/functions_4.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/functions_5.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/functions_5.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/functions_6.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/functions_6.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/functions_7.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/functions_7.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/functions_8.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/functions_8.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/functions_9.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/functions_9.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/functions_a.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/functions_a.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/functions_b.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/functions_b.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/functions_c.html</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/functions_c.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/mag_sel.png</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/nomatches.html</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/search.css</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/search.js</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/search_l.png</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/search_m.png</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/search/search_r.png</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/search/searchdata.js</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/splitbar.png</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/sync_off.png</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/sync_on.png</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/tab_a.png</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/tab_b.png</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/tab_h.png</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/html/tab_s.png</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/html/tabs.css</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment1.1/latex</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/Makefile</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/annotated.tex</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/classboard_1_1_board.eps</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/classboard_1_1_board.pdf</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/latex/classboard_1_1_board.tex</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/latex/classboard_1_1_normal_board.eps</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/classboard_1_1_normal_board.pdf</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/latex/classboard_1_1_normal_board.tex</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/latex/classboard_1_1_rectangle_board.eps</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/latex/classboard_1_1_rectangle_board.pdf</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/latex/classboard_1_1_rectangle_board.tex</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/classpiece_1_1_bishop.eps</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/classpiece_1_1_bishop.pdf</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/latex/classpiece_1_1_bishop.tex</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/classpiece_1_1_empress.eps</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/classpiece_1_1_empress.pdf</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/classpiece_1_1_empress.tex</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/classpiece_1_1_king.eps</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/classpiece_1_1_king.pdf</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/latex/classpiece_1_1_king.tex</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/latex/classpiece_1_1_knight.eps</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/classpiece_1_1_knight.pdf</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/latex/classpiece_1_1_knight.tex</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/latex/classpiece_1_1_pawn.eps</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/latex/classpiece_1_1_pawn.pdf</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/latex/classpiece_1_1_pawn.tex</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/latex/classpiece_1_1_piece.eps</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/classpiece_1_1_piece.pdf</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/classpiece_1_1_piece.tex</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/latex/classpiece_1_1_princess.eps</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/classpiece_1_1_princess.pdf</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/classpiece_1_1_princess.tex</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/classpiece_1_1_queen.eps</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/classpiece_1_1_queen.pdf</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/classpiece_1_1_queen.tex</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/latex/classpiece_1_1_rook.eps</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/latex/classpiece_1_1_rook.pdf</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/classpiece_1_1_rook.tex</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/latex/classtest_1_1_board_test.tex</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/latex/classtest_1_1_normal_board_test.tex</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/latex/classtest_1_1_pieces_test.tex</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/latex/classtest_1_1_view_test.tex</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/classview_1_1_normal_board_view.tex</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/dir_120ed4da3e3217b1e7fc0b4f48568e79.tex</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/latex/dir_3f5d45176d67a9c706825ff9b3c7dd71.tex</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/dir_68267d1309a1af8e8297ef4c3efbcdba.tex</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/dir_8ce7cd6e96eb11a61d1d013aa8c7fa46.tex</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/dir_b39b5091e8d1d2be4b7fc59d57749634.tex</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/doxygen.sty</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/latex/enumpiece_1_1_color.tex</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/latex/hierarchy.tex</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/latex/refman.tex</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment1.1/src</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment1.1/src/board</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/src/board/Board.java</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/src/board/NormalBoard.java</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/src/board/RectangleBoard.java</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment1.1/src/piece</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/src/piece/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/src/piece/Color.java</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/src/piece/Empress.java</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/src/piece/King.java</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/src/piece/Knight.java</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/src/piece/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/src/piece/Piece.java</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/src/piece/Princess.java</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/src/piece/Queen.java</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/src/piece/Rook.java</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment1.1/src/test</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/src/test/BoardTest.java</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/src/test/NormalBoardTest.java</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/src/test/PiecesTest.java</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.1/src/test/ViewTest.java</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment1.1/src/view</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.1/src/view/NormalBoardView.java</path>
+</paths>
+<msg>Assignment 1.1</msg>
+</logentry>
+<logentry
+   revision="3703">
+<author>cliu81</author>
+<date>2017-02-07T21:44:12.616278Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment1.0</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.0/.classpath</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.0/.project</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment1.0/.settings</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment1.0/bin</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment1.0/bin/Test</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.0/bin/Test/BoardTest.class</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.0/bin/Test/NormalBoardTest.class</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.0/bin/Test/PiecesTest.class</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment1.0/bin/board</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.0/bin/board/Board.class</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.0/bin/board/NormalBoard.class</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.0/bin/board/RectangleBoard.class</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment1.0/bin/piece</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.0/bin/piece/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.0/bin/piece/Color.class</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.0/bin/piece/King.class</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.0/bin/piece/Knight.class</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.0/bin/piece/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.0/bin/piece/Piece.class</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.0/bin/piece/Queen.class</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.0/bin/piece/Rook.class</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment1.0/src</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment1.0/src/Test</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.0/src/Test/BoardTest.java</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.0/src/Test/NormalBoardTest.java</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.0/src/Test/PiecesTest.java</path>
+<path
+   action="A"
+   kind="dir">/cliu81/Assignment1.0/src/board</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.0/src/board/Board.java</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.0/src/board/NormalBoard.java</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.0/src/board/RectangleBoard.java</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment1.0/src/piece</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.0/src/piece/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.0/src/piece/Color.java</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.0/src/piece/King.java</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment1.0/src/piece/Knight.java</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.0/src/piece/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.0/src/piece/Piece.java</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.0/src/piece/Queen.java</path>
+<path
+   action="A"
+   kind="file">/cliu81/Assignment1.0/src/piece/Rook.java</path>
+</paths>
+<msg>Assignment 1.0</msg>
+</logentry>
+<logentry
+   revision="2687">
+<author>cliu81</author>
+<date>2017-01-31T20:50:30.827463Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/cliu81/grocery</path>
+<path
+   kind="dir"
+   copyfrom-path="/cliu81/grocery"
+   copyfrom-rev="2686"
+   action="A">/cliu81/shopping</path>
+</paths>
+<msg>Moved grocery to shopping for clarity</msg>
+</logentry>
+<logentry
+   revision="2685">
+<author>cliu81</author>
+<date>2017-01-31T20:49:39.892621Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/grocery/list3.txt</path>
+</paths>
+<msg>Added list of meats</msg>
+</logentry>
+<logentry
+   revision="2684">
+<author>cliu81</author>
+<date>2017-01-31T20:49:06.503895Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/grocery/list2.txt</path>
+</paths>
+<msg>Emphasize importance of carrot</msg>
+</logentry>
+<logentry
+   revision="2683">
+<author>cliu81</author>
+<date>2017-01-31T20:48:01.525591Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/grocery/list2.txt</path>
+</paths>
+<msg>Emphasize importance of carrot</msg>
+</logentry>
+<logentry
+   revision="2682">
+<author>cliu81</author>
+<date>2017-01-31T20:47:25.970515Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/grocery/list2.txt</path>
+</paths>
+<msg>Emphasize importance of carrot</msg>
+</logentry>
+<logentry
+   revision="2681">
+<author>cliu81</author>
+<date>2017-01-31T20:44:47.329362Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/grocery/list2.txt</path>
+</paths>
+<msg>Emphasize importance of carrot</msg>
+</logentry>
+<logentry
+   revision="2680">
+<author>cliu81</author>
+<date>2017-01-31T20:43:45.741828Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/grocery/list2.txt</path>
+</paths>
+<msg>Added less important vegetable</msg>
+</logentry>
+<logentry
+   revision="2678">
+<author>cliu81</author>
+<date>2017-01-31T20:43:06.742527Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/grocery/list2.txt</path>
+</paths>
+<msg>Added more important vegetable</msg>
+</logentry>
+<logentry
+   revision="2675">
+<author>cliu81</author>
+<date>2017-01-31T20:32:58.574307Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/cliu81/Assignment0</path>
+<path
+   kind="file"
+   action="A">/cliu81/Assignment0/alloc.c</path>
+</paths>
+<msg>Bring code</msg>
+</logentry>
+<logentry
+   revision="2673">
+<author>cliu81</author>
+<date>2017-01-31T20:28:16.556799Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/HW0</path>
+<path
+   action="A"
+   kind="file">/cliu81/HW0/.classpath</path>
+<path
+   action="A"
+   kind="file">/cliu81/HW0/.project</path>
+<path
+   kind="dir"
+   action="A">/cliu81/HW0/.settings</path>
+<path
+   kind="file"
+   action="A">/cliu81/HW0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="file">/cliu81/HW0/COPYING</path>
+<path
+   kind="dir"
+   action="A">/cliu81/HW0/bin</path>
+<path
+   kind="dir"
+   action="A">/cliu81/HW0/bin/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/cliu81/HW0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   kind="dir"
+   action="A">/cliu81/HW0/bin/lanSimulation/internals</path>
+<path
+   kind="file"
+   action="A">/cliu81/HW0/bin/lanSimulation/internals/Network.class</path>
+<path
+   action="A"
+   kind="file">/cliu81/HW0/bin/lanSimulation/internals/Node.class</path>
+<path
+   action="A"
+   kind="file">/cliu81/HW0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   action="A"
+   kind="dir">/cliu81/HW0/bin/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/cliu81/HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   action="A"
+   kind="file">/cliu81/HW0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   action="A"
+   kind="dir">/cliu81/HW0/doc</path>
+<path
+   action="A"
+   kind="file">/cliu81/HW0/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/cliu81/HW0/doc/README</path>
+<path
+   kind="file"
+   action="A">/cliu81/HW0/doc/RefactoringAssignment.pdf</path>
+<path
+   action="A"
+   kind="file">/cliu81/HW0/doc/toDoList</path>
+<path
+   kind="file"
+   action="A">/cliu81/HW0/expectedOutput.txt</path>
+<path
+   kind="file"
+   action="A">/cliu81/HW0/javadoc.xml</path>
+<path
+   kind="dir"
+   action="A">/cliu81/HW0/src</path>
+<path
+   kind="dir"
+   action="A">/cliu81/HW0/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/cliu81/HW0/src/lanSimulation/LANSimulation.java</path>
+<path
+   action="A"
+   kind="dir">/cliu81/HW0/src/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/cliu81/HW0/src/lanSimulation/internals/Network.java</path>
+<path
+   kind="file"
+   action="A">/cliu81/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   action="A"
+   kind="file">/cliu81/HW0/src/lanSimulation/internals/Packet.java</path>
+<path
+   action="A"
+   kind="dir">/cliu81/HW0/src/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/cliu81/HW0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   action="A"
+   kind="file">/cliu81/HW0/useOutput.txt</path>
+</paths>
+<msg>Finished HW0</msg>
+</logentry>
+<logentry
+   revision="2398">
+<author>cliu81</author>
+<date>2017-01-31T04:08:21.530923Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/grocery/list2.txt</path>
+</paths>
+<msg>Adding more vegetables</msg>
+</logentry>
+<logentry
+   revision="2396">
+<author>cliu81</author>
+<date>2017-01-31T04:07:14.335596Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/grocery/list1.txt</path>
+</paths>
+<msg>Need to buy more fruit</msg>
+</logentry>
+<logentry
+   revision="2395">
+<author>cliu81</author>
+<date>2017-01-31T04:06:00.551347Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/cliu81/grocery</path>
+<path
+   kind="file"
+   action="A">/cliu81/grocery/list1.txt</path>
+<path
+   kind="file"
+   action="A">/cliu81/grocery/list2.txt</path>
+</paths>
+<msg>importing grocery project</msg>
+</logentry>
+<logentry
+   revision="39">
+<author>root</author>
+<date>2017-01-24T19:28:02.584453Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81</path>
+</paths>
+<msg>created directory cliu81</msg>
+</logentry>
+</log>

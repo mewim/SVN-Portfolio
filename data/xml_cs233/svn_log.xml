@@ -1,0 +1,2246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="24135">
+<author>amithir2</author>
+<date>2015-12-20T21:30:28.268460Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/Lab14/grade_report_part_1.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="24134">
+<author>amithir2</author>
+<date>2015-12-20T19:19:12.784804Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/cliu81/Lab14/grade_report_part_1.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="24133">
+<author>malalur2</author>
+<date>2015-12-20T10:22:47.260497Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab14/grade_report_part_2.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="24126">
+<author>zilles</author>
+<date>2015-12-17T01:14:22.678936Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/iclicker_pts</path>
+</paths>
+</logentry>
+<logentry
+   revision="24123">
+<author>amithir2</author>
+<date>2015-12-16T18:32:25.567304Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/Lab14/grade_report_part_1.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="24122">
+<author>amithir2</author>
+<date>2015-12-16T18:23:30.957643Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/cliu81/Lab14/grade_report_part_1.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="24120">
+<author>amithir2</author>
+<date>2015-12-16T18:01:46.320056Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/Lab14/grade_report_part_2.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="24117">
+<author>amithir2</author>
+<date>2015-12-16T00:11:38.491651Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/Lab12/grade_report_part_2.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="24114">
+<author>amithir2</author>
+<date>2015-12-15T06:08:44.412544Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/Lab14/grade_report_part_1.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="24084">
+<author>malalur2</author>
+<date>2015-12-11T03:28:02.083677Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/Lab13/grade_report_part_1.txt</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab13/grade_report_part_2.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="24083">
+<author>malalur2</author>
+<date>2015-12-10T21:16:18.339603Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/Lab11/grade_report_part_1.txt</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab11/grade_report_part_2.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="24079">
+<author>malalur2</author>
+<date>2015-12-10T03:34:04.275780Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/LabSpimbot/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="24074">
+<author>zilles</author>
+<date>2015-12-09T22:00:09.717497Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/Exam/exam6mc.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="23981">
+<author>cliu81</author>
+<date>2015-12-09T01:51:51.326957Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/LabSpimbot/spimbot.s</path>
+</paths>
+<msg>spim</msg>
+</logentry>
+<logentry
+   revision="23941">
+<author>cliu81</author>
+<date>2015-12-09T01:35:24.561527Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/LabSpimbot/partners.txt</path>
+<path
+   action="M"
+   kind="file">/cliu81/LabSpimbot/spimbot.s</path>
+<path
+   action="M"
+   kind="file">/cliu81/LabSpimbot/teamname.txt</path>
+<path
+   kind="file"
+   action="M">/cliu81/LabSpimbot/writeup.txt</path>
+</paths>
+<msg>spim</msg>
+</logentry>
+<logentry
+   revision="23455">
+<author>amahmou2</author>
+<date>2015-12-07T08:20:59.155323Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/cliu81/Lab15</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab15/Makefile</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab15/main.c</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab15/pi_calc.c</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab15/pi_calc.h</path>
+</paths>
+</logentry>
+<logentry
+   revision="23072">
+<author>cliu81</author>
+<date>2015-12-06T23:08:50.046972Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab14/t6.c</path>
+</paths>
+<msg>t6 v1</msg>
+</logentry>
+<logentry
+   revision="22700">
+<author>cliu81</author>
+<date>2015-12-06T07:03:55.354846Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab14/t3.c</path>
+</paths>
+<msg>t3 v1</msg>
+</logentry>
+<logentry
+   revision="22699">
+<author>cliu81</author>
+<date>2015-12-06T07:00:47.524031Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab14/t3.c</path>
+</paths>
+<msg>t3 v1</msg>
+</logentry>
+<logentry
+   revision="22698">
+<author>cliu81</author>
+<date>2015-12-06T06:58:46.072074Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab14/t3.c</path>
+</paths>
+<msg>t3 v1</msg>
+</logentry>
+<logentry
+   revision="22694">
+<author>cliu81</author>
+<date>2015-12-06T06:52:05.465560Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab14/t5.c</path>
+</paths>
+<msg>t5 v1</msg>
+</logentry>
+<logentry
+   revision="22693">
+<author>cliu81</author>
+<date>2015-12-06T06:50:09.811732Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab14/t4.c</path>
+</paths>
+<msg>t4 v1</msg>
+</logentry>
+<logentry
+   revision="22692">
+<author>cliu81</author>
+<date>2015-12-06T06:47:38.278734Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab14/t2.c</path>
+</paths>
+<msg>t2 v1</msg>
+</logentry>
+<logentry
+   revision="22688">
+<author>cliu81</author>
+<date>2015-12-06T06:42:26.001648Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab14/t1.c</path>
+</paths>
+<msg>t1 v1</msg>
+</logentry>
+<logentry
+   revision="22685">
+<author>cliu81</author>
+<date>2015-12-06T06:38:36.012779Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab14/mandelbrot.cpp</path>
+</paths>
+<msg>mandelbrot v1</msg>
+</logentry>
+<logentry
+   revision="22464">
+<author>jbbaile2</author>
+<date>2015-12-05T23:23:31.669832Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/Lab10/grade_report_part_1.txt</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab10/grade_report_part_2.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="22046">
+<author>malalur2</author>
+<date>2015-12-03T01:07:28.842315Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/Lab9/grade_report_part_2.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="21804">
+<author>cliu81</author>
+<date>2015-12-01T21:41:12.764178Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab14/mv-mult-main.cpp</path>
+<path
+   kind="file"
+   action="M">/cliu81/Lab14/mv-mult.cpp</path>
+<path
+   kind="file"
+   action="M">/cliu81/Lab14/mv-mult.h</path>
+</paths>
+<msg>"mv-mult"</msg>
+</logentry>
+<logentry
+   revision="21512">
+<author>zilles</author>
+<date>2015-11-30T10:03:44.108257Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/Lab14</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab14/Makefile</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab14/bmp.cpp</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab14/bmp.h</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab14/declarations.h</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab14/mandelbrot-main.cpp</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab14/mandelbrot.cpp</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab14/mandelbrot.h</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab14/mv-mult-main.cpp</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab14/mv-mult.cpp</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab14/mv-mult.h</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab14/partners.txt</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab14/setup-intel.sh</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab14/t1-main.c</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab14/t1.c</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab14/t2-main.c</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab14/t2.c</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab14/t3-main.c</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab14/t3.c</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab14/t4-main.c</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab14/t4.c</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab14/t5-main.c</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab14/t5.c</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab14/t6-main.c</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab14/t6.c</path>
+</paths>
+</logentry>
+<logentry
+   revision="20879">
+<author>cliu81</author>
+<date>2015-11-26T08:51:43.177489Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab13/filter.c</path>
+</paths>
+<msg>filter test</msg>
+</logentry>
+<logentry
+   revision="20709">
+<author>amahmou2</author>
+<date>2015-11-21T09:33:10.031346Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/_shared/LabSpimbot</path>
+<path
+   action="A"
+   kind="file">/_shared/LabSpimbot/taylor.s</path>
+<path
+   kind="dir"
+   action="A">/cliu81/LabSpimbot</path>
+<path
+   kind="file"
+   action="A">/cliu81/LabSpimbot/partners.txt</path>
+<path
+   kind="file"
+   action="A">/cliu81/LabSpimbot/spimbot.s</path>
+<path
+   action="A"
+   kind="file">/cliu81/LabSpimbot/teamname.txt</path>
+<path
+   kind="file"
+   action="A">/cliu81/LabSpimbot/writeup.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="20321">
+<author>zilles</author>
+<date>2015-11-18T19:18:09.500687Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/iclicker_pts</path>
+</paths>
+</logentry>
+<logentry
+   revision="19732">
+<author>zilles</author>
+<date>2015-11-16T19:37:13.317664Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/iclicker_pts</path>
+</paths>
+</logentry>
+<logentry
+   revision="19708">
+<author>cliu81</author>
+<date>2015-11-16T16:18:33.630651Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab13/transpose.c</path>
+</paths>
+<msg>transpose.c std</msg>
+</logentry>
+<logentry
+   revision="19707">
+<author>cliu81</author>
+<date>2015-11-16T15:13:31.401422Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab13/transpose.c</path>
+</paths>
+<msg>transpose_tiled</msg>
+</logentry>
+<logentry
+   revision="19704">
+<author>amahmou2</author>
+<date>2015-11-16T08:37:58.997747Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/Lab13</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab13/Makefile</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab13/filter.c</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab13/filter.h</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab13/main-filter.c</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab13/main-transpose.c</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab13/partners.txt</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab13/transpose.c</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab13/transpose.h</path>
+</paths>
+</logentry>
+<logentry
+   revision="19687">
+<author>jbbaile2</author>
+<date>2015-11-16T04:15:21.796942Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/cliu81/Exam/Exam5</path>
+<path
+   kind="file"
+   action="A">/cliu81/Exam/Exam5/grade_report_exam_5.1.txt</path>
+<path
+   action="A"
+   kind="file">/cliu81/Exam/Exam5/question_5.1.s</path>
+</paths>
+</logentry>
+<logentry
+   revision="18885">
+<author>amithir2</author>
+<date>2015-11-13T21:45:53.347595Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/Lab12/grade_report_part_1.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="18878">
+<author>amithir2</author>
+<date>2015-11-13T21:14:35.681770Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/cliu81/Lab12/grade_report_part_1.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="18852">
+<author>amithir2</author>
+<date>2015-11-13T19:12:35.738128Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/Lab12/grade_report_part_1.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="18655">
+<author>cliu81</author>
+<date>2015-11-12T04:02:57.117172Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab12/cachesimulator.cpp</path>
+</paths>
+<msg>cache sim v.2</msg>
+</logentry>
+<logentry
+   revision="18641">
+<author>cliu81</author>
+<date>2015-11-12T03:12:04.018294Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab12/cachesimulator.cpp</path>
+</paths>
+<msg>cachesim not working</msg>
+</logentry>
+<logentry
+   revision="18539">
+<author>cliu81</author>
+<date>2015-11-11T22:38:13.081293Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab12/cacheblock.cpp</path>
+<path
+   kind="file"
+   action="M">/cliu81/Lab12/cacheconfig.cpp</path>
+<path
+   kind="file"
+   action="M">/cliu81/Lab12/utils.cpp</path>
+</paths>
+<msg>"unit_tests"</msg>
+</logentry>
+<logentry
+   revision="18453">
+<author>cliu81</author>
+<date>2015-11-11T07:31:17.268825Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab12/simplecache.cpp</path>
+</paths>
+<msg>simple cache v1</msg>
+</logentry>
+<logentry
+   revision="18056">
+<author>amahmou2</author>
+<date>2015-11-09T15:54:38.127861Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/_shared/Lab12</path>
+<path
+   kind="file"
+   action="A">/_shared/Lab12/gtest-1.7.0.tar.gz</path>
+<path
+   kind="file"
+   action="A">/_shared/Lab12/tests.tar.gz</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Lab12</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab12/Makefile</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab12/cache.cpp</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab12/cache.h</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab12/cacheblock.cpp</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab12/cacheblock.h</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab12/cacheblock_test.cpp</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab12/cacheconfig.cpp</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab12/cacheconfig.h</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab12/cacheconfig_test.cpp</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab12/cachepolicy.h</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab12/cachesimulator.cpp</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab12/cachesimulator.h</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab12/counter.h</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab12/main.cpp</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab12/memory.h</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab12/partners.txt</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab12/simplecache.cpp</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab12/simplecache.h</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab12/simplecache_main.cpp</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab12/utils.cpp</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab12/utils.h</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab12/utils_test.cpp</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab12/utils_test.h</path>
+</paths>
+</logentry>
+<logentry
+   revision="17635">
+<author>cliu81</author>
+<date>2015-11-08T22:00:48.051418Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab11/pipelined_machine.v</path>
+<path
+   kind="file"
+   action="M">/cliu81/Lab11/pipelined_machine_tb.v</path>
+</paths>
+<msg>pipelined_machine.v 0.2</msg>
+</logentry>
+<logentry
+   revision="17614">
+<author>cliu81</author>
+<date>2015-11-08T21:44:21.854532Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab11/pipelined_machine.v</path>
+</paths>
+<msg>stalling works</msg>
+</logentry>
+<logentry
+   revision="17596">
+<author>cliu81</author>
+<date>2015-11-08T21:23:33.121330Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab11/pipelined_machine.v</path>
+</paths>
+<msg>forwarding works</msg>
+</logentry>
+<logentry
+   revision="17570">
+<author>cliu81</author>
+<date>2015-11-08T21:00:00.156112Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab11/pipelined_machine.v</path>
+</paths>
+<msg>coruptted sw</msg>
+</logentry>
+<logentry
+   revision="17471">
+<author>cliu81</author>
+<date>2015-11-08T18:26:29.323822Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab11/pipelined_machine.v</path>
+</paths>
+<msg>pipelined_machine revision .1 no_hazards_or_flushing</msg>
+</logentry>
+<logentry
+   revision="17400">
+<author>cliu81</author>
+<date>2015-11-08T06:22:34.763346Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab11/pipelined_machine.v</path>
+</paths>
+<msg>pipelined_machine v0.1</msg>
+</logentry>
+<logentry
+   revision="16778">
+<author>cliu81</author>
+<date>2015-11-04T21:49:30.565906Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab11/pipelined_adding_machine.v</path>
+<path
+   action="M"
+   kind="file">/cliu81/Lab11/pipelined_adding_machine_tb.v</path>
+</paths>
+<msg>adder</msg>
+</logentry>
+<logentry
+   revision="16752">
+<author>zilles</author>
+<date>2015-11-04T19:14:35.503798Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/iclicker_pts</path>
+</paths>
+</logentry>
+<logentry
+   revision="16422">
+<author>zilles</author>
+<date>2015-11-02T19:55:48.904521Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/iclicker_pts</path>
+</paths>
+</logentry>
+<logentry
+   revision="16398">
+<author>amahmou2</author>
+<date>2015-11-02T14:09:28.514187Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/Lab11</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab11/Makefile</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab11/am_rom.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab11/flushing.data.dat</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab11/flushing.s</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab11/flushing.text.dat</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab11/forwarding.data.dat</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab11/forwarding.s</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab11/forwarding.text.dat</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab11/mips_defines.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab11/modules.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab11/mux_lib.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab11/no_hazards_or_flushing.data.dat</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab11/no_hazards_or_flushing.s</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab11/no_hazards_or_flushing.text.dat</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab11/partners.txt</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab11/pipeline_test.data.dat</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab11/pipeline_test.s</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab11/pipeline_test.text.dat</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab11/pipelined_adding_machine.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab11/pipelined_adding_machine_tb.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab11/pipelined_machine.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab11/pipelined_machine_tb.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab11/rom.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab11/stalling.data.dat</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab11/stalling.s</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab11/stalling.text.dat</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab11/things_to_add.data.dat</path>
+</paths>
+</logentry>
+<logentry
+   revision="16378">
+<author>zilles</author>
+<date>2015-11-02T02:42:29.665132Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/iclicker_pts</path>
+</paths>
+</logentry>
+<logentry
+   revision="16303">
+<author>jbbaile2</author>
+<date>2015-11-02T00:50:40.249129Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/cliu81/Exam/Exam4</path>
+<path
+   kind="file"
+   action="A">/cliu81/Exam/Exam4/grade_report_exam_4.1.txt</path>
+<path
+   kind="file"
+   action="A">/cliu81/Exam/Exam4/question_4.1.s</path>
+</paths>
+</logentry>
+<logentry
+   revision="16017">
+<author>cliu81</author>
+<date>2015-11-01T09:12:52.795020Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab10/smash.s</path>
+</paths>
+<msg>smash .12</msg>
+</logentry>
+<logentry
+   revision="16016">
+<author>cliu81</author>
+<date>2015-11-01T09:11:28.799833Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab10/smash.s</path>
+</paths>
+<msg>smash .11</msg>
+</logentry>
+<logentry
+   revision="16015">
+<author>cliu81</author>
+<date>2015-11-01T09:07:28.650018Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab10/smash.s</path>
+</paths>
+<msg>smash</msg>
+</logentry>
+<logentry
+   revision="16014">
+<author>cliu81</author>
+<date>2015-11-01T09:05:52.193258Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab10/smash.s</path>
+</paths>
+<msg>smash</msg>
+</logentry>
+<logentry
+   revision="14969">
+<author>cliu81</author>
+<date>2015-10-27T06:20:08.330632Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab10/smoosh.s</path>
+</paths>
+<msg>"smoosh.s skip unsafe fruit"</msg>
+</logentry>
+<logentry
+   revision="14961">
+<author>cliu81</author>
+<date>2015-10-27T04:45:51.454264Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab10/smoosh.s</path>
+</paths>
+<msg>"smoosh.s"</msg>
+</logentry>
+<logentry
+   revision="14949">
+<author>cliu81</author>
+<date>2015-10-27T02:43:55.179057Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab10/smoosh.s</path>
+</paths>
+<msg>"smoosh.s"</msg>
+</logentry>
+<logentry
+   revision="14858">
+<author>meenai1</author>
+<date>2015-10-26T07:48:52.932907Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab10/smoosh.s</path>
+</paths>
+</logentry>
+<logentry
+   revision="14857">
+<author>meenai1</author>
+<date>2015-10-26T07:45:46.910228Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/cliu81/Lab10/partners.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="14856">
+<author>meenai1</author>
+<date>2015-10-26T07:43:28.147809Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab10/smash.s</path>
+<path
+   action="M"
+   kind="file">/cliu81/Lab10/smoosh.s</path>
+</paths>
+</logentry>
+<logentry
+   revision="14842">
+<author>malalur2</author>
+<date>2015-10-26T06:03:26.131116Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/Lab9/grade_report_part_1.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="14832">
+<author>amahmou2</author>
+<date>2015-10-26T04:10:55.161512Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/Lab10</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab10/example.s</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab10/partners.txt</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab10/smash.s</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab10/smoosh.s</path>
+</paths>
+</logentry>
+<logentry
+   revision="14599">
+<author>cliu81</author>
+<date>2015-10-25T23:46:08.867571Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab9/machine.v</path>
+</paths>
+<msg>machine 1</msg>
+</logentry>
+<logentry
+   revision="14590">
+<author>cliu81</author>
+<date>2015-10-25T23:42:45.215262Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab9/machine.v</path>
+</paths>
+<msg>machine broken</msg>
+</logentry>
+<logentry
+   revision="14471">
+<author>cliu81</author>
+<date>2015-10-25T22:26:44.216755Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab9/cp0.v</path>
+</paths>
+<msg>cp0 v1</msg>
+</logentry>
+<logentry
+   revision="13619">
+<author>jbbaile2</author>
+<date>2015-10-21T05:19:15.936342Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/Lab8/grade_report_part_2.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="13347">
+<author>cliu81</author>
+<date>2015-10-20T04:52:34.669667Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab9/timer.v</path>
+</paths>
+<msg>timer.v v1</msg>
+</logentry>
+<logentry
+   revision="13175">
+<author>amahmou2</author>
+<date>2015-10-19T08:00:33.092976Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/cliu81/Lab9</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab9/Makefile</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab9/cp0.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab9/cp0_tb.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab9/machine.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab9/machine_tb.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab9/memory.data.dat</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab9/memory.kdata.dat</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab9/memory.ktext.dat</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab9/memory.text.dat</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab9/mips_defines.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab9/modules.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab9/mux_lib.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab9/partners.txt</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab9/rom.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab9/test.s</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab9/timer.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab9/timer_tb.v</path>
+</paths>
+</logentry>
+<logentry
+   revision="13132">
+<author>knmack2</author>
+<date>2015-10-19T01:20:32.357062Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/cliu81/Exam/Exam3.1</path>
+<path
+   kind="file"
+   action="A">/cliu81/Exam/Exam3.1/grade_report.txt</path>
+<path
+   action="A"
+   kind="file">/cliu81/Exam/Exam3.1/machine.v</path>
+</paths>
+</logentry>
+<logentry
+   revision="12946">
+<author>cliu81</author>
+<date>2015-10-18T23:01:40.153994Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab8/puzzle.s</path>
+</paths>
+<msg>puzzle.s v1</msg>
+</logentry>
+<logentry
+   revision="12678">
+<author>jbbaile2</author>
+<date>2015-10-18T09:11:38.084341Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/Lab8/grade_report_part_1.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="12305">
+<author>jbbaile2</author>
+<date>2015-10-16T09:02:56.947554Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/Lab7/grade_report_part_2.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="11677">
+<author>meenai1</author>
+<date>2015-10-13T21:35:44.742244Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab6/grade_report_part_2.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="11476">
+<author>cliu81</author>
+<date>2015-10-13T03:03:10.724959Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab8/node.s</path>
+</paths>
+<msg>node.s ver0.1</msg>
+</logentry>
+<logentry
+   revision="11313">
+<author>amahmou2</author>
+<date>2015-10-12T08:13:53.443074Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/Lab8</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab8/common.s</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab8/node.cpp</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab8/node.s</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab8/node_main.s</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab8/puzzle.cpp</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab8/puzzle.s</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab8/puzzle_main.s</path>
+</paths>
+</logentry>
+<logentry
+   revision="10545">
+<author>amithir2</author>
+<date>2015-10-11T04:37:10.555464Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/Lab2/grade_report_part_2.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="10544">
+<author>amithir2</author>
+<date>2015-10-11T04:36:02.364166Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/cliu81/Lab2/grade_report_part_2.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="10279">
+<author>jbbaile2</author>
+<date>2015-10-09T02:13:30.477008Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/Lab7/grade_report_part_1.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="10156">
+<author>cliu81</author>
+<date>2015-10-08T18:28:54.240321Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab7/puzzle.s</path>
+</paths>
+<msg>puzzle.s debugged</msg>
+</logentry>
+<logentry
+   revision="10155">
+<author>cliu81</author>
+<date>2015-10-08T18:19:01.777738Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab7/puzzle.s</path>
+</paths>
+<msg>puzzle.s debugged</msg>
+</logentry>
+<logentry
+   revision="10132">
+<author>meenai1</author>
+<date>2015-10-08T07:08:52.067289Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/Lab6/grade_report_part_2.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="10107">
+<author>cliu81</author>
+<date>2015-10-08T02:42:09.318770Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab7/puzzle.s</path>
+</paths>
+<msg>"puzzle.s w/ error"</msg>
+</logentry>
+<logentry
+   revision="10008">
+<author>cliu81</author>
+<date>2015-10-07T21:31:57.249584Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab7/char.s</path>
+</paths>
+<msg>"char.s"</msg>
+</logentry>
+<logentry
+   revision="9895">
+<author>cliu81</author>
+<date>2015-10-07T05:42:13.123478Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab7/foo.s</path>
+</paths>
+<msg>""</msg>
+</logentry>
+<logentry
+   revision="9500">
+<author>meenai1</author>
+<date>2015-10-05T17:05:33.401487Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/QtSpimExercise</path>
+<path
+   action="A"
+   kind="file">/cliu81/QtSpimExercise/max.c</path>
+<path
+   action="A"
+   kind="file">/cliu81/QtSpimExercise/max.s</path>
+<path
+   kind="file"
+   action="A">/cliu81/QtSpimExercise/max_test.s</path>
+</paths>
+</logentry>
+<logentry
+   revision="9481">
+<author>amahmou2</author>
+<date>2015-10-05T06:40:31.489481Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/Lab7</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab7/char.cpp</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab7/char.s</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab7/char_main.s</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab7/common.s</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab7/foo.cpp</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab7/foo.s</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab7/foo_main.s</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab7/puzzle.cpp</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab7/puzzle.s</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab7/puzzle_main.s</path>
+</paths>
+</logentry>
+<logentry
+   revision="9263">
+<author>cliu81</author>
+<date>2015-10-04T23:59:55.378845Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab6/fm.s</path>
+</paths>
+<msg>fm.s from last week</msg>
+</logentry>
+<logentry
+   revision="9230">
+<author>cliu81</author>
+<date>2015-10-04T23:43:35.396201Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab6/decoder.v</path>
+<path
+   action="M"
+   kind="file">/cliu81/Lab6/full_machine.v</path>
+</paths>
+<msg>addm</msg>
+</logentry>
+<logentry
+   revision="9145">
+<author>cliu81</author>
+<date>2015-10-04T22:57:23.245474Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab6/full_machine.v</path>
+</paths>
+<msg>full machine untested no addm</msg>
+</logentry>
+<logentry
+   revision="9021">
+<author>cliu81</author>
+<date>2015-10-04T21:26:55.287572Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab6/decoder.v</path>
+</paths>
+<msg>updated decoder</msg>
+</logentry>
+<logentry
+   revision="8630">
+<author>meenai1</author>
+<date>2015-10-03T03:19:09.101887Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/Lab6/grade_report_part_1.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="8147">
+<author>cliu81</author>
+<date>2015-09-30T23:35:08.219241Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab6/decoder.v</path>
+<path
+   action="M"
+   kind="file">/cliu81/Lab6/decoder_tb.v</path>
+</paths>
+<msg>fixed slt</msg>
+</logentry>
+<logentry
+   revision="8133">
+<author>cliu81</author>
+<date>2015-09-30T23:21:58.899978Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab6/decoder.v</path>
+<path
+   action="M"
+   kind="file">/cliu81/Lab6/decoder_tb.v</path>
+</paths>
+<msg>untested decoder</msg>
+</logentry>
+<logentry
+   revision="7944">
+<author>meenai1</author>
+<date>2015-09-30T04:18:22.747351Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/Lab5/grade_report_part_2.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="7742">
+<author>amahmou2</author>
+<date>2015-09-28T16:15:26.690013Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/Lab6</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab6/Makefile</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab6/all.data.dat</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab6/all.s</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab6/all.text.dat</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab6/alu32.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab6/decoder.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab6/decoder_tb.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab6/fm.s</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab6/full_machine.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab6/full_machine_tb.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab6/lwbr.data.dat</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab6/lwbr.s</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab6/lwbr.text.dat</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab6/mips_defines.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab6/mux_lib.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab6/partners.txt</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab6/rf.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab6/rom.v</path>
+</paths>
+</logentry>
+<logentry
+   revision="7232">
+<author>amithir2</author>
+<date>2015-09-26T02:08:17.947064Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/Lab3/grade_report_part_1.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="7231">
+<author>amithir2</author>
+<date>2015-09-26T02:05:09.240064Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/cliu81/Lab3/grade_report_part_1.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="7217">
+<author>amithir2</author>
+<date>2015-09-25T19:47:20.849087Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/Lab3/grade_report_part_2.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="7215">
+<author>amithir2</author>
+<date>2015-09-25T19:16:37.743290Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/Lab3/grade_report_part_1.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="7173">
+<author>tfliu2</author>
+<date>2015-09-25T01:47:16.684205Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/Lab4/grade_report_part_2.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="7172">
+<author>meenai1</author>
+<date>2015-09-25T01:47:07.291506Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/Lab5/grade_report_part_1.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="7029">
+<author>cliu81</author>
+<date>2015-09-24T03:59:17.708944Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab5/arith_machine.v</path>
+</paths>
+<msg>arith_machine 0.1 untested</msg>
+</logentry>
+<logentry
+   revision="6993">
+<author>cliu81</author>
+<date>2015-09-24T00:51:48.837611Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab5/decoder.v</path>
+<path
+   action="M"
+   kind="file">/cliu81/Lab5/decoder_tb.v</path>
+</paths>
+<msg>decoder test cases</msg>
+</logentry>
+<logentry
+   revision="6533">
+<author>cliu81</author>
+<date>2015-09-21T20:53:01.635254Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab5/decoder.v</path>
+</paths>
+<msg>decoder 0.1 untested</msg>
+</logentry>
+<logentry
+   revision="6488">
+<author>zilles</author>
+<date>2015-09-21T16:11:38.529635Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/cliu81/Exam</path>
+<path
+   kind="dir"
+   action="A">/cliu81/Exam/Exam1</path>
+<path
+   kind="file"
+   action="A">/cliu81/Exam/Exam1/grade_report_exam_1.1.txt</path>
+<path
+   action="A"
+   kind="file">/cliu81/Exam/Exam1/q1.1.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/Exam/Exam1/q1_tb.1.v</path>
+</paths>
+</logentry>
+<logentry
+   revision="6484">
+<author>amahmou2</author>
+<date>2015-09-21T08:27:17.006997Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/Lab5</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab5/Makefile</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab5/alu32.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab5/arith_machine.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab5/arith_machine_tb.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab5/decoder.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab5/decoder_tb.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab5/memory.text.dat</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab5/mips_defines.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab5/mux_lib.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab5/partners.txt</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab5/rf.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab5/rom.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab5/test_alu.s</path>
+</paths>
+</logentry>
+<logentry
+   revision="6158">
+<author>cliu81</author>
+<date>2015-09-20T23:16:49.060774Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab4/l_reader_tb.v</path>
+<path
+   action="M"
+   kind="file">/cliu81/Lab4/lol_reader_tb.v</path>
+</paths>
+<msg>update testcase for lol_reader</msg>
+</logentry>
+<logentry
+   revision="6128">
+<author>cliu81</author>
+<date>2015-09-20T22:55:37.720233Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab4/lol_reader.v</path>
+</paths>
+<msg>lol_reader untested</msg>
+</logentry>
+<logentry
+   revision="5491">
+<author>amithir2</author>
+<date>2015-09-18T21:21:16.457488Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/Lab2/grade_report_part_2.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="5450">
+<author>tfliu2</author>
+<date>2015-09-18T09:51:24.960502Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/Lab4/grade_report_part_1.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="5416">
+<author>amithir2</author>
+<date>2015-09-18T02:31:14.651983Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/Lab2/grade_report_part_1.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="5204">
+<author>cliu81</author>
+<date>2015-09-17T07:40:05.169212Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab4/rf.v</path>
+</paths>
+<msg>rf version 0.1 untested</msg>
+</logentry>
+<logentry
+   revision="4991">
+<author>zilles</author>
+<date>2015-09-16T17:55:59.150006Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/iclicker_pts</path>
+</paths>
+</logentry>
+<logentry
+   revision="4900">
+<author>cliu81</author>
+<date>2015-09-16T02:14:21.296655Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab4/rf.v</path>
+</paths>
+<msg>decoders</msg>
+</logentry>
+<logentry
+   revision="4892">
+<author>cliu81</author>
+<date>2015-09-16T01:47:55.765478Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab4/rf.v</path>
+</paths>
+<msg>decoder4</msg>
+</logentry>
+<logentry
+   revision="4690">
+<author>cliu81</author>
+<date>2015-09-15T03:17:59.396580Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab4/l_reader.v</path>
+<path
+   action="M"
+   kind="file">/cliu81/Lab4/lol_reader.v</path>
+</paths>
+<msg>l_reader</msg>
+</logentry>
+<logentry
+   revision="4574">
+<author>zilles</author>
+<date>2015-09-14T18:51:35.221582Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/iclicker_pts</path>
+</paths>
+</logentry>
+<logentry
+   revision="4551">
+<author>jbbaile2</author>
+<date>2015-09-14T17:03:50.848354Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/cliu81/WordReaderExercise</path>
+<path
+   kind="file"
+   action="A">/cliu81/WordReaderExercise/i_reader.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/WordReaderExercise/i_reader_tb.v</path>
+</paths>
+</logentry>
+<logentry
+   revision="4549">
+<author>amahmou2</author>
+<date>2015-09-14T07:19:30.186413Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/cliu81/Lab4</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab4/Makefile</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab4/l_reader.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab4/l_reader_tb.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab4/lol_reader.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab4/lol_reader_tb.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab4/mux_lib.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab4/partners.txt</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab4/rf.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab4/rf_tb.v</path>
+</paths>
+</logentry>
+<logentry
+   revision="4135">
+<author>cliu81</author>
+<date>2015-09-13T19:47:27.273581Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab3/alu1.v</path>
+<path
+   action="M"
+   kind="file">/cliu81/Lab3/alu1_tb.v</path>
+<path
+   action="M"
+   kind="file">/cliu81/Lab3/alu32.v</path>
+<path
+   action="M"
+   kind="file">/cliu81/Lab3/alu32_tb.v</path>
+<path
+   kind="file"
+   action="M">/cliu81/Lab3/generator.cpp</path>
+</paths>
+<msg>3.2 submission 1</msg>
+</logentry>
+<logentry
+   revision="3772">
+<author>amithir2</author>
+<date>2015-09-11T22:18:38.851329Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/Lab1/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="3764">
+<author>amithir2</author>
+<date>2015-09-11T21:29:49.157459Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/cliu81/Lab1/grade_report_part_1.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="3446">
+<author>cliu81</author>
+<date>2015-09-10T15:57:09.814641Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/Lab3/logicunit.v</path>
+<path
+   action="M"
+   kind="file">/cliu81/Lab3/logicunit_tb.v</path>
+<path
+   action="M"
+   kind="file">/cliu81/Lab3/mux.v</path>
+</paths>
+<msg>part 1 submission 1</msg>
+</logentry>
+<logentry
+   revision="2970">
+<author>amahmou2</author>
+<date>2015-09-07T15:47:58.048947Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/Lab3</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab3/Makefile</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab3/alu1.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab3/alu1_tb.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab3/alu32.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab3/alu32_tb.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab3/control.filter</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab3/example_generator.cpp</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab3/example_generator.py</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab3/generator.cpp</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab3/generator.py</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab3/logicunit.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab3/logicunit_tb.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab3/mux.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab3/mux4_tb.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab3/partners.txt</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab3/zero_checker.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab3/zero_checker_tb.v</path>
+</paths>
+</logentry>
+<logentry
+   revision="2587">
+<author>amithir2</author>
+<date>2015-09-05T08:48:47.859310Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/Lab1/grade_report_part_1.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="1388">
+<author>zilles</author>
+<date>2015-08-31T19:37:02.736428Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/iclicker_pts</path>
+</paths>
+</logentry>
+<logentry
+   revision="1371">
+<author>cliu81</author>
+<date>2015-08-31T17:19:02.419430Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab2/countOnes.cpp</path>
+<path
+   kind="file"
+   action="M">/cliu81/Lab2/extractMessage.cpp</path>
+<path
+   kind="file"
+   action="M">/cliu81/Lab2/steering.v</path>
+</paths>
+<msg>Lab2 Submission 1</msg>
+</logentry>
+<logentry
+   revision="1370">
+<author>zilles</author>
+<date>2015-08-31T17:14:53.520966Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/cliu81/Lab2</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab2/Makefile</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab2/bmp.cpp</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab2/bmp.h</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab2/countOnes.cpp</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab2/countOnes.h</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab2/countOnes_main.cpp</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab2/example.cpp</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab2/extractMessage.cpp</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab2/extractMessage.h</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab2/extractMessage_main.cpp</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab2/partners.txt</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab2/steering.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab2/steering_tb.v</path>
+</paths>
+</logentry>
+<logentry
+   revision="1216">
+<author>zilles</author>
+<date>2015-08-28T18:29:24.832528Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/iclicker_pts</path>
+</paths>
+</logentry>
+<logentry
+   revision="1093">
+<author>zilles</author>
+<date>2015-08-26T17:58:20.292761Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/iclicker_pts</path>
+</paths>
+</logentry>
+<logentry
+   revision="1066">
+<author>zilles</author>
+<date>2015-08-26T13:11:54.016769Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/iclicker_pts</path>
+</paths>
+</logentry>
+<logentry
+   revision="832">
+<author>cliu81</author>
+<date>2015-08-25T19:44:43.518601Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/Lab1/blackbox.tt</path>
+<path
+   kind="file"
+   action="M">/cliu81/Lab1/blackbox_tb.v</path>
+<path
+   kind="file"
+   action="M">/cliu81/Lab1/sc2_block.v</path>
+<path
+   kind="file"
+   action="M">/cliu81/Lab1/sc2_block_tb.v</path>
+</paths>
+<msg>Lab 1, Submisson 1</msg>
+</logentry>
+<logentry
+   revision="806">
+<author>jbbaile2</author>
+<date>2015-08-25T19:20:52.714784Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/Lab1</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab1/blackbox.tt</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab1/blackbox.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab1/blackbox_tb.v</path>
+<path
+   action="A"
+   kind="file">/cliu81/Lab1/partners.txt</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab1/sc2_block.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab1/sc2_block_tb.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab1/sc_block.v</path>
+<path
+   kind="file"
+   action="A">/cliu81/Lab1/sc_block_tb.v</path>
+</paths>
+<msg>add Lab1 for cliu81</msg>
+</logentry>
+<logentry
+   revision="428">
+<author>root</author>
+<date>2015-08-24T14:15:10.450918Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81</path>
+</paths>
+<msg>created directory cliu81</msg>
+</logentry>
+</log>

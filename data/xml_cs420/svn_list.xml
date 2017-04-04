@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/fa15-cs420/cliu81">
+<entry
+   kind="dir">
+<name>hw</name>
+<commit
+   revision="1430">
+<author>cliu81</author>
+<date>2015-12-09T22:59:05.290934Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw/cliu81_hw1.pdf</name>
+<size>63536</size>
+<commit
+   revision="511">
+<author>cliu81</author>
+<date>2015-09-11T21:59:36.588371Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw/cliu81_hw2.pdf</name>
+<size>86739</size>
+<commit
+   revision="808">
+<author>cliu81</author>
+<date>2015-10-01T00:36:34.141997Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw/cliu81_hw3.pdf</name>
+<size>142275</size>
+<commit
+   revision="1051">
+<author>cliu81</author>
+<date>2015-10-28T21:56:49.555788Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>hw/cliu81_hw4.pdf</name>
+<size>252742</size>
+<commit
+   revision="1430">
+<author>cliu81</author>
+<date>2015-12-09T22:59:05.290934Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>mp0</name>
+<commit
+   revision="285">
+<author>cliu81</author>
+<date>2015-09-04T05:16:37.095303Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mp0/cliu81_mp0.txt</name>
+<size>3852</size>
+<commit
+   revision="285">
+<author>cliu81</author>
+<date>2015-09-04T05:16:37.095303Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mp0/mp0_1a.c</name>
+<size>1898</size>
+<commit
+   revision="267">
+<author>cliu81</author>
+<date>2015-09-04T03:43:49.277156Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mp0/mp0_1b.c</name>
+<size>1999</size>
+<commit
+   revision="267">
+<author>cliu81</author>
+<date>2015-09-04T03:43:49.277156Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>mp1</name>
+<commit
+   revision="664">
+<author>cliu81</author>
+<date>2015-09-25T20:10:36.634686Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mp1/cliu81_mp1.pdf</name>
+<size>52882</size>
+<commit
+   revision="664">
+<author>cliu81</author>
+<date>2015-09-25T20:10:36.634686Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mp1/mmm_tiled.c</name>
+<size>2287</size>
+<commit
+   revision="628">
+<author>cliu81</author>
+<date>2015-09-25T07:18:11.148045Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mp1/mmm_urjam.c</name>
+<size>2204</size>
+<commit
+   revision="558">
+<author>cliu81</author>
+<date>2015-09-23T03:42:34.048324Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>mp2</name>
+<commit
+   revision="913">
+<author>cliu81</author>
+<date>2015-10-21T03:49:32.729770Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mp2/cliu81_mp2.pdf</name>
+<size>369901</size>
+<commit
+   revision="913">
+<author>cliu81</author>
+<date>2015-10-21T03:49:32.729770Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mp2/gauss_seidel_parallel.c</name>
+<size>4487</size>
+<commit
+   revision="913">
+<author>cliu81</author>
+<date>2015-10-21T03:49:32.729770Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>mp3</name>
+<commit
+   revision="1134">
+<author>cliu81</author>
+<date>2015-11-12T18:06:06.437896Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mp3/balance.c</name>
+<size>3995</size>
+<commit
+   revision="1112">
+<author>cliu81</author>
+<date>2015-11-11T03:04:54.817058Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mp3/cliu81_mp3.pdf</name>
+<size>365561</size>
+<commit
+   revision="1134">
+<author>cliu81</author>
+<date>2015-11-12T18:06:06.437896Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mp3/recd.c</name>
+<size>2120</size>
+<commit
+   revision="1089">
+<author>cliu81</author>
+<date>2015-11-09T04:46:09.028341Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mp3/tred.c</name>
+<size>3180</size>
+<commit
+   revision="1089">
+<author>cliu81</author>
+<date>2015-11-09T04:46:09.028341Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>mp4</name>
+<commit
+   revision="1427">
+<author>cliu81</author>
+<date>2015-12-09T22:47:35.591534Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mp4/cliu81_mp4.pdf</name>
+<size>49317</size>
+<commit
+   revision="1427">
+<author>cliu81</author>
+<date>2015-12-09T22:47:35.591534Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mp4/gauss_jacobi_hyb.c</name>
+<size>5012</size>
+<commit
+   revision="1333">
+<author>cliu81</author>
+<date>2015-12-08T06:10:03.186983Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mp4/jacobi_hyb.c</name>
+<size>4837</size>
+<commit
+   revision="1338">
+<author>cliu81</author>
+<date>2015-12-08T20:38:39.797727Z</date>
+</commit>
+</entry>
+</list>
+</lists>

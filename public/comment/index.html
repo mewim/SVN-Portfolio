@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comment</title>
+    <!-- jQuery 3 -->
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+
+    <!-- jQuery UI -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/base/jquery-ui.css"
+          type="text/css">
+
+    <!-- Bootstrap 3 -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+            integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+            crossorigin="anonymous"></script>
+
+    <!-- Font Awesome Icons -->
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- moment.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.17.0/moment.min.js"></script>
+
+    <!-- loader -->
+    <link rel="stylesheet" href="/assets/css/loader.css"/>
+</head>
+<body>
+<!-- Navigation -->
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation" style="margin-bottom: 0">
+    <!-- Header -->
+    <div class="navbar-header">
+        <div class="navbar-header">
+            <ul class="nav navbar-nav">
+                <li><a class="fa fa-lg fa-arrow-left" aria-hidden="true" onclick="window.history.back()"></a></li>
+            </ul>
+        </div>
+        <a class="navbar-brand" href="/">SVN Portfolio</a>
+    </div>
+    <!-- End Header -->
+</nav>
+<!-- End Navigation -->
+
+<!-- page-wrapper -->
+<div id="page-wrapper" style="margin-top: 90px; margin-bottom: 50px">
+
+    <div class="container">
+        <!-- row -->
+        <div class="row">
+            <div class="col-lg-12">
+                <!-- h1 -->
+                <h1 class="page-header" id="title">Comments for
+                    <span id="path">Loading...</span>
+                    <br>
+                    <button type="button" class="btn btn-primary" onclick="new_comment()">
+                        <i class="fa fa-comment" aria-hidden="true"></i>
+                        Write a New Comment
+                    </button>
+                    <button id="reload_button" type="button" class="btn btn-success pull-right" style="margin-left: 8px"
+                            onclick="reload()">
+                        <i class="fa fa-refresh" aria-hidden="true"></i>
+                    </button>
+                    <!-- portfolio_select -->
+                    <select class="form-control pull-right" style="width: 20%" id="portfolio_select"
+                            onchange="sort_comments()">
+                        <option value="0" selected>Date: Earliest First</option>
+                        <option value="1">Date: Latest First</option>
+                        <option value="2">Votes: Ascending</option>
+                        <option value="3">Votes: Descending</option>
+                        <option value="4">Subcomments: Ascending</option>
+                        <option value="5">Subcomments: Descending</option>
+                    </select>
+                    <!-- End portfolio_select -->
+                </h1>
+                <!-- End h1 -->
+            </div>
+        </div>
+        <!-- End row -->
+
+        <div id="comment_container"></div>
+
+        <!-- Modal -->
+        <div class="modal fade" id="write_comment" tabindex="-1" role="dialog" style="display: none;">
+            <!-- modal-dialog -->
+            <div class="modal-dialog" role="document" style="width: 75%;">
+                <!-- modal-content -->
+                <div class="modal-content">
+                    <!-- modal-header -->
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                                aria-hidden="true">×</span></button>
+                        <h4 class="modal-title" id="myModalLabel">Comment</h4>
+                    </div>
+                    <!-- End modal-header -->
+
+                    <!-- modal-body -->
+                    <div class="modal-body">
+                        <div id="info">
+                            <div class="alert alert-info"><i class="fa fa-info-circle"></i> You can optionally attach an
+                                image to your comment (Max Size: 400KiB).
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <textarea class="form-control" rows="20" id="comment"
+                                      placeholder="Enter your comment here..."></textarea>
+                        </div>
+                        <div class="form-group">
+                            <input class="form-control" id="username" placeholder="Name (optional)">
+                        </div>
+                        <div class="input-group">
+                            <!-- Cite: http://stackoverflow.com/questions/11235206/twitter-bootstrap-form-file-element-upload-button -->
+                            <span class="input-group-btn">
+                            <span class="btn btn-primary"
+                                  onclick="$(this).parent().find('input[type=file]').click();">Browse Image
+                            </span>
+                            <input name="uploaded_file" id="image_upload"
+                                   onchange="$(this).parent().parent().find('.form-control').html($(this).val().split(/[\\|/]/).pop());"
+                                   style="display: none;" type="file" accept="image/*">
+                            </span>
+                            <span class="form-control" id="filename"></span>
+                        </div>
+                    </div>
+                    <!-- End modal-body -->
+
+                    <!-- modal-footer -->
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-info" onclick="reset()">Reset</button>
+                        <button type="button" class="btn btn-success" onclick="submit()">Submit</button>
+                    </div>
+                    <!-- End modal-footer -->
+                </div>
+                <!-- End modal-content -->
+            </div>
+            <!-- End modal-dialog -->
+        </div>
+        <!-- End Modal -->
+    </div>
+</div>
+<!-- customized javascript -->
+<script src="/assets/js/comment/data.js"></script>
+<script src="/assets/js/comment/ajax.js"></script>
+<script src="/assets/js/comment/ui.js"></script>
+</body>
+</html>
+

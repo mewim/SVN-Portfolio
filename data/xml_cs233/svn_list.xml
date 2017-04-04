@@ -1,0 +1,2703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/fa15-cs233/cliu81">
+<entry
+   kind="dir">
+<name>Exam</name>
+<commit
+   revision="24074">
+<author>zilles</author>
+<date>2015-12-09T22:00:09.717497Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Exam/Exam1</name>
+<commit
+   revision="6488">
+<author>zilles</author>
+<date>2015-09-21T16:11:38.529635Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Exam/Exam1/grade_report_exam_1.1.txt</name>
+<size>247</size>
+<commit
+   revision="6488">
+<author>zilles</author>
+<date>2015-09-21T16:11:38.529635Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Exam/Exam1/q1.1.v</name>
+<size>1161</size>
+<commit
+   revision="6488">
+<author>zilles</author>
+<date>2015-09-21T16:11:38.529635Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Exam/Exam1/q1_tb.1.v</name>
+<size>1673</size>
+<commit
+   revision="6488">
+<author>zilles</author>
+<date>2015-09-21T16:11:38.529635Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Exam/Exam3.1</name>
+<commit
+   revision="13132">
+<author>knmack2</author>
+<date>2015-10-19T01:20:32.357062Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Exam/Exam3.1/grade_report.txt</name>
+<size>1736</size>
+<commit
+   revision="13132">
+<author>knmack2</author>
+<date>2015-10-19T01:20:32.357062Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Exam/Exam3.1/machine.v</name>
+<size>3874</size>
+<commit
+   revision="13132">
+<author>knmack2</author>
+<date>2015-10-19T01:20:32.357062Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Exam/Exam4</name>
+<commit
+   revision="16303">
+<author>jbbaile2</author>
+<date>2015-11-02T00:50:40.249129Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Exam/Exam4/grade_report_exam_4.1.txt</name>
+<size>312</size>
+<commit
+   revision="16303">
+<author>jbbaile2</author>
+<date>2015-11-02T00:50:40.249129Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Exam/Exam4/question_4.1.s</name>
+<size>753</size>
+<commit
+   revision="16303">
+<author>jbbaile2</author>
+<date>2015-11-02T00:50:40.249129Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Exam/Exam5</name>
+<commit
+   revision="19687">
+<author>jbbaile2</author>
+<date>2015-11-16T04:15:21.796942Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Exam/Exam5/grade_report_exam_5.1.txt</name>
+<size>312</size>
+<commit
+   revision="19687">
+<author>jbbaile2</author>
+<date>2015-11-16T04:15:21.796942Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Exam/Exam5/question_5.1.s</name>
+<size>1871</size>
+<commit
+   revision="19687">
+<author>jbbaile2</author>
+<date>2015-11-16T04:15:21.796942Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Exam/exam6mc.txt</name>
+<size>94</size>
+<commit
+   revision="24074">
+<author>zilles</author>
+<date>2015-12-09T22:00:09.717497Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Lab1</name>
+<commit
+   revision="3772">
+<author>amithir2</author>
+<date>2015-09-11T22:18:38.851329Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab1/blackbox.tt</name>
+<size>117</size>
+<commit
+   revision="832">
+<author>cliu81</author>
+<date>2015-08-25T19:44:43.518601Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab1/blackbox.v</name>
+<size>801</size>
+<commit
+   revision="806">
+<author>jbbaile2</author>
+<date>2015-08-25T19:20:52.714784Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab1/blackbox_tb.v</name>
+<size>831</size>
+<commit
+   revision="832">
+<author>cliu81</author>
+<date>2015-08-25T19:44:43.518601Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab1/grade_report.txt</name>
+<size>611</size>
+<commit
+   revision="3772">
+<author>amithir2</author>
+<date>2015-09-11T22:18:38.851329Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab1/partners.txt</name>
+<size>7</size>
+<commit
+   revision="806">
+<author>jbbaile2</author>
+<date>2015-08-25T19:20:52.714784Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab1/sc2_block.v</name>
+<size>300</size>
+<commit
+   revision="832">
+<author>cliu81</author>
+<date>2015-08-25T19:44:43.518601Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab1/sc2_block_tb.v</name>
+<size>1340</size>
+<commit
+   revision="832">
+<author>cliu81</author>
+<date>2015-08-25T19:44:43.518601Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab1/sc_block.v</name>
+<size>384</size>
+<commit
+   revision="806">
+<author>jbbaile2</author>
+<date>2015-08-25T19:20:52.714784Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab1/sc_block_tb.v</name>
+<size>1717</size>
+<commit
+   revision="806">
+<author>jbbaile2</author>
+<date>2015-08-25T19:20:52.714784Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Lab10</name>
+<commit
+   revision="22464">
+<author>jbbaile2</author>
+<date>2015-12-05T23:23:31.669832Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab10/example.s</name>
+<size>2700</size>
+<commit
+   revision="14832">
+<author>amahmou2</author>
+<date>2015-10-26T04:10:55.161512Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab10/grade_report_part_1.txt</name>
+<size>135</size>
+<commit
+   revision="22464">
+<author>jbbaile2</author>
+<date>2015-12-05T23:23:31.669832Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab10/grade_report_part_2.txt</name>
+<size>133</size>
+<commit
+   revision="22464">
+<author>jbbaile2</author>
+<date>2015-12-05T23:23:31.669832Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab10/smash.s</name>
+<size>6536</size>
+<commit
+   revision="16017">
+<author>cliu81</author>
+<date>2015-11-01T09:12:52.795020Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab10/smoosh.s</name>
+<size>2454</size>
+<commit
+   revision="14969">
+<author>cliu81</author>
+<date>2015-10-27T06:20:08.330632Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Lab11</name>
+<commit
+   revision="24083">
+<author>malalur2</author>
+<date>2015-12-10T21:16:18.339603Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/Makefile</name>
+<size>1943</size>
+<commit
+   revision="16398">
+<author>amahmou2</author>
+<date>2015-11-02T14:09:28.514187Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/am_rom.v</name>
+<size>879</size>
+<commit
+   revision="16398">
+<author>amahmou2</author>
+<date>2015-11-02T14:09:28.514187Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/flushing.data.dat</name>
+<size>57</size>
+<commit
+   revision="16398">
+<author>amahmou2</author>
+<date>2015-11-02T14:09:28.514187Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/flushing.s</name>
+<size>974</size>
+<commit
+   revision="16398">
+<author>amahmou2</author>
+<date>2015-11-02T14:09:28.514187Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/flushing.text.dat</name>
+<size>195</size>
+<commit
+   revision="16398">
+<author>amahmou2</author>
+<date>2015-11-02T14:09:28.514187Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/forwarding.data.dat</name>
+<size>57</size>
+<commit
+   revision="16398">
+<author>amahmou2</author>
+<date>2015-11-02T14:09:28.514187Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/forwarding.s</name>
+<size>819</size>
+<commit
+   revision="16398">
+<author>amahmou2</author>
+<date>2015-11-02T14:09:28.514187Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/forwarding.text.dat</name>
+<size>140</size>
+<commit
+   revision="16398">
+<author>amahmou2</author>
+<date>2015-11-02T14:09:28.514187Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/grade_report_part_1.txt</name>
+<size>520</size>
+<commit
+   revision="24083">
+<author>malalur2</author>
+<date>2015-12-10T21:16:18.339603Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/grade_report_part_2.txt</name>
+<size>5720</size>
+<commit
+   revision="24083">
+<author>malalur2</author>
+<date>2015-12-10T21:16:18.339603Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/mips_defines.v</name>
+<size>7379</size>
+<commit
+   revision="16398">
+<author>amahmou2</author>
+<date>2015-11-02T14:09:28.514187Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/modules.v</name>
+<size>4231</size>
+<commit
+   revision="16398">
+<author>amahmou2</author>
+<date>2015-11-02T14:09:28.514187Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/mux_lib.v</name>
+<size>2784</size>
+<commit
+   revision="16398">
+<author>amahmou2</author>
+<date>2015-11-02T14:09:28.514187Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/no_hazards_or_flushing.data.dat</name>
+<size>57</size>
+<commit
+   revision="16398">
+<author>amahmou2</author>
+<date>2015-11-02T14:09:28.514187Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/no_hazards_or_flushing.s</name>
+<size>680</size>
+<commit
+   revision="16398">
+<author>amahmou2</author>
+<date>2015-11-02T14:09:28.514187Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/no_hazards_or_flushing.text.dat</name>
+<size>140</size>
+<commit
+   revision="16398">
+<author>amahmou2</author>
+<date>2015-11-02T14:09:28.514187Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/partners.txt</name>
+<size>7</size>
+<commit
+   revision="16398">
+<author>amahmou2</author>
+<date>2015-11-02T14:09:28.514187Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/pipeline_test.data.dat</name>
+<size>57</size>
+<commit
+   revision="16398">
+<author>amahmou2</author>
+<date>2015-11-02T14:09:28.514187Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/pipeline_test.s</name>
+<size>1058</size>
+<commit
+   revision="16398">
+<author>amahmou2</author>
+<date>2015-11-02T14:09:28.514187Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/pipeline_test.text.dat</name>
+<size>242</size>
+<commit
+   revision="16398">
+<author>amahmou2</author>
+<date>2015-11-02T14:09:28.514187Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/pipelined_adding_machine.v</name>
+<size>606</size>
+<commit
+   revision="16778">
+<author>cliu81</author>
+<date>2015-11-04T21:49:30.565906Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/pipelined_adding_machine_tb.v</name>
+<size>511</size>
+<commit
+   revision="16778">
+<author>cliu81</author>
+<date>2015-11-04T21:49:30.565906Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/pipelined_machine.v</name>
+<size>3792</size>
+<commit
+   revision="17635">
+<author>cliu81</author>
+<date>2015-11-08T22:00:48.051418Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/pipelined_machine_tb.v</name>
+<size>1458</size>
+<commit
+   revision="17635">
+<author>cliu81</author>
+<date>2015-11-08T22:00:48.051418Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/rom.v</name>
+<size>2979</size>
+<commit
+   revision="16398">
+<author>amahmou2</author>
+<date>2015-11-02T14:09:28.514187Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/stalling.data.dat</name>
+<size>57</size>
+<commit
+   revision="16398">
+<author>amahmou2</author>
+<date>2015-11-02T14:09:28.514187Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/stalling.s</name>
+<size>669</size>
+<commit
+   revision="16398">
+<author>amahmou2</author>
+<date>2015-11-02T14:09:28.514187Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/stalling.text.dat</name>
+<size>103</size>
+<commit
+   revision="16398">
+<author>amahmou2</author>
+<date>2015-11-02T14:09:28.514187Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab11/things_to_add.data.dat</name>
+<size>159</size>
+<commit
+   revision="16398">
+<author>amahmou2</author>
+<date>2015-11-02T14:09:28.514187Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Lab12</name>
+<commit
+   revision="24117">
+<author>amithir2</author>
+<date>2015-12-16T00:11:38.491651Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab12/Makefile</name>
+<size>2167</size>
+<commit
+   revision="18056">
+<author>amahmou2</author>
+<date>2015-11-09T15:54:38.127861Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab12/cache.cpp</name>
+<size>834</size>
+<commit
+   revision="18056">
+<author>amahmou2</author>
+<date>2015-11-09T15:54:38.127861Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab12/cache.h</name>
+<size>479</size>
+<commit
+   revision="18056">
+<author>amahmou2</author>
+<date>2015-11-09T15:54:38.127861Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab12/cacheblock.cpp</name>
+<size>311</size>
+<commit
+   revision="18539">
+<author>cliu81</author>
+<date>2015-11-11T22:38:13.081293Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab12/cacheblock.h</name>
+<size>1893</size>
+<commit
+   revision="18056">
+<author>amahmou2</author>
+<date>2015-11-09T15:54:38.127861Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab12/cacheblock_test.cpp</name>
+<size>258</size>
+<commit
+   revision="18056">
+<author>amahmou2</author>
+<date>2015-11-09T15:54:38.127861Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab12/cacheconfig.cpp</name>
+<size>546</size>
+<commit
+   revision="18539">
+<author>cliu81</author>
+<date>2015-11-11T22:38:13.081293Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab12/cacheconfig.h</name>
+<size>748</size>
+<commit
+   revision="18056">
+<author>amahmou2</author>
+<date>2015-11-09T15:54:38.127861Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab12/cacheconfig_test.cpp</name>
+<size>259</size>
+<commit
+   revision="18056">
+<author>amahmou2</author>
+<date>2015-11-09T15:54:38.127861Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab12/cachepolicy.h</name>
+<size>396</size>
+<commit
+   revision="18056">
+<author>amahmou2</author>
+<date>2015-11-09T15:54:38.127861Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab12/cachesimulator.cpp</name>
+<size>3992</size>
+<commit
+   revision="18655">
+<author>cliu81</author>
+<date>2015-11-12T04:02:57.117172Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab12/cachesimulator.h</name>
+<size>880</size>
+<commit
+   revision="18056">
+<author>amahmou2</author>
+<date>2015-11-09T15:54:38.127861Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab12/counter.h</name>
+<size>355</size>
+<commit
+   revision="18056">
+<author>amahmou2</author>
+<date>2015-11-09T15:54:38.127861Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab12/grade_report_part_1.txt</name>
+<size>179</size>
+<commit
+   revision="18885">
+<author>amithir2</author>
+<date>2015-11-13T21:45:53.347595Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab12/grade_report_part_2.txt</name>
+<size>1145</size>
+<commit
+   revision="24117">
+<author>amithir2</author>
+<date>2015-12-16T00:11:38.491651Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab12/main.cpp</name>
+<size>2926</size>
+<commit
+   revision="18056">
+<author>amahmou2</author>
+<date>2015-11-09T15:54:38.127861Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab12/memory.h</name>
+<size>2091</size>
+<commit
+   revision="18056">
+<author>amahmou2</author>
+<date>2015-11-09T15:54:38.127861Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab12/partners.txt</name>
+<size>7</size>
+<commit
+   revision="18056">
+<author>amahmou2</author>
+<date>2015-11-09T15:54:38.127861Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab12/simplecache.cpp</name>
+<size>812</size>
+<commit
+   revision="18453">
+<author>cliu81</author>
+<date>2015-11-11T07:31:17.268825Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab12/simplecache.h</name>
+<size>1063</size>
+<commit
+   revision="18056">
+<author>amahmou2</author>
+<date>2015-11-09T15:54:38.127861Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab12/simplecache_main.cpp</name>
+<size>607</size>
+<commit
+   revision="18056">
+<author>amahmou2</author>
+<date>2015-11-09T15:54:38.127861Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab12/utils.cpp</name>
+<size>619</size>
+<commit
+   revision="18539">
+<author>cliu81</author>
+<date>2015-11-11T22:38:13.081293Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab12/utils.h</name>
+<size>554</size>
+<commit
+   revision="18056">
+<author>amahmou2</author>
+<date>2015-11-09T15:54:38.127861Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab12/utils_test.cpp</name>
+<size>743</size>
+<commit
+   revision="18056">
+<author>amahmou2</author>
+<date>2015-11-09T15:54:38.127861Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab12/utils_test.h</name>
+<size>423</size>
+<commit
+   revision="18056">
+<author>amahmou2</author>
+<date>2015-11-09T15:54:38.127861Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Lab13</name>
+<commit
+   revision="24084">
+<author>malalur2</author>
+<date>2015-12-11T03:28:02.083677Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab13/Makefile</name>
+<size>583</size>
+<commit
+   revision="19704">
+<author>amahmou2</author>
+<date>2015-11-16T08:37:58.997747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab13/filter.c</name>
+<size>1276</size>
+<commit
+   revision="20879">
+<author>cliu81</author>
+<date>2015-11-26T08:51:43.177489Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab13/filter.h</name>
+<size>498</size>
+<commit
+   revision="19704">
+<author>amahmou2</author>
+<date>2015-11-16T08:37:58.997747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab13/grade_report_part_1.txt</name>
+<size>128</size>
+<commit
+   revision="24084">
+<author>malalur2</author>
+<date>2015-12-11T03:28:02.083677Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab13/grade_report_part_2.txt</name>
+<size>171</size>
+<commit
+   revision="24084">
+<author>malalur2</author>
+<date>2015-12-11T03:28:02.083677Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab13/main-filter.c</name>
+<size>3817</size>
+<commit
+   revision="19704">
+<author>amahmou2</author>
+<date>2015-11-16T08:37:58.997747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab13/main-transpose.c</name>
+<size>1506</size>
+<commit
+   revision="19704">
+<author>amahmou2</author>
+<date>2015-11-16T08:37:58.997747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab13/partners.txt</name>
+<size>7</size>
+<commit
+   revision="19704">
+<author>amahmou2</author>
+<date>2015-11-16T08:37:58.997747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab13/transpose.c</name>
+<size>573</size>
+<commit
+   revision="19708">
+<author>cliu81</author>
+<date>2015-11-16T16:18:33.630651Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab13/transpose.h</name>
+<size>171</size>
+<commit
+   revision="19704">
+<author>amahmou2</author>
+<date>2015-11-16T08:37:58.997747Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Lab14</name>
+<commit
+   revision="24135">
+<author>amithir2</author>
+<date>2015-12-20T21:30:28.268460Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab14/Makefile</name>
+<size>3057</size>
+<commit
+   revision="21512">
+<author>zilles</author>
+<date>2015-11-30T10:03:44.108257Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab14/bmp.cpp</name>
+<size>4554</size>
+<commit
+   revision="21512">
+<author>zilles</author>
+<date>2015-11-30T10:03:44.108257Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab14/bmp.h</name>
+<size>5280</size>
+<commit
+   revision="21512">
+<author>zilles</author>
+<date>2015-11-30T10:03:44.108257Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab14/declarations.h</name>
+<size>441</size>
+<commit
+   revision="21512">
+<author>zilles</author>
+<date>2015-11-30T10:03:44.108257Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab14/grade_report_part_1.txt</name>
+<size>136</size>
+<commit
+   revision="24135">
+<author>amithir2</author>
+<date>2015-12-20T21:30:28.268460Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab14/grade_report_part_2.txt</name>
+<size>519</size>
+<commit
+   revision="24133">
+<author>malalur2</author>
+<date>2015-12-20T10:22:47.260497Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab14/mandelbrot-main.cpp</name>
+<size>2507</size>
+<commit
+   revision="21512">
+<author>zilles</author>
+<date>2015-11-30T10:03:44.108257Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab14/mandelbrot.cpp</name>
+<size>1764</size>
+<commit
+   revision="22685">
+<author>cliu81</author>
+<date>2015-12-06T06:38:36.012779Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab14/mandelbrot.h</name>
+<size>483</size>
+<commit
+   revision="21512">
+<author>zilles</author>
+<date>2015-11-30T10:03:44.108257Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab14/mv-mult-main.cpp</name>
+<size>2179</size>
+<commit
+   revision="21804">
+<author>cliu81</author>
+<date>2015-12-01T21:41:12.764178Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab14/mv-mult.cpp</name>
+<size>1388</size>
+<commit
+   revision="21804">
+<author>cliu81</author>
+<date>2015-12-01T21:41:12.764178Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab14/mv-mult.h</name>
+<size>142</size>
+<commit
+   revision="21804">
+<author>cliu81</author>
+<date>2015-12-01T21:41:12.764178Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab14/partners.txt</name>
+<size>7</size>
+<commit
+   revision="21512">
+<author>zilles</author>
+<date>2015-11-30T10:03:44.108257Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab14/setup-intel.sh</name>
+<size>168</size>
+<commit
+   revision="21512">
+<author>zilles</author>
+<date>2015-11-30T10:03:44.108257Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab14/t1-main.c</name>
+<size>748</size>
+<commit
+   revision="21512">
+<author>zilles</author>
+<date>2015-11-30T10:03:44.108257Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab14/t1.c</name>
+<size>234</size>
+<commit
+   revision="22688">
+<author>cliu81</author>
+<date>2015-12-06T06:42:26.001648Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab14/t2-main.c</name>
+<size>896</size>
+<commit
+   revision="21512">
+<author>zilles</author>
+<date>2015-11-30T10:03:44.108257Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab14/t2.c</name>
+<size>386</size>
+<commit
+   revision="22692">
+<author>cliu81</author>
+<date>2015-12-06T06:47:38.278734Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab14/t3-main.c</name>
+<size>835</size>
+<commit
+   revision="21512">
+<author>zilles</author>
+<date>2015-11-30T10:03:44.108257Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab14/t3.c</name>
+<size>383</size>
+<commit
+   revision="22700">
+<author>cliu81</author>
+<date>2015-12-06T07:03:55.354846Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab14/t4-main.c</name>
+<size>1322</size>
+<commit
+   revision="21512">
+<author>zilles</author>
+<date>2015-11-30T10:03:44.108257Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab14/t4.c</name>
+<size>363</size>
+<commit
+   revision="22693">
+<author>cliu81</author>
+<date>2015-12-06T06:50:09.811732Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab14/t5-main.c</name>
+<size>1169</size>
+<commit
+   revision="21512">
+<author>zilles</author>
+<date>2015-11-30T10:03:44.108257Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab14/t5.c</name>
+<size>464</size>
+<commit
+   revision="22694">
+<author>cliu81</author>
+<date>2015-12-06T06:52:05.465560Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab14/t6-main.c</name>
+<size>806</size>
+<commit
+   revision="21512">
+<author>zilles</author>
+<date>2015-11-30T10:03:44.108257Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab14/t6.c</name>
+<size>236</size>
+<commit
+   revision="23072">
+<author>cliu81</author>
+<date>2015-12-06T23:08:50.046972Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Lab15</name>
+<commit
+   revision="23455">
+<author>amahmou2</author>
+<date>2015-12-07T08:20:59.155323Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab15/Makefile</name>
+<size>288</size>
+<commit
+   revision="23455">
+<author>amahmou2</author>
+<date>2015-12-07T08:20:59.155323Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab15/main.c</name>
+<size>1209</size>
+<commit
+   revision="23455">
+<author>amahmou2</author>
+<date>2015-12-07T08:20:59.155323Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab15/pi_calc.c</name>
+<size>1372</size>
+<commit
+   revision="23455">
+<author>amahmou2</author>
+<date>2015-12-07T08:20:59.155323Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab15/pi_calc.h</name>
+<size>202</size>
+<commit
+   revision="23455">
+<author>amahmou2</author>
+<date>2015-12-07T08:20:59.155323Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Lab2</name>
+<commit
+   revision="10545">
+<author>amithir2</author>
+<date>2015-10-11T04:37:10.555464Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab2/Makefile</name>
+<size>1023</size>
+<commit
+   revision="1370">
+<author>zilles</author>
+<date>2015-08-31T17:14:53.520966Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab2/bmp.cpp</name>
+<size>4554</size>
+<commit
+   revision="1370">
+<author>zilles</author>
+<date>2015-08-31T17:14:53.520966Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab2/bmp.h</name>
+<size>5280</size>
+<commit
+   revision="1370">
+<author>zilles</author>
+<date>2015-08-31T17:14:53.520966Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab2/countOnes.cpp</name>
+<size>459</size>
+<commit
+   revision="1371">
+<author>cliu81</author>
+<date>2015-08-31T17:19:02.419430Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab2/countOnes.h</name>
+<size>335</size>
+<commit
+   revision="1370">
+<author>zilles</author>
+<date>2015-08-31T17:14:53.520966Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab2/countOnes_main.cpp</name>
+<size>794</size>
+<commit
+   revision="1370">
+<author>zilles</author>
+<date>2015-08-31T17:14:53.520966Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab2/example.cpp</name>
+<size>1649</size>
+<commit
+   revision="1370">
+<author>zilles</author>
+<date>2015-08-31T17:14:53.520966Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab2/extractMessage.cpp</name>
+<size>1015</size>
+<commit
+   revision="1371">
+<author>cliu81</author>
+<date>2015-08-31T17:19:02.419430Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab2/extractMessage.h</name>
+<size>413</size>
+<commit
+   revision="1370">
+<author>zilles</author>
+<date>2015-08-31T17:14:53.520966Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab2/extractMessage_main.cpp</name>
+<size>632</size>
+<commit
+   revision="1370">
+<author>zilles</author>
+<date>2015-08-31T17:14:53.520966Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab2/grade_report_part_1.txt</name>
+<size>1158</size>
+<commit
+   revision="5416">
+<author>amithir2</author>
+<date>2015-09-18T02:31:14.651983Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab2/grade_report_part_2.txt</name>
+<size>375</size>
+<commit
+   revision="10545">
+<author>amithir2</author>
+<date>2015-10-11T04:37:10.555464Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab2/partners.txt</name>
+<size>7</size>
+<commit
+   revision="1370">
+<author>zilles</author>
+<date>2015-08-31T17:14:53.520966Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab2/steering.v</name>
+<size>1431</size>
+<commit
+   revision="1371">
+<author>cliu81</author>
+<date>2015-08-31T17:19:02.419430Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab2/steering_tb.v</name>
+<size>1871</size>
+<commit
+   revision="1370">
+<author>zilles</author>
+<date>2015-08-31T17:14:53.520966Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Lab3</name>
+<commit
+   revision="7232">
+<author>amithir2</author>
+<date>2015-09-26T02:08:17.947064Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab3/Makefile</name>
+<size>547</size>
+<commit
+   revision="2970">
+<author>amahmou2</author>
+<date>2015-09-07T15:47:58.048947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab3/alu1.v</name>
+<size>934</size>
+<commit
+   revision="4135">
+<author>cliu81</author>
+<date>2015-09-13T19:47:27.273581Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab3/alu1_tb.v</name>
+<size>1030</size>
+<commit
+   revision="4135">
+<author>cliu81</author>
+<date>2015-09-13T19:47:27.273581Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab3/alu32.v</name>
+<size>2425</size>
+<commit
+   revision="4135">
+<author>cliu81</author>
+<date>2015-09-13T19:47:27.273581Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab3/alu32_tb.v</name>
+<size>3817</size>
+<commit
+   revision="4135">
+<author>cliu81</author>
+<date>2015-09-13T19:47:27.273581Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab3/control.filter</name>
+<size>88</size>
+<commit
+   revision="2970">
+<author>amahmou2</author>
+<date>2015-09-07T15:47:58.048947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab3/example_generator.cpp</name>
+<size>717</size>
+<commit
+   revision="2970">
+<author>amahmou2</author>
+<date>2015-09-07T15:47:58.048947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab3/example_generator.py</name>
+<size>663</size>
+<commit
+   revision="2970">
+<author>amahmou2</author>
+<date>2015-09-07T15:47:58.048947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab3/generator.cpp</name>
+<size>480</size>
+<commit
+   revision="4135">
+<author>cliu81</author>
+<date>2015-09-13T19:47:27.273581Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab3/generator.py</name>
+<size>127</size>
+<commit
+   revision="2970">
+<author>amahmou2</author>
+<date>2015-09-07T15:47:58.048947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab3/grade_report_part_1.txt</name>
+<size>4259</size>
+<commit
+   revision="7232">
+<author>amithir2</author>
+<date>2015-09-26T02:08:17.947064Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab3/grade_report_part_2.txt</name>
+<size>3401</size>
+<commit
+   revision="7217">
+<author>amithir2</author>
+<date>2015-09-25T19:47:20.849087Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab3/logicunit.v</name>
+<size>352</size>
+<commit
+   revision="3446">
+<author>cliu81</author>
+<date>2015-09-10T15:57:09.814641Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab3/logicunit_tb.v</name>
+<size>816</size>
+<commit
+   revision="3446">
+<author>cliu81</author>
+<date>2015-09-10T15:57:09.814641Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab3/mux.v</name>
+<size>723</size>
+<commit
+   revision="3446">
+<author>cliu81</author>
+<date>2015-09-10T15:57:09.814641Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab3/mux4_tb.v</name>
+<size>978</size>
+<commit
+   revision="2970">
+<author>amahmou2</author>
+<date>2015-09-07T15:47:58.048947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab3/partners.txt</name>
+<size>7</size>
+<commit
+   revision="2970">
+<author>amahmou2</author>
+<date>2015-09-07T15:47:58.048947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab3/zero_checker.v</name>
+<size>261</size>
+<commit
+   revision="2970">
+<author>amahmou2</author>
+<date>2015-09-07T15:47:58.048947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab3/zero_checker_tb.v</name>
+<size>398</size>
+<commit
+   revision="2970">
+<author>amahmou2</author>
+<date>2015-09-07T15:47:58.048947Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Lab4</name>
+<commit
+   revision="7173">
+<author>tfliu2</author>
+<date>2015-09-25T01:47:16.684205Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab4/Makefile</name>
+<size>495</size>
+<commit
+   revision="4549">
+<author>amahmou2</author>
+<date>2015-09-14T07:19:30.186413Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab4/grade_report_part_1.txt</name>
+<size>336</size>
+<commit
+   revision="5450">
+<author>tfliu2</author>
+<date>2015-09-18T09:51:24.960502Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab4/grade_report_part_2.txt</name>
+<size>2819</size>
+<commit
+   revision="7173">
+<author>tfliu2</author>
+<date>2015-09-25T01:47:16.684205Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab4/l_reader.v</name>
+<size>1650</size>
+<commit
+   revision="4690">
+<author>cliu81</author>
+<date>2015-09-15T03:17:59.396580Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab4/l_reader_tb.v</name>
+<size>875</size>
+<commit
+   revision="6158">
+<author>cliu81</author>
+<date>2015-09-20T23:16:49.060774Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab4/lol_reader.v</name>
+<size>2916</size>
+<commit
+   revision="6128">
+<author>cliu81</author>
+<date>2015-09-20T22:55:37.720233Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab4/lol_reader_tb.v</name>
+<size>2361</size>
+<commit
+   revision="6158">
+<author>cliu81</author>
+<date>2015-09-20T23:16:49.060774Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab4/mux_lib.v</name>
+<size>2775</size>
+<commit
+   revision="4549">
+<author>amahmou2</author>
+<date>2015-09-14T07:19:30.186413Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab4/partners.txt</name>
+<size>7</size>
+<commit
+   revision="4549">
+<author>amahmou2</author>
+<date>2015-09-14T07:19:30.186413Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab4/rf.v</name>
+<size>5693</size>
+<commit
+   revision="5204">
+<author>cliu81</author>
+<date>2015-09-17T07:40:05.169212Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab4/rf_tb.v</name>
+<size>1001</size>
+<commit
+   revision="4549">
+<author>amahmou2</author>
+<date>2015-09-14T07:19:30.186413Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Lab5</name>
+<commit
+   revision="7944">
+<author>meenai1</author>
+<date>2015-09-30T04:18:22.747351Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab5/Makefile</name>
+<size>1647</size>
+<commit
+   revision="6484">
+<author>amahmou2</author>
+<date>2015-09-21T08:27:17.006997Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab5/alu32.v</name>
+<size>1186</size>
+<commit
+   revision="6484">
+<author>amahmou2</author>
+<date>2015-09-21T08:27:17.006997Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab5/arith_machine.v</name>
+<size>1907</size>
+<commit
+   revision="7029">
+<author>cliu81</author>
+<date>2015-09-24T03:59:17.708944Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab5/arith_machine_tb.v</name>
+<size>1234</size>
+<commit
+   revision="6484">
+<author>amahmou2</author>
+<date>2015-09-21T08:27:17.006997Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab5/decoder.v</name>
+<size>2072</size>
+<commit
+   revision="6993">
+<author>cliu81</author>
+<date>2015-09-24T00:51:48.837611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab5/decoder_tb.v</name>
+<size>1325</size>
+<commit
+   revision="6993">
+<author>cliu81</author>
+<date>2015-09-24T00:51:48.837611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab5/grade_report_part_1.txt</name>
+<size>863</size>
+<commit
+   revision="7172">
+<author>meenai1</author>
+<date>2015-09-25T01:47:07.291506Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab5/grade_report_part_2.txt</name>
+<size>324</size>
+<commit
+   revision="7944">
+<author>meenai1</author>
+<date>2015-09-30T04:18:22.747351Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab5/memory.text.dat</name>
+<size>132</size>
+<commit
+   revision="6484">
+<author>amahmou2</author>
+<date>2015-09-21T08:27:17.006997Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab5/mips_defines.v</name>
+<size>7379</size>
+<commit
+   revision="6484">
+<author>amahmou2</author>
+<date>2015-09-21T08:27:17.006997Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab5/mux_lib.v</name>
+<size>2861</size>
+<commit
+   revision="6484">
+<author>amahmou2</author>
+<date>2015-09-21T08:27:17.006997Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab5/partners.txt</name>
+<size>7</size>
+<commit
+   revision="6484">
+<author>amahmou2</author>
+<date>2015-09-21T08:27:17.006997Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab5/rf.v</name>
+<size>1885</size>
+<commit
+   revision="6484">
+<author>amahmou2</author>
+<date>2015-09-21T08:27:17.006997Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab5/rom.v</name>
+<size>1269</size>
+<commit
+   revision="6484">
+<author>amahmou2</author>
+<date>2015-09-21T08:27:17.006997Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab5/test_alu.s</name>
+<size>724</size>
+<commit
+   revision="6484">
+<author>amahmou2</author>
+<date>2015-09-21T08:27:17.006997Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Lab6</name>
+<commit
+   revision="11677">
+<author>meenai1</author>
+<date>2015-10-13T21:35:44.742244Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab6/Makefile</name>
+<size>1946</size>
+<commit
+   revision="7742">
+<author>amahmou2</author>
+<date>2015-09-28T16:15:26.690013Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab6/all.data.dat</name>
+<size>58</size>
+<commit
+   revision="7742">
+<author>amahmou2</author>
+<date>2015-09-28T16:15:26.690013Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab6/all.s</name>
+<size>931</size>
+<commit
+   revision="7742">
+<author>amahmou2</author>
+<date>2015-09-28T16:15:26.690013Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab6/all.text.dat</name>
+<size>243</size>
+<commit
+   revision="7742">
+<author>amahmou2</author>
+<date>2015-09-28T16:15:26.690013Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab6/alu32.v</name>
+<size>1368</size>
+<commit
+   revision="7742">
+<author>amahmou2</author>
+<date>2015-09-28T16:15:26.690013Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab6/decoder.v</name>
+<size>4099</size>
+<commit
+   revision="9230">
+<author>cliu81</author>
+<date>2015-10-04T23:43:35.396201Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab6/decoder_tb.v</name>
+<size>2256</size>
+<commit
+   revision="8147">
+<author>cliu81</author>
+<date>2015-09-30T23:35:08.219241Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab6/fm.s</name>
+<size>713</size>
+<commit
+   revision="9263">
+<author>cliu81</author>
+<date>2015-10-04T23:59:55.378845Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab6/full_machine.v</name>
+<size>3966</size>
+<commit
+   revision="9230">
+<author>cliu81</author>
+<date>2015-10-04T23:43:35.396201Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab6/full_machine_tb.v</name>
+<size>1401</size>
+<commit
+   revision="7742">
+<author>amahmou2</author>
+<date>2015-09-28T16:15:26.690013Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab6/grade_report_part_1.txt</name>
+<size>2138</size>
+<commit
+   revision="8630">
+<author>meenai1</author>
+<date>2015-10-03T03:19:09.101887Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab6/grade_report_part_2.txt</name>
+<size>910</size>
+<commit
+   revision="11677">
+<author>meenai1</author>
+<date>2015-10-13T21:35:44.742244Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab6/lwbr.data.dat</name>
+<size>39</size>
+<commit
+   revision="7742">
+<author>amahmou2</author>
+<date>2015-09-28T16:15:26.690013Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab6/lwbr.s</name>
+<size>415</size>
+<commit
+   revision="7742">
+<author>amahmou2</author>
+<date>2015-09-28T16:15:26.690013Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab6/lwbr.text.dat</name>
+<size>113</size>
+<commit
+   revision="7742">
+<author>amahmou2</author>
+<date>2015-09-28T16:15:26.690013Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab6/mips_defines.v</name>
+<size>7432</size>
+<commit
+   revision="7742">
+<author>amahmou2</author>
+<date>2015-09-28T16:15:26.690013Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab6/mux_lib.v</name>
+<size>2857</size>
+<commit
+   revision="7742">
+<author>amahmou2</author>
+<date>2015-09-28T16:15:26.690013Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab6/partners.txt</name>
+<size>7</size>
+<commit
+   revision="7742">
+<author>amahmou2</author>
+<date>2015-09-28T16:15:26.690013Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab6/rf.v</name>
+<size>1879</size>
+<commit
+   revision="7742">
+<author>amahmou2</author>
+<date>2015-09-28T16:15:26.690013Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab6/rom.v</name>
+<size>3163</size>
+<commit
+   revision="7742">
+<author>amahmou2</author>
+<date>2015-09-28T16:15:26.690013Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Lab7</name>
+<commit
+   revision="12305">
+<author>jbbaile2</author>
+<date>2015-10-16T09:02:56.947554Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab7/char.cpp</name>
+<size>1601</size>
+<commit
+   revision="9481">
+<author>amahmou2</author>
+<date>2015-10-05T06:40:31.489481Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab7/char.s</name>
+<size>869</size>
+<commit
+   revision="10008">
+<author>cliu81</author>
+<date>2015-10-07T21:31:57.249584Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab7/char_main.s</name>
+<size>2825</size>
+<commit
+   revision="9481">
+<author>amahmou2</author>
+<date>2015-10-05T06:40:31.489481Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab7/common.s</name>
+<size>1594</size>
+<commit
+   revision="9481">
+<author>amahmou2</author>
+<date>2015-10-05T06:40:31.489481Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab7/foo.cpp</name>
+<size>819</size>
+<commit
+   revision="9481">
+<author>amahmou2</author>
+<date>2015-10-05T06:40:31.489481Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab7/foo.s</name>
+<size>878</size>
+<commit
+   revision="9895">
+<author>cliu81</author>
+<date>2015-10-07T05:42:13.123478Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab7/foo_main.s</name>
+<size>1652</size>
+<commit
+   revision="9481">
+<author>amahmou2</author>
+<date>2015-10-05T06:40:31.489481Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab7/grade_report_part_1.txt</name>
+<size>943</size>
+<commit
+   revision="10279">
+<author>jbbaile2</author>
+<date>2015-10-09T02:13:30.477008Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab7/grade_report_part_2.txt</name>
+<size>2682</size>
+<commit
+   revision="12305">
+<author>jbbaile2</author>
+<date>2015-10-16T09:02:56.947554Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab7/puzzle.cpp</name>
+<size>3327</size>
+<commit
+   revision="9481">
+<author>amahmou2</author>
+<date>2015-10-05T06:40:31.489481Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab7/puzzle.s</name>
+<size>4738</size>
+<commit
+   revision="10156">
+<author>cliu81</author>
+<date>2015-10-08T18:28:54.240321Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab7/puzzle_main.s</name>
+<size>2871</size>
+<commit
+   revision="9481">
+<author>amahmou2</author>
+<date>2015-10-05T06:40:31.489481Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Lab8</name>
+<commit
+   revision="13619">
+<author>jbbaile2</author>
+<date>2015-10-21T05:19:15.936342Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab8/common.s</name>
+<size>1594</size>
+<commit
+   revision="11313">
+<author>amahmou2</author>
+<date>2015-10-12T08:13:53.443074Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab8/grade_report_part_1.txt</name>
+<size>824</size>
+<commit
+   revision="12678">
+<author>jbbaile2</author>
+<date>2015-10-18T09:11:38.084341Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab8/grade_report_part_2.txt</name>
+<size>1846</size>
+<commit
+   revision="13619">
+<author>jbbaile2</author>
+<date>2015-10-21T05:19:15.936342Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab8/node.cpp</name>
+<size>2173</size>
+<commit
+   revision="11313">
+<author>amahmou2</author>
+<date>2015-10-12T08:13:53.443074Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab8/node.s</name>
+<size>1902</size>
+<commit
+   revision="11476">
+<author>cliu81</author>
+<date>2015-10-13T03:03:10.724959Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab8/node_main.s</name>
+<size>3046</size>
+<commit
+   revision="11313">
+<author>amahmou2</author>
+<date>2015-10-12T08:13:53.443074Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab8/puzzle.cpp</name>
+<size>4891</size>
+<commit
+   revision="11313">
+<author>amahmou2</author>
+<date>2015-10-12T08:13:53.443074Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab8/puzzle.s</name>
+<size>8494</size>
+<commit
+   revision="12946">
+<author>cliu81</author>
+<date>2015-10-18T23:01:40.153994Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab8/puzzle_main.s</name>
+<size>5311</size>
+<commit
+   revision="11313">
+<author>amahmou2</author>
+<date>2015-10-12T08:13:53.443074Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Lab9</name>
+<commit
+   revision="22046">
+<author>malalur2</author>
+<date>2015-12-03T01:07:28.842315Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab9/Makefile</name>
+<size>1516</size>
+<commit
+   revision="13175">
+<author>amahmou2</author>
+<date>2015-10-19T08:00:33.092976Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab9/cp0.v</name>
+<size>2011</size>
+<commit
+   revision="14471">
+<author>cliu81</author>
+<date>2015-10-25T22:26:44.216755Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab9/cp0_tb.v</name>
+<size>2544</size>
+<commit
+   revision="13175">
+<author>amahmou2</author>
+<date>2015-10-19T08:00:33.092976Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab9/grade_report_part_1.txt</name>
+<size>1082</size>
+<commit
+   revision="14842">
+<author>malalur2</author>
+<date>2015-10-26T06:03:26.131116Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab9/grade_report_part_2.txt</name>
+<size>1479</size>
+<commit
+   revision="22046">
+<author>malalur2</author>
+<date>2015-12-03T01:07:28.842315Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab9/machine.v</name>
+<size>2936</size>
+<commit
+   revision="14599">
+<author>cliu81</author>
+<date>2015-10-25T23:46:08.867571Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab9/machine_tb.v</name>
+<size>1457</size>
+<commit
+   revision="13175">
+<author>amahmou2</author>
+<date>2015-10-19T08:00:33.092976Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab9/memory.data.dat</name>
+<size>66</size>
+<commit
+   revision="13175">
+<author>amahmou2</author>
+<date>2015-10-19T08:00:33.092976Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab9/memory.kdata.dat</name>
+<size>10</size>
+<commit
+   revision="13175">
+<author>amahmou2</author>
+<date>2015-10-19T08:00:33.092976Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab9/memory.ktext.dat</name>
+<size>935</size>
+<commit
+   revision="13175">
+<author>amahmou2</author>
+<date>2015-10-19T08:00:33.092976Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab9/memory.text.dat</name>
+<size>316</size>
+<commit
+   revision="13175">
+<author>amahmou2</author>
+<date>2015-10-19T08:00:33.092976Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab9/mips_defines.v</name>
+<size>7445</size>
+<commit
+   revision="13175">
+<author>amahmou2</author>
+<date>2015-10-19T08:00:33.092976Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab9/modules.v</name>
+<size>5711</size>
+<commit
+   revision="13175">
+<author>amahmou2</author>
+<date>2015-10-19T08:00:33.092976Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab9/mux_lib.v</name>
+<size>2788</size>
+<commit
+   revision="13175">
+<author>amahmou2</author>
+<date>2015-10-19T08:00:33.092976Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab9/partners.txt</name>
+<size>7</size>
+<commit
+   revision="13175">
+<author>amahmou2</author>
+<date>2015-10-19T08:00:33.092976Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab9/rom.v</name>
+<size>3032</size>
+<commit
+   revision="13175">
+<author>amahmou2</author>
+<date>2015-10-19T08:00:33.092976Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab9/test.s</name>
+<size>1564</size>
+<commit
+   revision="13175">
+<author>amahmou2</author>
+<date>2015-10-19T08:00:33.092976Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab9/timer.v</name>
+<size>1188</size>
+<commit
+   revision="13347">
+<author>cliu81</author>
+<date>2015-10-20T04:52:34.669667Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Lab9/timer_tb.v</name>
+<size>1443</size>
+<commit
+   revision="13175">
+<author>amahmou2</author>
+<date>2015-10-19T08:00:33.092976Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>LabSpimbot</name>
+<commit
+   revision="24079">
+<author>malalur2</author>
+<date>2015-12-10T03:34:04.275780Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>LabSpimbot/grade_report.txt</name>
+<size>149</size>
+<commit
+   revision="24079">
+<author>malalur2</author>
+<date>2015-12-10T03:34:04.275780Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>LabSpimbot/partners.txt</name>
+<size>20</size>
+<commit
+   revision="23941">
+<author>cliu81</author>
+<date>2015-12-09T01:35:24.561527Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>LabSpimbot/spimbot.s</name>
+<size>18320</size>
+<commit
+   revision="23981">
+<author>cliu81</author>
+<date>2015-12-09T01:51:51.326957Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>LabSpimbot/teamname.txt</name>
+<size>10</size>
+<commit
+   revision="23941">
+<author>cliu81</author>
+<date>2015-12-09T01:35:24.561527Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>LabSpimbot/writeup.txt</name>
+<size>39</size>
+<commit
+   revision="23941">
+<author>cliu81</author>
+<date>2015-12-09T01:35:24.561527Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>QtSpimExercise</name>
+<commit
+   revision="9500">
+<author>meenai1</author>
+<date>2015-10-05T17:05:33.401487Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>QtSpimExercise/max.c</name>
+<size>239</size>
+<commit
+   revision="9500">
+<author>meenai1</author>
+<date>2015-10-05T17:05:33.401487Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>QtSpimExercise/max.s</name>
+<size>708</size>
+<commit
+   revision="9500">
+<author>meenai1</author>
+<date>2015-10-05T17:05:33.401487Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>QtSpimExercise/max_test.s</name>
+<size>2883</size>
+<commit
+   revision="9500">
+<author>meenai1</author>
+<date>2015-10-05T17:05:33.401487Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>WordReaderExercise</name>
+<commit
+   revision="4551">
+<author>jbbaile2</author>
+<date>2015-09-14T17:03:50.848354Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>WordReaderExercise/i_reader.v</name>
+<size>1573</size>
+<commit
+   revision="4551">
+<author>jbbaile2</author>
+<date>2015-09-14T17:03:50.848354Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>WordReaderExercise/i_reader_tb.v</name>
+<size>839</size>
+<commit
+   revision="4551">
+<author>jbbaile2</author>
+<date>2015-09-14T17:03:50.848354Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>iclicker_pts</name>
+<size>2563</size>
+<commit
+   revision="24126">
+<author>zilles</author>
+<date>2015-12-17T01:14:22.678936Z</date>
+</commit>
+</entry>
+</list>
+</lists>

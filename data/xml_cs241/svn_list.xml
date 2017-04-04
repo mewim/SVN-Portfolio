@@ -1,0 +1,3866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/sp16-cs241/cliu81">
+<entry
+   kind="dir">
+<name>broken_barriers</name>
+<commit
+   revision="45529">
+<author>btruong2</author>
+<date>2016-03-10T09:53:44.096193Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>broken_barriers/Makefile</name>
+<size>1753</size>
+<commit
+   revision="40054">
+<author>kocheva2</author>
+<date>2016-03-03T06:51:10.808437Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>broken_barriers/barrier.c</name>
+<size>920</size>
+<commit
+   revision="40339">
+<author>cliu81</author>
+<date>2016-03-03T23:36:18.922812Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>broken_barriers/barrier.h</name>
+<size>797</size>
+<commit
+   revision="40054">
+<author>kocheva2</author>
+<date>2016-03-03T06:51:10.808437Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>broken_barriers/barrier_test.c</name>
+<size>2084</size>
+<commit
+   revision="40054">
+<author>kocheva2</author>
+<date>2016-03-03T06:51:10.808437Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>broken_barriers/bmp.c</name>
+<size>3987</size>
+<commit
+   revision="40054">
+<author>kocheva2</author>
+<date>2016-03-03T06:51:10.808437Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>broken_barriers/bmp.h</name>
+<size>2285</size>
+<commit
+   revision="40054">
+<author>kocheva2</author>
+<date>2016-03-03T06:51:10.808437Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>broken_barriers/grade_report.html</name>
+<size>12115</size>
+<commit
+   revision="43919">
+<author>btruong2</author>
+<date>2016-03-09T13:24:59.112330Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>broken_barriers/libs</name>
+<commit
+   revision="40054">
+<author>kocheva2</author>
+<date>2016-03-03T06:51:10.808437Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>broken_barriers/libs/libbarrier.a</name>
+<size>2858</size>
+<commit
+   revision="40054">
+<author>kocheva2</author>
+<date>2016-03-03T06:51:10.808437Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>broken_barriers/libs/libpoisson.a</name>
+<size>15676</size>
+<commit
+   revision="40054">
+<author>kocheva2</author>
+<date>2016-03-03T06:51:10.808437Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>broken_barriers/poisson.c</name>
+<size>6473</size>
+<commit
+   revision="44777">
+<author>cliu81</author>
+<date>2016-03-10T02:44:03.111997Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>broken_barriers/poisson.h</name>
+<size>1519</size>
+<commit
+   revision="44117">
+<author>cliu81</author>
+<date>2016-03-09T20:42:33.996572Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>broken_barriers/poisson_test.c</name>
+<size>1730</size>
+<commit
+   revision="44781">
+<author>cliu81</author>
+<date>2016-03-10T02:45:57.494200Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>broken_barriers/results.json</name>
+<size>14090</size>
+<commit
+   revision="45529">
+<author>btruong2</author>
+<date>2016-03-10T09:53:44.096193Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>chatroom</name>
+<commit
+   revision="78845">
+<author>festekj2</author>
+<date>2016-04-21T05:39:33.804327Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chatroom/Makefile</name>
+<size>2638</size>
+<commit
+   revision="72586">
+<author>kocheva2</author>
+<date>2016-04-14T05:42:47.528900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chatroom/chat_window.c</name>
+<size>1643</size>
+<commit
+   revision="72590">
+<author>kocheva2</author>
+<date>2016-04-14T06:02:39.301647Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chatroom/chat_window.h</name>
+<size>1551</size>
+<commit
+   revision="72586">
+<author>kocheva2</author>
+<date>2016-04-14T05:42:47.528900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chatroom/chatroom.c</name>
+<size>1051</size>
+<commit
+   revision="72586">
+<author>kocheva2</author>
+<date>2016-04-14T05:42:47.528900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chatroom/client.c</name>
+<size>2113</size>
+<commit
+   revision="76638">
+<author>cliu81</author>
+<date>2016-04-20T01:21:57.957328Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chatroom/client.h</name>
+<size>97</size>
+<commit
+   revision="72586">
+<author>kocheva2</author>
+<date>2016-04-14T05:42:47.528900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chatroom/grade_report.html</name>
+<size>13169</size>
+<commit
+   revision="76951">
+<author>festekj2</author>
+<date>2016-04-20T07:16:51.693685Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chatroom/questions.txt</name>
+<size>456</size>
+<commit
+   revision="72586">
+<author>kocheva2</author>
+<date>2016-04-14T05:42:47.528900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chatroom/results.json</name>
+<size>10381</size>
+<commit
+   revision="78845">
+<author>festekj2</author>
+<date>2016-04-21T05:39:33.804327Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chatroom/server.c</name>
+<size>8604</size>
+<commit
+   revision="76646">
+<author>cliu81</author>
+<date>2016-04-20T01:31:59.833894Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chatroom/server.h</name>
+<size>395</size>
+<commit
+   revision="72586">
+<author>kocheva2</author>
+<date>2016-04-14T05:42:47.528900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chatroom/utils.c</name>
+<size>1543</size>
+<commit
+   revision="72627">
+<author>kocheva2</author>
+<date>2016-04-14T16:35:50.115899Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>chatroom/utils.h</name>
+<size>250</size>
+<commit
+   revision="72586">
+<author>kocheva2</author>
+<date>2016-04-14T05:42:47.528900Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>epoll_demo</name>
+<commit
+   revision="84310">
+<author>kocheva2</author>
+<date>2016-04-28T13:05:24.065198Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>epoll_demo/Makefile</name>
+<size>3502</size>
+<commit
+   revision="84310">
+<author>kocheva2</author>
+<date>2016-04-28T13:05:24.065198Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>epoll_demo/client.c</name>
+<size>1779</size>
+<commit
+   revision="84310">
+<author>kocheva2</author>
+<date>2016-04-28T13:05:24.065198Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>epoll_demo/server_epoll.c</name>
+<size>4836</size>
+<commit
+   revision="84310">
+<author>kocheva2</author>
+<date>2016-04-28T13:05:24.065198Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>epoll_demo/server_select.c</name>
+<size>4556</size>
+<commit
+   revision="84310">
+<author>kocheva2</author>
+<date>2016-04-28T13:05:24.065198Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>epoll_demo/server_thread.c</name>
+<size>3657</size>
+<commit
+   revision="84310">
+<author>kocheva2</author>
+<date>2016-04-28T13:05:24.065198Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>epoll_demo/simulator.c</name>
+<size>1205</size>
+<commit
+   revision="84310">
+<author>kocheva2</author>
+<date>2016-04-28T13:05:24.065198Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>et_tu_brute</name>
+<commit
+   revision="72585">
+<author>jianliu4</author>
+<date>2016-04-14T05:39:07.164295Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>et_tu_brute/Makefile</name>
+<size>1640</size>
+<commit
+   revision="65984">
+<author>kocheva2</author>
+<date>2016-04-07T05:26:38.346386Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>et_tu_brute/brutus.c</name>
+<size>4498</size>
+<commit
+   revision="66605">
+<author>cliu81</author>
+<date>2016-04-08T03:41:00.963744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>et_tu_brute/grade_report.html</name>
+<size>13169</size>
+<commit
+   revision="70823">
+<author>jianliu4</author>
+<date>2016-04-13T00:05:38.422970Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>et_tu_brute/includes</name>
+<commit
+   revision="65984">
+<author>kocheva2</author>
+<date>2016-04-07T05:26:38.346386Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>et_tu_brute/includes/cipher.h</name>
+<size>300</size>
+<commit
+   revision="65984">
+<author>kocheva2</author>
+<date>2016-04-07T05:26:38.346386Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>et_tu_brute/journal.txt</name>
+<size>1338</size>
+<commit
+   revision="65984">
+<author>kocheva2</author>
+<date>2016-04-07T05:26:38.346386Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>et_tu_brute/libs</name>
+<commit
+   revision="65984">
+<author>kocheva2</author>
+<date>2016-04-07T05:26:38.346386Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>et_tu_brute/libs/libprovided.a</name>
+<size>4136</size>
+<commit
+   revision="65984">
+<author>kocheva2</author>
+<date>2016-04-07T05:26:38.346386Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>et_tu_brute/results.json</name>
+<size>7801</size>
+<commit
+   revision="72585">
+<author>jianliu4</author>
+<date>2016-04-14T05:39:07.164295Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>extreme_edge_cases</name>
+<commit
+   revision="9352">
+<author>emsauer2</author>
+<date>2016-02-04T18:40:07.817727Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>extreme_edge_cases/Makefile</name>
+<size>481</size>
+<commit
+   revision="2875">
+<author>bschong2</author>
+<date>2016-01-28T04:21:56.213652Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>extreme_edge_cases/camelCaser.c</name>
+<size>2509</size>
+<commit
+   revision="7512">
+<author>cliu81</author>
+<date>2016-02-03T07:05:15.484417Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>extreme_edge_cases/camelCaser.h</name>
+<size>106</size>
+<commit
+   revision="2875">
+<author>bschong2</author>
+<date>2016-01-28T04:21:56.213652Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>extreme_edge_cases/camelCaser_main.c</name>
+<size>227</size>
+<commit
+   revision="2875">
+<author>bschong2</author>
+<date>2016-01-28T04:21:56.213652Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>extreme_edge_cases/camelCaser_tests.c</name>
+<size>3948</size>
+<commit
+   revision="7562">
+<author>cliu81</author>
+<date>2016-02-03T07:25:09.972203Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>extreme_edge_cases/camelCaser_tests.h</name>
+<size>153</size>
+<commit
+   revision="2875">
+<author>bschong2</author>
+<date>2016-01-28T04:21:56.213652Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>extreme_edge_cases/grade_report.html</name>
+<size>12115</size>
+<commit
+   revision="6546">
+<author>emsauer2</author>
+<date>2016-02-02T19:24:19.171624Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>extreme_edge_cases/reference</name>
+<commit
+   revision="3249">
+<author>bschong2</author>
+<date>2016-01-28T18:09:09.016525Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>extreme_edge_cases/reference/Makefile</name>
+<size>287</size>
+<commit
+   revision="2875">
+<author>bschong2</author>
+<date>2016-01-28T04:21:56.213652Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>extreme_edge_cases/reference/camelCaser.h</name>
+<size>106</size>
+<commit
+   revision="2875">
+<author>bschong2</author>
+<date>2016-01-28T04:21:56.213652Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>extreme_edge_cases/reference/camelCaser.o</name>
+<size>2880</size>
+<commit
+   revision="3249">
+<author>bschong2</author>
+<date>2016-01-28T18:09:09.016525Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>extreme_edge_cases/reference/camelCaser_main.c</name>
+<size>994</size>
+<commit
+   revision="3223">
+<author>bschong2</author>
+<date>2016-01-28T16:43:15.196415Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>extreme_edge_cases/results.json</name>
+<size>25860</size>
+<commit
+   revision="9352">
+<author>emsauer2</author>
+<date>2016-02-04T18:40:07.817727Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>ideal_indirection</name>
+<commit
+   revision="61609">
+<author>jianliu4</author>
+<date>2016-04-02T06:19:52.850328Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ideal_indirection/Makefile</name>
+<size>3014</size>
+<commit
+   revision="55171">
+<author>bschong2</author>
+<date>2016-03-17T04:40:49.896544Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ideal_indirection/grade_report.html</name>
+<size>13169</size>
+<commit
+   revision="60506">
+<author>jianliu4</author>
+<date>2016-04-01T01:59:34.897115Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ideal_indirection/kernel.c</name>
+<size>162</size>
+<commit
+   revision="55171">
+<author>bschong2</author>
+<date>2016-03-17T04:40:49.896544Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ideal_indirection/kernel.h</name>
+<size>178</size>
+<commit
+   revision="55171">
+<author>bschong2</author>
+<date>2016-03-17T04:40:49.896544Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ideal_indirection/mmu.c</name>
+<size>2502</size>
+<commit
+   revision="59263">
+<author>cliu81</author>
+<date>2016-03-30T21:03:17.313858Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ideal_indirection/mmu.h</name>
+<size>3550</size>
+<commit
+   revision="55566">
+<author>bschong2</author>
+<date>2016-03-19T06:55:34.443109Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ideal_indirection/mmu_test.c</name>
+<size>5822</size>
+<commit
+   revision="55566">
+<author>bschong2</author>
+<date>2016-03-19T06:55:34.443109Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ideal_indirection/page_table.c</name>
+<size>975</size>
+<commit
+   revision="55566">
+<author>bschong2</author>
+<date>2016-03-19T06:55:34.443109Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ideal_indirection/page_table.h</name>
+<size>1252</size>
+<commit
+   revision="55566">
+<author>bschong2</author>
+<date>2016-03-19T06:55:34.443109Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ideal_indirection/results.json</name>
+<size>10785</size>
+<commit
+   revision="61609">
+<author>jianliu4</author>
+<date>2016-04-02T06:19:52.850328Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ideal_indirection/simulator.c</name>
+<size>5119</size>
+<commit
+   revision="55566">
+<author>bschong2</author>
+<date>2016-03-19T06:55:34.443109Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ideal_indirection/tlb.c</name>
+<size>2093</size>
+<commit
+   revision="55566">
+<author>bschong2</author>
+<date>2016-03-19T06:55:34.443109Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ideal_indirection/tlb.h</name>
+<size>1644</size>
+<commit
+   revision="55566">
+<author>bschong2</author>
+<date>2016-03-19T06:55:34.443109Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ideal_indirection/tlb_test.c</name>
+<size>4716</size>
+<commit
+   revision="55171">
+<author>bschong2</author>
+<date>2016-03-17T04:40:49.896544Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>know_your_tools</name>
+<commit
+   revision="18207">
+<author>bschong2</author>
+<date>2016-02-11T09:16:30.707221Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>know_your_tools/dumb.c</name>
+<size>86</size>
+<commit
+   revision="821">
+<author>cliu81</author>
+<date>2016-01-21T20:11:05.369050Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>know_your_tools/grade_report.txt</name>
+<size>149</size>
+<commit
+   revision="2986">
+<author>festekj2</author>
+<date>2016-01-28T06:06:42.644991Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>know_your_tools/hw0.pdf</name>
+<size>487043</size>
+<commit
+   revision="2519">
+<author>cliu81</author>
+<date>2016-01-27T07:39:49.951747Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>know_your_tools/hw0_report.txt</name>
+<size>5823</size>
+<commit
+   revision="18207">
+<author>bschong2</author>
+<date>2016-02-11T09:16:30.707221Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>mad_mad_access_pattern</name>
+<commit
+   revision="66042">
+<author>emsauer2</author>
+<date>2016-04-07T09:06:15.498518Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mad_mad_access_pattern/Makefile</name>
+<size>1965</size>
+<commit
+   revision="59895">
+<author>kocheva2</author>
+<date>2016-03-31T05:39:39.702882Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mad_mad_access_pattern/Questions.txt</name>
+<size>316</size>
+<commit
+   revision="59895">
+<author>kocheva2</author>
+<date>2016-03-31T05:39:39.702882Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mad_mad_access_pattern/grade_report.html</name>
+<size>13169</size>
+<commit
+   revision="61877">
+<author>emsauer2</author>
+<date>2016-04-04T09:07:25.642983Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mad_mad_access_pattern/lookup1.c</name>
+<size>2786</size>
+<commit
+   revision="63364">
+<author>cliu81</author>
+<date>2016-04-06T03:49:12.723755Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mad_mad_access_pattern/lookup2.c</name>
+<size>2636</size>
+<commit
+   revision="63364">
+<author>cliu81</author>
+<date>2016-04-06T03:49:12.723755Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>mad_mad_access_pattern/prepare_provided</name>
+<commit
+   revision="61635">
+<author>kocheva2</author>
+<date>2016-04-02T19:24:19.222118Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mad_mad_access_pattern/prepare_provided/create_data</name>
+<size>25656</size>
+<commit
+   revision="59895">
+<author>kocheva2</author>
+<date>2016-03-31T05:39:39.702882Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mad_mad_access_pattern/prepare_provided/input_file</name>
+<size>52</size>
+<commit
+   revision="59895">
+<author>kocheva2</author>
+<date>2016-03-31T05:39:39.702882Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mad_mad_access_pattern/prepare_provided/lookup1-reference</name>
+<size>21439</size>
+<commit
+   revision="60050">
+<author>kocheva2</author>
+<date>2016-03-31T18:15:24.598974Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mad_mad_access_pattern/prepare_provided/lookup2-reference</name>
+<size>21494</size>
+<commit
+   revision="61635">
+<author>kocheva2</author>
+<date>2016-04-02T19:24:19.222118Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mad_mad_access_pattern/prepare_provided/print_file</name>
+<size>24546</size>
+<commit
+   revision="59895">
+<author>kocheva2</author>
+<date>2016-03-31T05:39:39.702882Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mad_mad_access_pattern/results.json</name>
+<size>10113</size>
+<commit
+   revision="66042">
+<author>emsauer2</author>
+<date>2016-04-07T09:06:15.498518Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mad_mad_access_pattern/sample.data</name>
+<size>144</size>
+<commit
+   revision="59895">
+<author>kocheva2</author>
+<date>2016-03-31T05:39:39.702882Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mad_mad_access_pattern/tree.h</name>
+<size>3356</size>
+<commit
+   revision="59895">
+<author>kocheva2</author>
+<date>2016-03-31T05:39:39.702882Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mad_mad_access_pattern/utils.c</name>
+<size>650</size>
+<commit
+   revision="59895">
+<author>kocheva2</author>
+<date>2016-03-31T05:39:39.702882Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mad_mad_access_pattern/utils.h</name>
+<size>418</size>
+<commit
+   revision="59895">
+<author>kocheva2</author>
+<date>2016-03-31T05:39:39.702882Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>malloc</name>
+<commit
+   revision="43314">
+<author>btruong2</author>
+<date>2016-03-08T22:53:10.876358Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>malloc/Makefile</name>
+<size>997</size>
+<commit
+   revision="28327">
+<author>zmick2</author>
+<date>2016-02-22T07:57:53.217851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>malloc/alloc.c</name>
+<size>11864</size>
+<commit
+   revision="34718">
+<author>cliu81</author>
+<date>2016-02-28T07:53:10.210270Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>malloc/contest-alloc.c</name>
+<size>4017</size>
+<commit
+   revision="28327">
+<author>zmick2</author>
+<date>2016-02-22T07:57:53.217851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>malloc/contest.h</name>
+<size>381</size>
+<commit
+   revision="28327">
+<author>zmick2</author>
+<date>2016-02-22T07:57:53.217851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>malloc/grade_report.html</name>
+<size>12115</size>
+<commit
+   revision="38204">
+<author>btruong2</author>
+<date>2016-03-01T22:04:23.203414Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>malloc/mcontest.c</name>
+<size>3830</size>
+<commit
+   revision="28327">
+<author>zmick2</author>
+<date>2016-02-22T07:57:53.217851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>malloc/mreplace.c</name>
+<size>1406</size>
+<commit
+   revision="28327">
+<author>zmick2</author>
+<date>2016-02-22T07:57:53.217851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>malloc/nickname.txt</name>
+<size>3</size>
+<commit
+   revision="33704">
+<author>cliu81</author>
+<date>2016-02-26T17:15:38.273258Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>malloc/results.json</name>
+<size>7905</size>
+<commit
+   revision="43314">
+<author>btruong2</author>
+<date>2016-03-08T22:53:10.876358Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>malloc/run_all_mcontest.sh</name>
+<size>262</size>
+<commit
+   revision="28327">
+<author>zmick2</author>
+<date>2016-02-22T07:57:53.217851Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>malloc/testers</name>
+<commit
+   revision="28327">
+<author>zmick2</author>
+<date>2016-02-22T07:57:53.217851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>malloc/testers/tester-1.c</name>
+<size>413</size>
+<commit
+   revision="28327">
+<author>zmick2</author>
+<date>2016-02-22T07:57:53.217851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>malloc/testers/tester-10.c</name>
+<size>795</size>
+<commit
+   revision="28327">
+<author>zmick2</author>
+<date>2016-02-22T07:57:53.217851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>malloc/testers/tester-11.c</name>
+<size>748</size>
+<commit
+   revision="28327">
+<author>zmick2</author>
+<date>2016-02-22T07:57:53.217851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>malloc/testers/tester-2.c</name>
+<size>838</size>
+<commit
+   revision="28327">
+<author>zmick2</author>
+<date>2016-02-22T07:57:53.217851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>malloc/testers/tester-3.c</name>
+<size>507</size>
+<commit
+   revision="28327">
+<author>zmick2</author>
+<date>2016-02-22T07:57:53.217851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>malloc/testers/tester-4.c</name>
+<size>1278</size>
+<commit
+   revision="28327">
+<author>zmick2</author>
+<date>2016-02-22T07:57:53.217851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>malloc/testers/tester-5.c</name>
+<size>2478</size>
+<commit
+   revision="28327">
+<author>zmick2</author>
+<date>2016-02-22T07:57:53.217851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>malloc/testers/tester-6.c</name>
+<size>1958</size>
+<commit
+   revision="28327">
+<author>zmick2</author>
+<date>2016-02-22T07:57:53.217851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>malloc/testers/tester-7.c</name>
+<size>1541</size>
+<commit
+   revision="28327">
+<author>zmick2</author>
+<date>2016-02-22T07:57:53.217851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>malloc/testers/tester-8.c</name>
+<size>1780</size>
+<commit
+   revision="28327">
+<author>zmick2</author>
+<date>2016-02-22T07:57:53.217851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>malloc/testers/tester-9.c</name>
+<size>2511</size>
+<commit
+   revision="28327">
+<author>zmick2</author>
+<date>2016-02-22T07:57:53.217851Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>mangled_mutexes</name>
+<commit
+   revision="80465">
+<author>cliu81</author>
+<date>2016-04-25T16:26:11.871138Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mangled_mutexes/Makefile</name>
+<size>2010</size>
+<commit
+   revision="25282">
+<author>kocheva2</author>
+<date>2016-02-18T05:47:10.439527Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mangled_mutexes/count_primes-reference</name>
+<size>10464</size>
+<commit
+   revision="25282">
+<author>kocheva2</author>
+<date>2016-02-18T05:47:10.439527Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mangled_mutexes/count_primes.c</name>
+<size>3438</size>
+<commit
+   revision="80465">
+<author>cliu81</author>
+<date>2016-04-25T16:26:11.871138Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mangled_mutexes/grade_report.html</name>
+<size>12115</size>
+<commit
+   revision="30645">
+<author>festekj2</author>
+<date>2016-02-23T17:45:55.643074Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mangled_mutexes/results.json</name>
+<size>15106</size>
+<commit
+   revision="32763">
+<author>festekj2</author>
+<date>2016-02-25T07:33:39.996704Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>mapreduce</name>
+<commit
+   revision="82790">
+<author>emsauer2</author>
+<date>2016-04-26T15:47:37.491723Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/Makefile</name>
+<size>6830</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>mapreduce/core</name>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/core/common.c</name>
+<size>1626</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/core/common.h</name>
+<size>903</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/core/libds.c</name>
+<size>3494</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/core/libds.h</name>
+<size>2913</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/core/mapper.c</name>
+<size>648</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/core/mapper.h</name>
+<size>723</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/core/reducer.c</name>
+<size>1394</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/core/reducer.h</name>
+<size>496</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>mapreduce/data</name>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/data/asciicount1.txt</name>
+<size>144</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/data/small.txt</name>
+<size>19</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/grade_report.html</name>
+<size>13169</size>
+<commit
+   revision="73900">
+<author>bchen11</author>
+<date>2016-04-18T04:15:58.663335Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>mapreduce/mappers</name>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/mappers/asciicount.c</name>
+<size>370</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/mappers/lettercount.c</name>
+<size>350</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/mappers/wordcount.c</name>
+<size>700</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/mappers/wordlengths.c</name>
+<size>514</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/mr0.c</name>
+<size>2580</size>
+<commit
+   revision="72871">
+<author>cliu81</author>
+<date>2016-04-15T04:05:23.486313Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/mr1.c</name>
+<size>5260</size>
+<commit
+   revision="73974">
+<author>cliu81</author>
+<date>2016-04-18T04:59:24.195115Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/mr2.c</name>
+<size>7152</size>
+<commit
+   revision="80465">
+<author>cliu81</author>
+<date>2016-04-25T16:26:11.871138Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>mapreduce/pi</name>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/pi/BBP.py</name>
+<size>3604</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/pi/README.txt</name>
+<size>2201</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/pi/create_pi_input.py</name>
+<size>1473</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/pi/mapper_pi.cpp</name>
+<size>1936</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/pi/pidigits.h</name>
+<size>35160</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/pi/reducer_pi.cpp</name>
+<size>585</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>mapreduce/reducers</name>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/reducers/sum.c</name>
+<size>328</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/results.json</name>
+<size>42248</size>
+<commit
+   revision="82790">
+<author>emsauer2</author>
+<date>2016-04-26T15:47:37.491723Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/shuffler.c</name>
+<size>1489</size>
+<commit
+   revision="79703">
+<author>cliu81</author>
+<date>2016-04-24T22:39:58.669771Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/splitter.c</name>
+<size>4105</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>mapreduce/unit_tests</name>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>mapreduce/unit_tests/mappers</name>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/unit_tests/mappers/asciicount_test.c</name>
+<size>1729</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/unit_tests/mappers/lettercount_test.c</name>
+<size>2049</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/unit_tests/mappers/wordcount_test.c</name>
+<size>2345</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/unit_tests/mappers/wordlengths_test.c</name>
+<size>2211</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/unit_tests/test_common.c</name>
+<size>1532</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/unit_tests/test_mapper.c</name>
+<size>1300</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mapreduce/unit_tests/test_reducer.c</name>
+<size>2247</size>
+<commit
+   revision="68364">
+<author>zmick2</author>
+<date>2016-04-11T04:43:21.191230Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>mini_valgrind</name>
+<commit
+   revision="25328">
+<author>btruong2</author>
+<date>2016-02-18T06:06:27.397183Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mini_valgrind/Makefile</name>
+<size>1571</size>
+<commit
+   revision="18289">
+<author>kocheva2</author>
+<date>2016-02-11T18:52:48.233745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mini_valgrind/grade_report.html</name>
+<size>12115</size>
+<commit
+   revision="23308">
+<author>btruong2</author>
+<date>2016-02-16T10:07:06.796494Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mini_valgrind/memtest-reference</name>
+<size>10488</size>
+<commit
+   revision="17902">
+<author>kocheva2</author>
+<date>2016-02-11T05:12:56.555669Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mini_valgrind/mini_valgrind-reference-release.o</name>
+<size>4792</size>
+<commit
+   revision="18289">
+<author>kocheva2</author>
+<date>2016-02-11T18:52:48.233745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mini_valgrind/mini_valgrind.c</name>
+<size>4195</size>
+<commit
+   revision="18920">
+<author>cliu81</author>
+<date>2016-02-12T06:17:24.551733Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mini_valgrind/mini_valgrind.h</name>
+<size>774</size>
+<commit
+   revision="18289">
+<author>kocheva2</author>
+<date>2016-02-11T18:52:48.233745Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mini_valgrind/results.json</name>
+<size>10752</size>
+<commit
+   revision="25328">
+<author>btruong2</author>
+<date>2016-02-18T06:06:27.397183Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>mini_valgrind/test.c</name>
+<size>674</size>
+<commit
+   revision="18922">
+<author>cliu81</author>
+<date>2016-02-12T06:24:25.188007Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>overworked_interns</name>
+<commit
+   revision="55229">
+<author>ehrat1</author>
+<date>2016-03-17T06:09:56.026423Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>overworked_interns/Makefile</name>
+<size>2700</size>
+<commit
+   revision="46671">
+<author>kocheva2</author>
+<date>2016-03-12T03:51:04.055426Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>overworked_interns/bad_company.c</name>
+<size>829</size>
+<commit
+   revision="45478">
+<author>kocheva2</author>
+<date>2016-03-10T06:41:59.390107Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>overworked_interns/company.c</name>
+<size>3312</size>
+<commit
+   revision="45478">
+<author>kocheva2</author>
+<date>2016-03-10T06:41:59.390107Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>overworked_interns/company.h</name>
+<size>3506</size>
+<commit
+   revision="45478">
+<author>kocheva2</author>
+<date>2016-03-10T06:41:59.390107Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>overworked_interns/good_company-reference</name>
+<size>14688</size>
+<commit
+   revision="45478">
+<author>kocheva2</author>
+<date>2016-03-10T06:41:59.390107Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>overworked_interns/good_company.c</name>
+<size>896</size>
+<commit
+   revision="45840">
+<author>cliu81</author>
+<date>2016-03-10T23:41:44.081052Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>overworked_interns/grade_report.html</name>
+<size>12292</size>
+<commit
+   revision="53498">
+<author>ehrat1</author>
+<date>2016-03-16T09:52:34.241943Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>overworked_interns/libs</name>
+<commit
+   revision="45478">
+<author>kocheva2</author>
+<date>2016-03-10T06:41:59.390107Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>overworked_interns/libs/libprovided.a</name>
+<size>3632</size>
+<commit
+   revision="45478">
+<author>kocheva2</author>
+<date>2016-03-10T06:41:59.390107Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>overworked_interns/results.json</name>
+<size>16146</size>
+<commit
+   revision="55229">
+<author>ehrat1</author>
+<date>2016-03-17T06:09:56.026423Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>overworked_interns/simulator.c</name>
+<size>4338</size>
+<commit
+   revision="45478">
+<author>kocheva2</author>
+<date>2016-03-10T06:41:59.390107Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>parmake</name>
+<commit
+   revision="72621">
+<author>btruong2</author>
+<date>2016-04-14T16:14:56.001003Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>parmake/Makefile</name>
+<size>2465</size>
+<commit
+   revision="57943">
+<author>zmick2</author>
+<date>2016-03-29T04:11:33.819940Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>parmake/examples</name>
+<commit
+   revision="57943">
+<author>zmick2</author>
+<date>2016-03-29T04:11:33.819940Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>parmake/examples/oldfile</name>
+<size>16</size>
+<commit
+   revision="57943">
+<author>zmick2</author>
+<date>2016-03-29T04:11:33.819940Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>parmake/grade_report.html</name>
+<size>13169</size>
+<commit
+   revision="63575">
+<author>ehrat1</author>
+<date>2016-04-06T05:40:10.014272Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>parmake/parmake.c</name>
+<size>13089</size>
+<commit
+   revision="66533">
+<author>cliu81</author>
+<date>2016-04-08T01:02:08.738087Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>parmake/parmake.h</name>
+<size>254</size>
+<commit
+   revision="57943">
+<author>zmick2</author>
+<date>2016-03-29T04:11:33.819940Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>parmake/parmake_main.c</name>
+<size>214</size>
+<commit
+   revision="57943">
+<author>zmick2</author>
+<date>2016-03-29T04:11:33.819940Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>parmake/parser.c</name>
+<size>8340</size>
+<commit
+   revision="57943">
+<author>zmick2</author>
+<date>2016-03-29T04:11:33.819940Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>parmake/parser.h</name>
+<size>520</size>
+<commit
+   revision="57943">
+<author>zmick2</author>
+<date>2016-03-29T04:11:33.819940Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>parmake/queue.c</name>
+<size>3807</size>
+<commit
+   revision="57943">
+<author>zmick2</author>
+<date>2016-03-29T04:11:33.819940Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>parmake/queue.h</name>
+<size>681</size>
+<commit
+   revision="57943">
+<author>zmick2</author>
+<date>2016-03-29T04:11:33.819940Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>parmake/results.json</name>
+<size>39136</size>
+<commit
+   revision="72621">
+<author>btruong2</author>
+<date>2016-04-14T16:14:56.001003Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>parmake/rule.c</name>
+<size>726</size>
+<commit
+   revision="57943">
+<author>zmick2</author>
+<date>2016-03-29T04:11:33.819940Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>parmake/rule.h</name>
+<size>366</size>
+<commit
+   revision="57943">
+<author>zmick2</author>
+<date>2016-03-29T04:11:33.819940Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>parmake/testfile1</name>
+<size>11</size>
+<commit
+   revision="57943">
+<author>zmick2</author>
+<date>2016-03-29T04:11:33.819940Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>parmake/testfile2</name>
+<size>39</size>
+<commit
+   revision="57943">
+<author>zmick2</author>
+<date>2016-03-29T04:11:33.819940Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>parmake/testfile3</name>
+<size>442</size>
+<commit
+   revision="57943">
+<author>zmick2</author>
+<date>2016-03-29T04:11:33.819940Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>parmake/testfile4</name>
+<size>1150</size>
+<commit
+   revision="57943">
+<author>zmick2</author>
+<date>2016-03-29T04:11:33.819940Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>parmake/testfile5</name>
+<size>773</size>
+<commit
+   revision="57943">
+<author>zmick2</author>
+<date>2016-03-29T04:11:33.819940Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>parmake/testfile6</name>
+<size>142</size>
+<commit
+   revision="57943">
+<author>zmick2</author>
+<date>2016-03-29T04:11:33.819940Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>password_cracker</name>
+<commit
+   revision="60407">
+<author>jianliu4</author>
+<date>2016-03-31T23:52:34.817698Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>password_cracker/Makefile</name>
+<size>3677</size>
+<commit
+   revision="41654">
+<author>zmick2</author>
+<date>2016-03-07T05:26:10.090563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>password_cracker/cracker1.c</name>
+<size>3901</size>
+<commit
+   revision="47851">
+<author>cliu81</author>
+<date>2016-03-13T07:48:17.495025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>password_cracker/cracker1.h</name>
+<size>261</size>
+<commit
+   revision="41654">
+<author>zmick2</author>
+<date>2016-03-07T05:26:10.090563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>password_cracker/cracker1_main.c</name>
+<size>680</size>
+<commit
+   revision="41654">
+<author>zmick2</author>
+<date>2016-03-07T05:26:10.090563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>password_cracker/cracker2.c</name>
+<size>5551</size>
+<commit
+   revision="58577">
+<author>cliu81</author>
+<date>2016-03-30T03:33:03.803118Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>password_cracker/cracker2.h</name>
+<size>298</size>
+<commit
+   revision="41654">
+<author>zmick2</author>
+<date>2016-03-07T05:26:10.090563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>password_cracker/cracker2_main.c</name>
+<size>662</size>
+<commit
+   revision="41654">
+<author>zmick2</author>
+<date>2016-03-07T05:26:10.090563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>password_cracker/grade_report.html</name>
+<size>12115</size>
+<commit
+   revision="46238">
+<author>emsauer2</author>
+<date>2016-03-11T16:17:43.197850Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>password_cracker/inputs</name>
+<commit
+   revision="41654">
+<author>zmick2</author>
+<date>2016-03-07T05:26:10.090563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>password_cracker/inputs/cracker.in</name>
+<size>180</size>
+<commit
+   revision="41654">
+<author>zmick2</author>
+<date>2016-03-07T05:26:10.090563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>password_cracker/inputs/cracker1a.in</name>
+<size>116</size>
+<commit
+   revision="41654">
+<author>zmick2</author>
+<date>2016-03-07T05:26:10.090563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>password_cracker/inputs/cracker1b.in</name>
+<size>121</size>
+<commit
+   revision="41654">
+<author>zmick2</author>
+<date>2016-03-07T05:26:10.090563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>password_cracker/inputs/cracker2.in</name>
+<size>640</size>
+<commit
+   revision="41654">
+<author>zmick2</author>
+<date>2016-03-07T05:26:10.090563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>password_cracker/inputs/cracker2_easy.in</name>
+<size>940</size>
+<commit
+   revision="41654">
+<author>zmick2</author>
+<date>2016-03-07T05:26:10.090563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>password_cracker/inputs/cracker2_hard.in</name>
+<size>640</size>
+<commit
+   revision="41654">
+<author>zmick2</author>
+<date>2016-03-07T05:26:10.090563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>password_cracker/inputs/cracker2a.in</name>
+<size>132</size>
+<commit
+   revision="41654">
+<author>zmick2</author>
+<date>2016-03-07T05:26:10.090563Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>password_cracker/libs</name>
+<commit
+   revision="42054">
+<author>zmick2</author>
+<date>2016-03-07T21:20:37.412709Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>password_cracker/libs/format.c</name>
+<size>2348</size>
+<commit
+   revision="41654">
+<author>zmick2</author>
+<date>2016-03-07T05:26:10.090563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>password_cracker/libs/format.h</name>
+<size>3544</size>
+<commit
+   revision="41654">
+<author>zmick2</author>
+<date>2016-03-07T05:26:10.090563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>password_cracker/libs/libprovided.a</name>
+<size>3036</size>
+<commit
+   revision="42054">
+<author>zmick2</author>
+<date>2016-03-07T21:20:37.412709Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>password_cracker/libs/queue.h</name>
+<size>777</size>
+<commit
+   revision="41654">
+<author>zmick2</author>
+<date>2016-03-07T05:26:10.090563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>password_cracker/libs/thread_status.c</name>
+<size>10419</size>
+<commit
+   revision="41654">
+<author>zmick2</author>
+<date>2016-03-07T05:26:10.090563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>password_cracker/libs/thread_status.h</name>
+<size>3497</size>
+<commit
+   revision="41654">
+<author>zmick2</author>
+<date>2016-03-07T05:26:10.090563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>password_cracker/libs/utils.c</name>
+<size>1773</size>
+<commit
+   revision="41654">
+<author>zmick2</author>
+<date>2016-03-07T05:26:10.090563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>password_cracker/libs/utils.h</name>
+<size>2099</size>
+<commit
+   revision="41654">
+<author>zmick2</author>
+<date>2016-03-07T05:26:10.090563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>password_cracker/results.json</name>
+<size>67513</size>
+<commit
+   revision="60407">
+<author>jianliu4</author>
+<date>2016-03-31T23:52:34.817698Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>password_cracker/tools</name>
+<commit
+   revision="41654">
+<author>zmick2</author>
+<date>2016-03-07T05:26:10.090563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>password_cracker/tools/create_examples.c</name>
+<size>3255</size>
+<commit
+   revision="41654">
+<author>zmick2</author>
+<date>2016-03-07T05:26:10.090563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>password_cracker/tools/timing.c</name>
+<size>2147</size>
+<commit
+   revision="41654">
+<author>zmick2</author>
+<date>2016-03-07T05:26:10.090563Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>pointers_gone_wild</name>
+<commit
+   revision="6368">
+<author>btruong2</author>
+<date>2016-02-02T06:08:06.136306Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>pointers_gone_wild/Makefile</name>
+<size>1483</size>
+<commit
+   revision="1339">
+<author>bschong2</author>
+<date>2016-01-24T21:36:53.986222Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>pointers_gone_wild/grade_report.html</name>
+<size>12115</size>
+<commit
+   revision="1549">
+<author>btruong2</author>
+<date>2016-01-25T21:12:24.820276Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>pointers_gone_wild/part1-functions.c</name>
+<size>7706</size>
+<commit
+   revision="3173">
+<author>cliu81</author>
+<date>2016-01-28T07:24:58.566954Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>pointers_gone_wild/part1-functions.h</name>
+<size>723</size>
+<commit
+   revision="1339">
+<author>bschong2</author>
+<date>2016-01-24T21:36:53.986222Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>pointers_gone_wild/part1-main.c</name>
+<size>3384</size>
+<commit
+   revision="1339">
+<author>bschong2</author>
+<date>2016-01-24T21:36:53.986222Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>pointers_gone_wild/part2-functions.c</name>
+<size>2091</size>
+<commit
+   revision="1339">
+<author>bschong2</author>
+<date>2016-01-24T21:36:53.986222Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>pointers_gone_wild/part2-functions.h</name>
+<size>524</size>
+<commit
+   revision="1339">
+<author>bschong2</author>
+<date>2016-01-24T21:36:53.986222Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>pointers_gone_wild/part2-main.c</name>
+<size>1942</size>
+<commit
+   revision="2528">
+<author>cliu81</author>
+<date>2016-01-27T09:39:12.245963Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>pointers_gone_wild/results.json</name>
+<size>261755</size>
+<commit
+   revision="6368">
+<author>btruong2</author>
+<date>2016-02-02T06:08:06.136306Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>scheduler</name>
+<commit
+   revision="84385">
+<author>cliu81</author>
+<date>2016-04-29T02:03:25.258342Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/Makefile</name>
+<size>2162</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>scheduler/examples</name>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc1-c1-fcfs.out</name>
+<size>3763</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc1-c1-pri.out</name>
+<size>3762</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc1-c1-psjf.out</name>
+<size>3762</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc1-c1-rr1.out</name>
+<size>5759</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc1-c1-rr2.out</name>
+<size>4678</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc1-c1-rr4.out</name>
+<size>4060</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc1-c2-fcfs.out</name>
+<size>4154</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc1-c2-pri.out</name>
+<size>4153</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc1-c2-psjf.out</name>
+<size>4160</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc1-c2-rr1.out</name>
+<size>6110</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc1-c2-rr2.out</name>
+<size>5035</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc1-c2-rr4.out</name>
+<size>4450</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc1.csv</name>
+<size>63</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc2-c1-fcfs.out</name>
+<size>3611</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc2-c1-pri.out</name>
+<size>3580</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc2-c1-psjf.out</name>
+<size>3483</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc2-c1-rr1.out</name>
+<size>5620</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc2-c1-rr2.out</name>
+<size>4485</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc2-c1-rr4.out</name>
+<size>3950</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc2-c2-fcfs.out</name>
+<size>2791</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc2-c2-pri.out</name>
+<size>2790</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc2-c2-psjf.out</name>
+<size>3005</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc2-c2-rr1.out</name>
+<size>4761</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc2-c2-rr2.out</name>
+<size>3628</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc2-c2-rr4.out</name>
+<size>3001</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc2.csv</name>
+<size>68</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc3-c1-fcfs.out</name>
+<size>38161</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc3-c1-pri.out</name>
+<size>39542</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc3-c1-psjf.out</name>
+<size>35240</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc3-c1-rr1.out</name>
+<size>63152</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc3-c1-rr2.out</name>
+<size>51370</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc3-c1-rr4.out</name>
+<size>44883</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc3-c2-fcfs.out</name>
+<size>22448</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc3-c2-pri.out</name>
+<size>23414</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc3-c2-psjf.out</name>
+<size>22475</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc3-c2-rr1.out</name>
+<size>44938</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc3-c2-rr2.out</name>
+<size>33913</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc3-c2-rr4.out</name>
+<size>27607</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc3-c4-fcfs.out</name>
+<size>15389</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc3-c4-pri.out</name>
+<size>15205</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc3-c4-psjf.out</name>
+<size>15691</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc3-c4-rr1.out</name>
+<size>35403</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc3-c4-rr2.out</name>
+<size>25101</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc3-c4-rr4.out</name>
+<size>19897</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples/proc3.csv</name>
+<size>160</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/examples.pl</name>
+<size>394</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/grade_report.html</name>
+<size>13169</size>
+<commit
+   revision="79575">
+<author>emsauer2</author>
+<date>2016-04-24T10:06:54.989801Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>scheduler/libpriqueue</name>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/libpriqueue/libpriqueue.c</name>
+<size>3248</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/libpriqueue/libpriqueue.h</name>
+<size>645</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>scheduler/libscheduler</name>
+<commit
+   revision="84385">
+<author>cliu81</author>
+<date>2016-04-29T02:03:25.258342Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/libscheduler/libscheduler.c</name>
+<size>9727</size>
+<commit
+   revision="84385">
+<author>cliu81</author>
+<date>2016-04-29T02:03:25.258342Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/libscheduler/libscheduler.h</name>
+<size>1698</size>
+<commit
+   revision="82785">
+<author>cliu81</author>
+<date>2016-04-26T14:11:30.518968Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/results.json</name>
+<size>11216</size>
+<commit
+   revision="84373">
+<author>emsauer2</author>
+<date>2016-04-28T23:03:13.234071Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>scheduler/simulator.c</name>
+<size>13066</size>
+<commit
+   revision="78852">
+<author>kocheva2</author>
+<date>2016-04-21T08:36:57.898743Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>shell</name>
+<commit
+   revision="30438">
+<author>bschong2</author>
+<date>2016-02-23T06:21:44.778409Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shell/Makefile</name>
+<size>1389</size>
+<commit
+   revision="21576">
+<author>bschong2</author>
+<date>2016-02-15T07:56:01.113176Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shell/format.c</name>
+<size>2466</size>
+<commit
+   revision="24140">
+<author>zmick2</author>
+<date>2016-02-17T05:58:00.135105Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shell/format.h</name>
+<size>2155</size>
+<commit
+   revision="24140">
+<author>zmick2</author>
+<date>2016-02-17T05:58:00.135105Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shell/grade_report.html</name>
+<size>12115</size>
+<commit
+   revision="25887">
+<author>bschong2</author>
+<date>2016-02-19T01:04:35.025953Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>shell/includes</name>
+<commit
+   revision="21576">
+<author>bschong2</author>
+<date>2016-02-15T07:56:01.113176Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shell/includes/log.h</name>
+<size>1165</size>
+<commit
+   revision="21576">
+<author>bschong2</author>
+<date>2016-02-15T07:56:01.113176Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shell/includes/vector.h</name>
+<size>4424</size>
+<commit
+   revision="21576">
+<author>bschong2</author>
+<date>2016-02-15T07:56:01.113176Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>shell/libs</name>
+<commit
+   revision="21576">
+<author>bschong2</author>
+<date>2016-02-15T07:56:01.113176Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shell/libs/libprovided.a</name>
+<size>11484</size>
+<commit
+   revision="21576">
+<author>bschong2</author>
+<date>2016-02-15T07:56:01.113176Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shell/results.json</name>
+<size>31788</size>
+<commit
+   revision="30438">
+<author>bschong2</author>
+<date>2016-02-23T06:21:44.778409Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shell/shell.c</name>
+<size>5191</size>
+<commit
+   revision="26568">
+<author>cliu81</author>
+<date>2016-02-20T08:50:09.090450Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>terrible_threads</name>
+<commit
+   revision="40144">
+<author>emsauer2</author>
+<date>2016-03-03T18:46:15.781169Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>terrible_threads/Makefile</name>
+<size>2390</size>
+<commit
+   revision="32706">
+<author>kocheva2</author>
+<date>2016-02-25T06:16:39.072184Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>terrible_threads/grade_report.html</name>
+<size>12115</size>
+<commit
+   revision="38110">
+<author>emsauer2</author>
+<date>2016-03-01T19:41:21.498918Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>terrible_threads/queue.c</name>
+<size>1955</size>
+<commit
+   revision="33453">
+<author>cliu81</author>
+<date>2016-02-26T01:35:48.037969Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>terrible_threads/queue.h</name>
+<size>622</size>
+<commit
+   revision="32706">
+<author>kocheva2</author>
+<date>2016-02-25T06:16:39.072184Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>terrible_threads/rendezvous.c</name>
+<size>1400</size>
+<commit
+   revision="32706">
+<author>kocheva2</author>
+<date>2016-02-25T06:16:39.072184Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>terrible_threads/rendezvous_sol.c</name>
+<size>1509</size>
+<commit
+   revision="32706">
+<author>kocheva2</author>
+<date>2016-02-25T06:16:39.072184Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>terrible_threads/results.json</name>
+<size>6595</size>
+<commit
+   revision="40144">
+<author>emsauer2</author>
+<date>2016-03-03T18:46:15.781169Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>terrible_threads/semamore.c</name>
+<size>1622</size>
+<commit
+   revision="33295">
+<author>cliu81</author>
+<date>2016-02-25T23:12:50.597485Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>terrible_threads/semamore.h</name>
+<size>1007</size>
+<commit
+   revision="32706">
+<author>kocheva2</author>
+<date>2016-02-25T06:16:39.072184Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>terrible_threads/testqueue.c</name>
+<size>2020</size>
+<commit
+   revision="32706">
+<author>kocheva2</author>
+<date>2016-02-25T06:16:39.072184Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>text_editor</name>
+<commit
+   revision="23373">
+<author>emsauer2</author>
+<date>2016-02-16T18:02:14.095915Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>text_editor/Makefile</name>
+<size>1711</size>
+<commit
+   revision="12167">
+<author>zmick2</author>
+<date>2016-02-08T02:14:19.368885Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>text_editor/editor-reference</name>
+<size>14704</size>
+<commit
+   revision="15960">
+<author>zmick2</author>
+<date>2016-02-10T04:19:30.076265Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>text_editor/editor.c</name>
+<size>6210</size>
+<commit
+   revision="20192">
+<author>cliu81</author>
+<date>2016-02-14T07:52:11.988112Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>text_editor/editor.h</name>
+<size>1155</size>
+<commit
+   revision="12167">
+<author>zmick2</author>
+<date>2016-02-08T02:14:19.368885Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>text_editor/editor_main.c</name>
+<size>2012</size>
+<commit
+   revision="15858">
+<author>zmick2</author>
+<date>2016-02-10T03:15:40.596063Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>text_editor/editor_test.c</name>
+<size>437</size>
+<commit
+   revision="12167">
+<author>zmick2</author>
+<date>2016-02-08T02:14:19.368885Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>text_editor/format.c</name>
+<size>1835</size>
+<commit
+   revision="12167">
+<author>zmick2</author>
+<date>2016-02-08T02:14:19.368885Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>text_editor/format.h</name>
+<size>2030</size>
+<commit
+   revision="12167">
+<author>zmick2</author>
+<date>2016-02-08T02:14:19.368885Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>text_editor/grade_report.html</name>
+<size>12115</size>
+<commit
+   revision="19469">
+<author>emsauer2</author>
+<date>2016-02-13T20:09:10.923389Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>text_editor/includes</name>
+<commit
+   revision="12167">
+<author>zmick2</author>
+<date>2016-02-08T02:14:19.368885Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>text_editor/includes/document.h</name>
+<size>2051</size>
+<commit
+   revision="12167">
+<author>zmick2</author>
+<date>2016-02-08T02:14:19.368885Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>text_editor/includes/vector.h</name>
+<size>4366</size>
+<commit
+   revision="12167">
+<author>zmick2</author>
+<date>2016-02-08T02:14:19.368885Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>text_editor/libs</name>
+<commit
+   revision="13046">
+<author>zmick2</author>
+<date>2016-02-08T18:44:14.466830Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>text_editor/libs/libprovided.a</name>
+<size>27730</size>
+<commit
+   revision="13046">
+<author>zmick2</author>
+<date>2016-02-08T18:44:14.466830Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>text_editor/results.json</name>
+<size>24127</size>
+<commit
+   revision="23373">
+<author>emsauer2</author>
+<date>2016-02-16T18:02:14.095915Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>utilities_unleashed</name>
+<commit
+   revision="18191">
+<author>jianliu4</author>
+<date>2016-02-11T06:30:33.116820Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>utilities_unleashed/Makefile</name>
+<size>462</size>
+<commit
+   revision="8558">
+<author>kocheva2</author>
+<date>2016-02-04T00:59:01.681155Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>utilities_unleashed/env.c</name>
+<size>4911</size>
+<commit
+   revision="15703">
+<author>cliu81</author>
+<date>2016-02-10T01:12:37.470946Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>utilities_unleashed/env_reference</name>
+<size>14138</size>
+<commit
+   revision="10005">
+<author>bschong2</author>
+<date>2016-02-05T04:37:02.691370Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>utilities_unleashed/format.c</name>
+<size>763</size>
+<commit
+   revision="8558">
+<author>kocheva2</author>
+<date>2016-02-04T00:59:01.681155Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>utilities_unleashed/format.h</name>
+<size>981</size>
+<commit
+   revision="8558">
+<author>kocheva2</author>
+<date>2016-02-04T00:59:01.681155Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>utilities_unleashed/grade_report.html</name>
+<size>12115</size>
+<commit
+   revision="16162">
+<author>jianliu4</author>
+<date>2016-02-10T06:33:07.841270Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>utilities_unleashed/results.json</name>
+<size>4955</size>
+<commit
+   revision="18191">
+<author>jianliu4</author>
+<date>2016-02-11T06:30:33.116820Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>utilities_unleashed/time.c</name>
+<size>1135</size>
+<commit
+   revision="15612">
+<author>cliu81</author>
+<date>2016-02-10T00:20:21.062348Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>utilities_unleashed/time_reference</name>
+<size>9286</size>
+<commit
+   revision="8558">
+<author>kocheva2</author>
+<date>2016-02-04T00:59:01.681155Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>vector</name>
+<commit
+   revision="15271">
+<author>festekj2</author>
+<date>2016-02-09T15:11:08.608527Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>vector/Makefile</name>
+<size>1957</size>
+<commit
+   revision="10915">
+<author>zmick2</author>
+<date>2016-02-06T21:45:43.376301Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>vector/document.c</name>
+<size>2173</size>
+<commit
+   revision="11473">
+<author>cliu81</author>
+<date>2016-02-07T07:30:46.314354Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>vector/document.h</name>
+<size>2117</size>
+<commit
+   revision="5197">
+<author>bschong2</author>
+<date>2016-02-01T02:25:26.285076Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>vector/document_test.c</name>
+<size>1370</size>
+<commit
+   revision="11490">
+<author>cliu81</author>
+<date>2016-02-07T07:48:44.880628Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>vector/grade_report.html</name>
+<size>12115</size>
+<commit
+   revision="9029">
+<author>festekj2</author>
+<date>2016-02-04T05:00:20.429816Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>vector/libs</name>
+<commit
+   revision="9665">
+<author>zmick2</author>
+<date>2016-02-04T23:36:26.002987Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>vector/libs/libprovided.a</name>
+<size>12280</size>
+<commit
+   revision="9665">
+<author>zmick2</author>
+<date>2016-02-04T23:36:26.002987Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>vector/results.json</name>
+<size>79845</size>
+<commit
+   revision="15271">
+<author>festekj2</author>
+<date>2016-02-09T15:11:08.608527Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>vector/vector.c</name>
+<size>3158</size>
+<commit
+   revision="11480">
+<author>cliu81</author>
+<date>2016-02-07T07:41:10.906832Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>vector/vector.h</name>
+<size>4465</size>
+<commit
+   revision="5197">
+<author>bschong2</author>
+<date>2016-02-01T02:25:26.285076Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>vector/vector_test.c</name>
+<size>3173</size>
+<commit
+   revision="11371">
+<author>cliu81</author>
+<date>2016-02-07T05:58:05.501318Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>vm_info.txt</name>
+<size>670</size>
+<commit
+   revision="408">
+<author>bschong2</author>
+<date>2016-01-21T04:30:20.254266Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>wearables</name>
+<commit
+   revision="87146">
+<author>jianliu4</author>
+<date>2016-05-06T23:50:16.826573Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>wearables/Makefile</name>
+<size>565</size>
+<commit
+   revision="79805">
+<author>zmick2</author>
+<date>2016-04-25T00:42:09.446639Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>wearables/check_solution.sh</name>
+<size>90</size>
+<commit
+   revision="79805">
+<author>zmick2</author>
+<date>2016-04-25T00:42:09.446639Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>wearables/grade_report.html</name>
+<size>13169</size>
+<commit
+   revision="84866">
+<author>jianliu4</author>
+<date>2016-05-02T03:12:48.049985Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>wearables/queue.c</name>
+<size>2023</size>
+<commit
+   revision="79805">
+<author>zmick2</author>
+<date>2016-04-25T00:42:09.446639Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>wearables/queue.h</name>
+<size>1865</size>
+<commit
+   revision="79805">
+<author>zmick2</author>
+<date>2016-04-25T00:42:09.446639Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>wearables/results.json</name>
+<size>12523</size>
+<commit
+   revision="87146">
+<author>jianliu4</author>
+<date>2016-05-06T23:50:16.826573Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>wearables/tests</name>
+<commit
+   revision="79805">
+<author>zmick2</author>
+<date>2016-04-25T00:42:09.446639Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>wearables/tests/ONE_WEARABLE_TEST.ww</name>
+<size>96</size>
+<commit
+   revision="79805">
+<author>zmick2</author>
+<date>2016-04-25T00:42:09.446639Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>wearables/tests/SIMPLE.ww</name>
+<size>101</size>
+<commit
+   revision="79805">
+<author>zmick2</author>
+<date>2016-04-25T00:42:09.446639Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>wearables/tests/STRESS_TEST.ww</name>
+<size>198460</size>
+<commit
+   revision="79805">
+<author>zmick2</author>
+<date>2016-04-25T00:42:09.446639Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>wearables/tests/SYNCHRONIZED_TEST.ww</name>
+<size>26643</size>
+<commit
+   revision="79805">
+<author>zmick2</author>
+<date>2016-04-25T00:42:09.446639Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>wearables/tests/TRICKY.ww</name>
+<size>554</size>
+<commit
+   revision="79805">
+<author>zmick2</author>
+<date>2016-04-25T00:42:09.446639Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>wearables/tests/TWO_WEARABLE_TEST.ww</name>
+<size>289</size>
+<commit
+   revision="79805">
+<author>zmick2</author>
+<date>2016-04-25T00:42:09.446639Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>wearables/tests/test_maker.py</name>
+<size>839</size>
+<commit
+   revision="79805">
+<author>zmick2</author>
+<date>2016-04-25T00:42:09.446639Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>wearables/wearable.c</name>
+<size>4342</size>
+<commit
+   revision="79805">
+<author>zmick2</author>
+<date>2016-04-25T00:42:09.446639Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>wearables/wearable.h</name>
+<size>1295</size>
+<commit
+   revision="79805">
+<author>zmick2</author>
+<date>2016-04-25T00:42:09.446639Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>wearables/wearable_server.c</name>
+<size>12971</size>
+<commit
+   revision="84431">
+<author>cliu81</author>
+<date>2016-04-29T17:37:58.210495Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>wearables/wearable_sim.c</name>
+<size>8862</size>
+<commit
+   revision="79805">
+<author>zmick2</author>
+<date>2016-04-25T00:42:09.446639Z</date>
+</commit>
+</entry>
+</list>
+</lists>

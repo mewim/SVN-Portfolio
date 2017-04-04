@@ -1,0 +1,24 @@
+{
+  "name": "cs242_assignment3",
+  "version": "0.2.0",
+  "description": "CS242 Assignment 3 - Creating a Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Chang Liu",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-fileupload": "^0.1.2",
+    "express-logging": "^1.1.1",
+    "logops": "^1.0.7",
+    "mongoose": "^4.9.1",
+    "sync-request": "^4.0.1",
+    "xml2js": "^0.4.17"
+  },
+  "engines": {
+    "node": "7.4.0"
+  }
+}

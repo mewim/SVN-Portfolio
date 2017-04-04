@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="1430">
+<author>cliu81</author>
+<date>2015-12-09T22:59:05.290934Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/hw/cliu81_hw4.pdf</path>
+</paths>
+<msg>revert the accidently commited hw4</msg>
+</logentry>
+<logentry
+   revision="1427">
+<author>cliu81</author>
+<date>2015-12-09T22:47:35.591534Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/hw/cliu81_hw4.pdf</path>
+<path
+   kind="file"
+   action="M">/cliu81/mp4/cliu81_mp4.pdf</path>
+</paths>
+<msg>updated MP4 report</msg>
+</logentry>
+<logentry
+   revision="1399">
+<author>cliu81</author>
+<date>2015-12-09T06:14:58.472424Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/mp4/cliu81_mp4.pdf</path>
+</paths>
+<msg>report v0.1</msg>
+</logentry>
+<logentry
+   revision="1338">
+<author>cliu81</author>
+<date>2015-12-08T20:38:39.797727Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp4/jacobi_hyb.c</path>
+</paths>
+<msg>jacobi_hyb 0.11</msg>
+</logentry>
+<logentry
+   revision="1333">
+<author>cliu81</author>
+<date>2015-12-08T06:10:03.186983Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/mp4/gauss_jacobi_hyb.c</path>
+</paths>
+<msg>gauss_jacobi_hyb v0.1</msg>
+</logentry>
+<logentry
+   revision="1332">
+<author>cliu81</author>
+<date>2015-12-08T05:36:04.691233Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/cliu81/mp4</path>
+<path
+   kind="file"
+   action="A">/cliu81/mp4/jacobi_hyb.c</path>
+</paths>
+<msg>jacobi_hyb v0.1</msg>
+</logentry>
+<logentry
+   revision="1267">
+<author>cliu81</author>
+<date>2015-11-16T22:34:03.902354Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/hw/cliu81_hw4.pdf</path>
+</paths>
+<msg>hw 4 updated</msg>
+</logentry>
+<logentry
+   revision="1266">
+<author>cliu81</author>
+<date>2015-11-16T22:31:41.685089Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/hw/cliu81_hw4.pdf</path>
+</paths>
+<msg>hw 4 updated</msg>
+</logentry>
+<logentry
+   revision="1261">
+<author>cliu81</author>
+<date>2015-11-16T22:26:40.054730Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/hw/cliu81_hw4.pdf</path>
+</paths>
+<msg>hw 4 updated</msg>
+</logentry>
+<logentry
+   revision="1237">
+<author>cliu81</author>
+<date>2015-11-16T16:47:40.173070Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/hw/cliu81_hw4.pdf</path>
+</paths>
+<msg>hw 4 v1</msg>
+</logentry>
+<logentry
+   revision="1134">
+<author>cliu81</author>
+<date>2015-11-12T18:06:06.437896Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/mp3/cliu81_mp3.pdf</path>
+</paths>
+<msg>report mp3</msg>
+</logentry>
+<logentry
+   revision="1112">
+<author>cliu81</author>
+<date>2015-11-11T03:04:54.817058Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp3/balance.c</path>
+</paths>
+<msg>updated balance</msg>
+</logentry>
+<logentry
+   revision="1097">
+<author>cliu81</author>
+<date>2015-11-09T23:40:16.676216Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/mp3/balance.c</path>
+</paths>
+<msg>"balance"</msg>
+</logentry>
+<logentry
+   revision="1089">
+<author>cliu81</author>
+<date>2015-11-09T04:46:09.028341Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/mp3</path>
+<path
+   action="A"
+   kind="file">/cliu81/mp3/recd.c</path>
+<path
+   kind="file"
+   action="A">/cliu81/mp3/tred.c</path>
+</paths>
+<msg>mp3 recd &amp; tred</msg>
+</logentry>
+<logentry
+   revision="1051">
+<author>cliu81</author>
+<date>2015-10-28T21:56:49.555788Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/hw/cliu81_hw3.pdf</path>
+</paths>
+<msg>hw3, submission2</msg>
+</logentry>
+<logentry
+   revision="1041">
+<author>cliu81</author>
+<date>2015-10-28T21:46:59.294271Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/hw/cliu81_hw3.pdf</path>
+</paths>
+<msg>hw3, submission1</msg>
+</logentry>
+<logentry
+   revision="913">
+<author>cliu81</author>
+<date>2015-10-21T03:49:32.729770Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/mp2</path>
+<path
+   kind="file"
+   action="A">/cliu81/mp2/cliu81_mp2.pdf</path>
+<path
+   action="A"
+   kind="file">/cliu81/mp2/gauss_seidel_parallel.c</path>
+</paths>
+<msg>mp3</msg>
+</logentry>
+<logentry
+   revision="808">
+<author>cliu81</author>
+<date>2015-10-01T00:36:34.141997Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/hw/cliu81_hw2.pdf</path>
+</paths>
+<msg>hw2</msg>
+</logentry>
+<logentry
+   revision="664">
+<author>cliu81</author>
+<date>2015-09-25T20:10:36.634686Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/mp1/cliu81_mp1.pdf</path>
+</paths>
+<msg>report PDF</msg>
+</logentry>
+<logentry
+   revision="628">
+<author>cliu81</author>
+<date>2015-09-25T07:18:11.148045Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp1/mmm_tiled.c</path>
+</paths>
+<msg>mmm_tiled.c</msg>
+</logentry>
+<logentry
+   revision="558">
+<author>cliu81</author>
+<date>2015-09-23T03:42:34.048324Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/mp1/mmm_tiled.c</path>
+<path
+   action="A"
+   kind="file">/cliu81/mp1/mmm_urjam.c</path>
+</paths>
+<msg>add mmm_urjam.c &amp; mmm_tiled.c</msg>
+</logentry>
+<logentry
+   revision="557">
+<author>cliu81</author>
+<date>2015-09-23T03:41:18.296040Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/mp1</path>
+</paths>
+<msg>add mp1 directory</msg>
+</logentry>
+<logentry
+   revision="511">
+<author>cliu81</author>
+<date>2015-09-11T21:59:36.588371Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/hw/cliu81_hw1.pdf</path>
+</paths>
+<msg>hw1 submission 2</msg>
+</logentry>
+<logentry
+   revision="497">
+<author>cliu81</author>
+<date>2015-09-11T21:39:32.381053Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/hw/cliu81_hw1.pdf</path>
+</paths>
+<msg>hw1 submission 1</msg>
+</logentry>
+<logentry
+   revision="496">
+<author>cliu81</author>
+<date>2015-09-11T21:38:01.101462Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/cliu81/hw</path>
+</paths>
+<msg>add hw folder</msg>
+</logentry>
+<logentry
+   revision="285">
+<author>cliu81</author>
+<date>2015-09-04T05:16:37.095303Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/cliu81/mp0/Makefile</path>
+<path
+   kind="file"
+   action="D">/cliu81/mp0/batch_script.run</path>
+<path
+   kind="file"
+   action="A">/cliu81/mp0/cliu81_mp0.txt</path>
+<path
+   kind="file"
+   action="D">/cliu81/mp0/mp0_2.c</path>
+</paths>
+<msg>Submission 2</msg>
+</logentry>
+<logentry
+   revision="270">
+<author>cliu81</author>
+<date>2015-09-04T03:52:32.002959Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/mp0/Makefile</path>
+<path
+   kind="file"
+   action="A">/cliu81/mp0/batch_script.run</path>
+<path
+   kind="file"
+   action="A">/cliu81/mp0/mp0_2.c</path>
+</paths>
+<msg>Submission 1.1.1</msg>
+</logentry>
+<logentry
+   revision="267">
+<author>cliu81</author>
+<date>2015-09-04T03:43:49.277156Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp0/mp0_1a.c</path>
+<path
+   kind="file"
+   action="M">/cliu81/mp0/mp0_1b.c</path>
+</paths>
+<msg>Submission 1.1</msg>
+</logentry>
+<logentry
+   revision="266">
+<author>cliu81</author>
+<date>2015-09-04T03:41:35.161426Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/mp0</path>
+<path
+   kind="file"
+   action="A">/cliu81/mp0/mp0_1a.c</path>
+<path
+   kind="file"
+   action="A">/cliu81/mp0/mp0_1b.c</path>
+</paths>
+<msg>Submission 1</msg>
+</logentry>
+<logentry
+   revision="104">
+<author>root</author>
+<date>2015-08-26T14:15:12.295132Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81</path>
+</paths>
+<msg>created directory cliu81</msg>
+</logentry>
+</log>

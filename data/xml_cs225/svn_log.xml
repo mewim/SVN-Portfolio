@@ -1,0 +1,2067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="47815">
+<author>tolar2</author>
+<date>2015-05-06T06:35:08.212504Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/mp7/grade_report_final.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="46471">
+<author>tolar2</author>
+<date>2015-05-05T16:34:17.822747Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp7/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="46093">
+<author>cliu81</author>
+<date>2015-05-05T02:00:07.000542Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp7/dsets.cpp</path>
+</paths>
+<msg>Submission .011 DI</msg>
+</logentry>
+<logentry
+   revision="45887">
+<author>cliu81</author>
+<date>2015-05-04T19:41:52.942537Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp7/maze.cpp</path>
+<path
+   kind="file"
+   action="A">/cliu81/mp7/partners.txt</path>
+</paths>
+<msg>Submission .001</msg>
+</logentry>
+<logentry
+   revision="45792">
+<author>tolar2</author>
+<date>2015-05-04T06:52:43.969723Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp7/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="45742">
+<author>tolar2</author>
+<date>2015-05-04T05:46:56.712789Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/lab_graphs/grade_report_final.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="45440">
+<author>cliu81</author>
+<date>2015-05-04T03:35:20.468362Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/lab_graphs/graph_tools.cpp</path>
+</paths>
+<msg>submission .011atm</msg>
+</logentry>
+<logentry
+   revision="45158">
+<author>cliu81</author>
+<date>2015-05-03T23:48:54.272791Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp7/maze.cpp</path>
+</paths>
+<msg>alpha .0014 trail 2</msg>
+</logentry>
+<logentry
+   revision="45061">
+<author>cliu81</author>
+<date>2015-05-03T23:05:52.903095Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp7/maze.cpp</path>
+<path
+   action="M"
+   kind="file">/cliu81/mp7/maze.h</path>
+</paths>
+<msg>alpha .0014 untested</msg>
+</logentry>
+<logentry
+   revision="45014">
+<author>cliu81</author>
+<date>2015-05-03T22:16:22.598847Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp7/maze.cpp</path>
+<path
+   action="M"
+   kind="file">/cliu81/mp7/maze.h</path>
+</paths>
+<msg>alpha .0013</msg>
+</logentry>
+<logentry
+   revision="44768">
+<author>cliu81</author>
+<date>2015-05-03T08:00:10.399652Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp7/maze.cpp</path>
+</paths>
+<msg>alpha .02</msg>
+</logentry>
+<logentry
+   revision="44736">
+<author>tolar2</author>
+<date>2015-05-03T06:16:35.085429Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp7/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="44702">
+<author>cliu81</author>
+<date>2015-05-03T04:58:57.300358Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp7/maze.cpp</path>
+</paths>
+<msg>alpha .0011</msg>
+</logentry>
+<logentry
+   revision="44683">
+<author>cliu81</author>
+<date>2015-05-03T04:28:12.007789Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp7/maze.cpp</path>
+<path
+   kind="file"
+   action="M">/cliu81/mp7/maze.h</path>
+</paths>
+<msg>alpha .001</msg>
+</logentry>
+<logentry
+   revision="44394">
+<author>tolar2</author>
+<date>2015-05-02T06:12:36.731251Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp7/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="44224">
+<author>cliu81</author>
+<date>2015-05-01T19:44:01.759881Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/lab_graphs/graph_tools.cpp</path>
+</paths>
+<msg>Submission .0013</msg>
+</logentry>
+<logentry
+   revision="44222">
+<author>cliu81</author>
+<date>2015-05-01T19:41:45.854307Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/lab_graphs/graph_tools.cpp</path>
+</paths>
+<msg>Submission .0012</msg>
+</logentry>
+<logentry
+   revision="44220">
+<author>cliu81</author>
+<date>2015-05-01T19:38:27.448003Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/lab_graphs/graph_tools.cpp</path>
+</paths>
+<msg>Submission .0011</msg>
+</logentry>
+<logentry
+   revision="44215">
+<author>cliu81</author>
+<date>2015-05-01T19:32:07.271840Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/lab_graphs/graph_tools.cpp</path>
+</paths>
+<msg>Submission .001</msg>
+</logentry>
+<logentry
+   revision="44115">
+<author>tolar2</author>
+<date>2015-05-01T06:14:49.252332Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp7/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="44114">
+<author>cliu81</author>
+<date>2015-05-01T06:09:59.481026Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/lab_graphs/dsets.cpp</path>
+<path
+   kind="file"
+   action="A">/cliu81/lab_graphs/dsets.h</path>
+</paths>
+<msg>dsets</msg>
+</logentry>
+<logentry
+   revision="43845">
+<author>tolar2</author>
+<date>2015-04-30T06:15:17.695954Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/mp7/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="43716">
+<author>bzhang44</author>
+<date>2015-04-29T21:25:08.664306Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/lab_graphs</path>
+</paths>
+</logentry>
+<logentry
+   revision="43683">
+<author>tolar2</author>
+<date>2015-04-29T05:40:55.789400Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/mp7/grade_report_extra_credit.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="43340">
+<author>cliu81</author>
+<date>2015-04-28T05:51:07.303466Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp7/dsets.cpp</path>
+<path
+   action="M"
+   kind="file">/cliu81/mp7/dsets.h</path>
+</paths>
+<msg>dsets .001</msg>
+</logentry>
+<logentry
+   revision="42941">
+<author>tolar2</author>
+<date>2015-04-27T05:38:53.316634Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/lab_heaps/grade_report_final.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="41606">
+<author>cliu81</author>
+<date>2015-04-24T01:39:51.207839Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/lab_heaps/heap.cpp</path>
+</paths>
+<msg>heap.cpp .0001</msg>
+</logentry>
+<logentry
+   revision="41237">
+<author>bzhang44</author>
+<date>2015-04-22T21:46:26.133942Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/cliu81/lab_heaps</path>
+</paths>
+</logentry>
+<logentry
+   revision="41157">
+<author>tolar2</author>
+<date>2015-04-22T05:43:43.526316Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/mp6/grade_report_final.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="40981">
+<author>nwang16</author>
+<date>2015-04-22T03:44:18.220503Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/mp7</path>
+</paths>
+</logentry>
+<logentry
+   revision="40515">
+<author>tolar2</author>
+<date>2015-04-21T05:45:06.409149Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp6/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="40346">
+<author>cliu81</author>
+<date>2015-04-21T00:58:08.867472Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/mp6/partners.txt</path>
+</paths>
+<msg>Submission .099</msg>
+</logentry>
+<logentry
+   revision="40181">
+<author>tolar2</author>
+<date>2015-04-20T06:47:01.400742Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp6/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="40165">
+<author>tolar2</author>
+<date>2015-04-20T06:14:19.576357Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/lab_hash/grade_report_final.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="39363">
+<author>tolar2</author>
+<date>2015-04-19T05:43:46.012301Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp6/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="39349">
+<author>cliu81</author>
+<date>2015-04-19T04:50:43.882131Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp6/maptiles.cpp</path>
+</paths>
+<msg>test maptiles 0.0001</msg>
+</logentry>
+<logentry
+   revision="39058">
+<author>tolar2</author>
+<date>2015-04-18T05:46:10.226653Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp6/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="38829">
+<author>tolar2</author>
+<date>2015-04-17T05:43:42.645891Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp6/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="38764">
+<author>cliu81</author>
+<date>2015-04-17T01:42:18.860970Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/lab_hash/anagram_finder.cpp</path>
+<path
+   kind="file"
+   action="M">/cliu81/lab_hash/logfile_parser.cpp</path>
+<path
+   kind="file"
+   action="M">/cliu81/lab_hash/schashtable.cpp</path>
+<path
+   kind="file"
+   action="M">/cliu81/lab_hash/word_counter.cpp</path>
+</paths>
+<msg>Submission 0.001</msg>
+</logentry>
+<logentry
+   revision="38511">
+<author>tolar2</author>
+<date>2015-04-16T05:46:13.360665Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/mp6/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="38470">
+<author>cliu81</author>
+<date>2015-04-16T03:05:28.568134Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/lab_hash/lphashtable.cpp</path>
+<path
+   kind="file"
+   action="M">/cliu81/lab_hash/schashtable.cpp</path>
+</paths>
+<msg>tables trail .001</msg>
+</logentry>
+<logentry
+   revision="38407">
+<author>tolar2</author>
+<date>2015-04-15T23:43:44.165548Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp6/grade_report_extra_credit.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="38385">
+<author>bzhang44</author>
+<date>2015-04-15T21:52:38.020453Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/cliu81/lab_hash</path>
+</paths>
+</logentry>
+<logentry
+   revision="38329">
+<author>tolar2</author>
+<date>2015-04-15T05:35:16.917043Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/mp6/grade_report_extra_credit.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="37955">
+<author>tolar2</author>
+<date>2015-04-15T03:21:05.939336Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/mt2-scores.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="37721">
+<author>cliu81</author>
+<date>2015-04-15T00:55:32.109803Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp6/kdtree.cpp</path>
+</paths>
+<msg>k-d tree .0011</msg>
+</logentry>
+<logentry
+   revision="37700">
+<author>cliu81</author>
+<date>2015-04-15T00:43:36.684692Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp6/kdtree.cpp</path>
+<path
+   action="M"
+   kind="file">/cliu81/mp6/kdtree.h</path>
+</paths>
+<msg>k-d tree .001</msg>
+</logentry>
+<logentry
+   revision="36976">
+<author>tolar2</author>
+<date>2015-04-13T05:43:34.211336Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/lab_btree/grade_report_final.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="36198">
+<author>cliu81</author>
+<date>2015-04-12T20:01:39.451029Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/lab_btree/btree.cpp</path>
+<path
+   kind="file"
+   action="M">/cliu81/lab_btree/btree.h</path>
+</paths>
+<msg>Submission .0004</msg>
+</logentry>
+<logentry
+   revision="36135">
+<author>cliu81</author>
+<date>2015-04-12T17:51:06.343907Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/lab_btree/btree.cpp</path>
+</paths>
+<msg>Submission .003</msg>
+</logentry>
+<logentry
+   revision="35606">
+<author>cliu81</author>
+<date>2015-04-10T16:54:12.453806Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/lab_btree/btree.h</path>
+</paths>
+<msg>Submission 0.0002</msg>
+</logentry>
+<logentry
+   revision="35576">
+<author>cliu81</author>
+<date>2015-04-10T09:57:38.651728Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/lab_btree/btree.cpp</path>
+<path
+   action="M"
+   kind="file">/cliu81/lab_btree/btree.h</path>
+</paths>
+<msg>Submission .0001</msg>
+</logentry>
+<logentry
+   revision="35171">
+<author>bzhang44</author>
+<date>2015-04-08T18:48:36.887979Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/lab_btree</path>
+</paths>
+</logentry>
+<logentry
+   revision="35114">
+<author>tolar2</author>
+<date>2015-04-06T05:35:10.402027Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/lab_avl/grade_report_final.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="34644">
+<author>tolar2</author>
+<date>2015-04-04T05:51:01.559930Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/mp5/grade_report_final.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="34502">
+<author>nwang16</author>
+<date>2015-04-04T04:21:39.332150Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/mp6</path>
+</paths>
+</logentry>
+<logentry
+   revision="33686">
+<author>tolar2</author>
+<date>2015-04-03T16:08:07.081574Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp5/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="33651">
+<author>tolar2</author>
+<date>2015-04-03T15:25:19.602992Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp5/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="32618">
+<author>tolar2</author>
+<date>2015-04-02T06:06:02.579221Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp5/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="32432">
+<author>cliu81</author>
+<date>2015-04-02T02:01:14.533217Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/lab_avl/avltree.cpp</path>
+</paths>
+<msg>Submission .001</msg>
+</logentry>
+<logentry
+   revision="32337">
+<author>bzhang44</author>
+<date>2015-04-01T23:15:20.302683Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/lab_avl</path>
+</paths>
+</logentry>
+<logentry
+   revision="32181">
+<author>tolar2</author>
+<date>2015-04-01T06:08:14.210081Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp5/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="31889">
+<author>tolar2</author>
+<date>2015-03-31T06:04:18.416118Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp5/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="31557">
+<author>tolar2</author>
+<date>2015-03-30T06:55:11.514473Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp5/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="31548">
+<author>tolar2</author>
+<date>2015-03-30T06:05:04.172267Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/lab_dict/grade_report_final.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="30648">
+<author>tolar2</author>
+<date>2015-03-29T06:00:02.310511Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp5/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="30384">
+<author>tolar2</author>
+<date>2015-03-28T06:02:13.598468Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp5/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="30219">
+<author>cliu81</author>
+<date>2015-03-27T20:56:23.671187Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/mp5/partners.txt</path>
+<path
+   kind="file"
+   action="M">/cliu81/mp5/quadtree.cpp</path>
+</paths>
+<msg>Submisson .00990</msg>
+</logentry>
+<logentry
+   revision="30044">
+<author>tolar2</author>
+<date>2015-03-27T05:59:28.522572Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp5/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="29750">
+<author>tolar2</author>
+<date>2015-03-26T06:02:57.133540Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp5/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="29519">
+<author>tolar2</author>
+<date>2015-03-25T05:54:24.938694Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp5/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="29284">
+<author>tolar2</author>
+<date>2015-03-24T06:00:51.262250Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp5/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="29283">
+<author>cliu81</author>
+<date>2015-03-24T05:57:52.937263Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp5/quadtree.cpp</path>
+</paths>
+<msg>Submission .00011</msg>
+</logentry>
+<logentry
+   revision="29137">
+<author>tolar2</author>
+<date>2015-03-23T06:02:20.606599Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp5/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="29046">
+<author>tolar2</author>
+<date>2015-03-22T06:03:36.981977Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/mp5/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="28965">
+<author>tolar2</author>
+<date>2015-03-21T05:44:23.118424Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/mp5/grade_report_extra_credit.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="27738">
+<author>cliu81</author>
+<date>2015-03-19T05:29:52.145371Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/lab_dict/cartalk_puzzle.cpp</path>
+</paths>
+<msg>Submission .00011</msg>
+</logentry>
+<logentry
+   revision="27731">
+<author>cliu81</author>
+<date>2015-03-19T04:58:49.706870Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/lab_dict/anagram_dict.cpp</path>
+<path
+   action="M"
+   kind="file">/cliu81/lab_dict/anagram_dict.h</path>
+<path
+   kind="file"
+   action="M">/cliu81/lab_dict/cartalk_puzzle.cpp</path>
+<path
+   kind="file"
+   action="M">/cliu81/lab_dict/common_words.cpp</path>
+<path
+   kind="file"
+   action="M">/cliu81/lab_dict/fib.cpp</path>
+<path
+   action="M"
+   kind="file">/cliu81/lab_dict/pronounce_dict.cpp</path>
+</paths>
+<msg>Submission .0001</msg>
+</logentry>
+<logentry
+   revision="27599">
+<author>bzhang44</author>
+<date>2015-03-18T20:38:35.495649Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/cliu81/lab_dict</path>
+</paths>
+</logentry>
+<logentry
+   revision="27297">
+<author>cliu81</author>
+<date>2015-03-16T21:57:58.133821Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp5/quadtree.cpp</path>
+<path
+   kind="file"
+   action="M">/cliu81/mp5/quadtree.h</path>
+</paths>
+<msg>First Submission .0001</msg>
+</logentry>
+<logentry
+   revision="27247">
+<author>tolar2</author>
+<date>2015-03-16T05:44:36.404631Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/lab_huffman/grade_report_final.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="26139">
+<author>nwang16</author>
+<date>2015-03-14T15:43:07.531484Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/mp5</path>
+</paths>
+</logentry>
+<logentry
+   revision="26132">
+<author>tolar2</author>
+<date>2015-03-14T06:13:24.944001Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/mp4/grade_report_final.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="25172">
+<author>tolar2</author>
+<date>2015-03-13T06:14:11.029080Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp4/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="24427">
+<author>tolar2</author>
+<date>2015-03-12T06:15:29.843246Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp4/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="24254">
+<author>cliu81</author>
+<date>2015-03-12T02:52:06.047291Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/lab_huffman/huffman_tree.cpp</path>
+</paths>
+<msg>Submission .0001</msg>
+</logentry>
+<logentry
+   revision="24085">
+<author>tolar2</author>
+<date>2015-03-11T20:07:15.298725Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/lab_huffman/Makefile</path>
+</paths>
+</logentry>
+<logentry
+   revision="24062">
+<author>bzhang44</author>
+<date>2015-03-11T19:40:20.459912Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/lab_huffman</path>
+</paths>
+</logentry>
+<logentry
+   revision="23993">
+<author>tolar2</author>
+<date>2015-03-11T06:12:02.408509Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp4/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="23961">
+<author>cliu81</author>
+<date>2015-03-11T05:08:01.758989Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp4/filler.cpp</path>
+<path
+   action="A"
+   kind="file">/cliu81/mp4/partners.txt</path>
+<path
+   action="M"
+   kind="file">/cliu81/mp4/queue.cpp</path>
+<path
+   action="M"
+   kind="file">/cliu81/mp4/stack.cpp</path>
+</paths>
+<msg>Submission 0.88</msg>
+</logentry>
+<logentry
+   revision="23582">
+<author>tolar2</author>
+<date>2015-03-10T06:15:51.796404Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp4/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="23346">
+<author>cliu81</author>
+<date>2015-03-09T08:15:44.346274Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp4/filler.cpp</path>
+<path
+   action="M"
+   kind="file">/cliu81/mp4/filler.h</path>
+<path
+   action="M"
+   kind="file">/cliu81/mp4/queue.cpp</path>
+<path
+   kind="file"
+   action="M">/cliu81/mp4/stack.cpp</path>
+</paths>
+<msg>submission .002</msg>
+</logentry>
+<logentry
+   revision="23342">
+<author>tolar2</author>
+<date>2015-03-09T06:44:45.595008Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp4/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="23332">
+<author>tolar2</author>
+<date>2015-03-09T05:45:03.346858Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/lab_trees/grade_report_final.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="23149">
+<author>cliu81</author>
+<date>2015-03-09T03:44:10.262458Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp4/gradientColorPicker.h</path>
+<path
+   kind="file"
+   action="M">/cliu81/mp4/solidColorPicker.cpp</path>
+<path
+   kind="file"
+   action="M">/cliu81/mp4/solidColorPicker.h</path>
+</paths>
+<msg>solidColorPicker .001</msg>
+</logentry>
+<logentry
+   revision="23134">
+<author>cliu81</author>
+<date>2015-03-09T03:35:19.572591Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp4/gradientColorPicker.cpp</path>
+</paths>
+<msg>gradientColorPicker .001</msg>
+</logentry>
+<logentry
+   revision="22650">
+<author>tolar2</author>
+<date>2015-03-08T07:13:55.378093Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/mp4/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="22419">
+<author>tolar2</author>
+<date>2015-03-07T06:53:37.795791Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/mp4/grade_report_extra_credit.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="21471">
+<author>cliu81</author>
+<date>2015-03-05T00:05:56.683817Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/lab_trees/binarytree.cpp</path>
+<path
+   kind="file"
+   action="M">/cliu81/lab_trees/binarytree.h</path>
+</paths>
+<msg>Submission .099</msg>
+</logentry>
+<logentry
+   revision="21434">
+<author>bzhang44</author>
+<date>2015-03-04T21:54:45.561241Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/lab_trees</path>
+</paths>
+</logentry>
+<logentry
+   revision="20943">
+<author>tolar2</author>
+<date>2015-03-02T06:51:39.851740Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/lab_quacks/grade_report_final.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="20020">
+<author>cliu81</author>
+<date>2015-02-28T09:20:08.129353Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp4/queue.cpp</path>
+<path
+   kind="file"
+   action="M">/cliu81/mp4/stack.cpp</path>
+</paths>
+<msg>version 4.1.0001</msg>
+</logentry>
+<logentry
+   revision="20001">
+<author>tolar2</author>
+<date>2015-02-28T06:44:16.124652Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/mp3/grade_report_final.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="19963">
+<author>nwang16</author>
+<date>2015-02-28T06:03:09.345042Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/mp4</path>
+</paths>
+</logentry>
+<logentry
+   revision="18795">
+<author>cliu81</author>
+<date>2015-02-27T16:41:36.138792Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/lab_quacks/quackfun.cpp</path>
+</paths>
+<msg>Submission .089</msg>
+</logentry>
+<logentry
+   revision="18589">
+<author>tolar2</author>
+<date>2015-02-27T06:42:04.962185Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp3/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="18561">
+<author>cliu81</author>
+<date>2015-02-27T06:20:31.307749Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/lab_quacks/exercises.cpp</path>
+<path
+   action="M"
+   kind="file">/cliu81/lab_quacks/quackfun.cpp</path>
+</paths>
+<msg>Submission .088</msg>
+</logentry>
+<logentry
+   revision="17623">
+<author>tolar2</author>
+<date>2015-02-26T06:40:41.371213Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp3/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="17308">
+<author>bzhang44</author>
+<date>2015-02-25T21:07:35.056520Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/cliu81/lab_quacks</path>
+</paths>
+</logentry>
+<logentry
+   revision="17208">
+<author>tolar2</author>
+<date>2015-02-25T06:43:06.107224Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp3/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="17163">
+<author>cliu81</author>
+<date>2015-02-24T22:04:49.699671Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/mp3/partners.txt</path>
+</paths>
+<msg>submission 0.99</msg>
+</logentry>
+<logentry
+   revision="17123">
+<author>tolar2</author>
+<date>2015-02-24T06:39:03.139899Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp3/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="17117">
+<author>cliu81</author>
+<date>2015-02-24T05:29:27.511362Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp3/list.cpp</path>
+</paths>
+<msg>Bug Fix .05 (trail 1)</msg>
+</logentry>
+<logentry
+   revision="16954">
+<author>tolar2</author>
+<date>2015-02-23T07:05:05.201291Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp3/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="16941">
+<author>tolar2</author>
+<date>2015-02-23T06:35:53.983198Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/lab_gdb/grade_report_final.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="16427">
+<author>cliu81</author>
+<date>2015-02-22T21:11:27.392386Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp3/list.cpp</path>
+</paths>
+<msg>Bug Fix .004</msg>
+</logentry>
+<logentry
+   revision="16362">
+<author>cliu81</author>
+<date>2015-02-22T17:54:12.698499Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp3/list.cpp</path>
+</paths>
+<msg>debug .002</msg>
+</logentry>
+<logentry
+   revision="16283">
+<author>tolar2</author>
+<date>2015-02-22T06:42:35.988498Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/mp3/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="16223">
+<author>cliu81</author>
+<date>2015-02-22T03:07:28.944764Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp3/list.cpp</path>
+</paths>
+<msg>bug fix .001</msg>
+</logentry>
+<logentry
+   revision="15993">
+<author>tolar2</author>
+<date>2015-02-21T06:42:08.135025Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/mp3/grade_report_extra_credit.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="13618">
+<author>cliu81</author>
+<date>2015-02-18T22:08:07.762478Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/lab_gdb/list.cpp</path>
+</paths>
+<msg>version 0.101</msg>
+</logentry>
+<logentry
+   revision="13617">
+<author>cliu81</author>
+<date>2015-02-18T22:06:27.225310Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/lab_gdb/list.cpp</path>
+</paths>
+<msg>version 0.1</msg>
+</logentry>
+<logentry
+   revision="13487">
+<author>bzhang44</author>
+<date>2015-02-18T18:06:03.654956Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/lab_gdb</path>
+</paths>
+</logentry>
+<logentry
+   revision="13232">
+<author>cliu81</author>
+<date>2015-02-17T05:54:21.496067Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp3/list.cpp</path>
+</paths>
+<msg>0.005</msg>
+</logentry>
+<logentry
+   revision="13223">
+<author>cliu81</author>
+<date>2015-02-17T04:42:08.527274Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp3/list.cpp</path>
+</paths>
+<msg>0.004 merge</msg>
+</logentry>
+<logentry
+   revision="13173">
+<author>cliu81</author>
+<date>2015-02-16T23:06:55.727457Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp3/list.cpp</path>
+</paths>
+<msg>0.0004</msg>
+</logentry>
+<logentry
+   revision="13165">
+<author>cliu81</author>
+<date>2015-02-16T21:51:43.879295Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp3/list.cpp</path>
+</paths>
+<msg>0.0003</msg>
+</logentry>
+<logentry
+   revision="13140">
+<author>cliu81</author>
+<date>2015-02-16T07:55:54.788438Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp3/list.cpp</path>
+</paths>
+<msg>0.0002</msg>
+</logentry>
+<logentry
+   revision="13139">
+<author>tolar2</author>
+<date>2015-02-16T07:11:56.279689Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/lab_inheritance/grade_report_final.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="12965">
+<author>cliu81</author>
+<date>2015-02-16T03:28:24.980158Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp3/list.cpp</path>
+<path
+   kind="file"
+   action="M">/cliu81/mp3/list.h</path>
+</paths>
+<msg>submission 0.001 reverse</msg>
+</logentry>
+<logentry
+   revision="12166">
+<author>tolar2</author>
+<date>2015-02-13T07:19:00.007984Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/mp2/grade_report_final.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="10974">
+<author>tolar2</author>
+<date>2015-02-12T06:57:03.092813Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp2/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="10503">
+<author>cliu81</author>
+<date>2015-02-12T00:24:07.442268Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/lab_inheritance/flower.cpp</path>
+</paths>
+<msg>Lab Submission 0.2</msg>
+</logentry>
+<logentry
+   revision="10490">
+<author>cliu81</author>
+<date>2015-02-12T00:08:46.981798Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/lab_inheritance/circle.cpp</path>
+<path
+   action="M"
+   kind="file">/cliu81/lab_inheritance/circle.h</path>
+<path
+   kind="file"
+   action="M">/cliu81/lab_inheritance/drawable.h</path>
+<path
+   action="M"
+   kind="file">/cliu81/lab_inheritance/flower.cpp</path>
+<path
+   action="M"
+   kind="file">/cliu81/lab_inheritance/flower.h</path>
+<path
+   action="M"
+   kind="file">/cliu81/lab_inheritance/shape.cpp</path>
+<path
+   action="M"
+   kind="file">/cliu81/lab_inheritance/shape.h</path>
+<path
+   kind="file"
+   action="M">/cliu81/lab_inheritance/truck.cpp</path>
+<path
+   kind="file"
+   action="M">/cliu81/lab_inheritance/truck.h</path>
+</paths>
+<msg>Lab 0.1 passed</msg>
+</logentry>
+<logentry
+   revision="10413">
+<author>cliu81</author>
+<date>2015-02-11T22:04:40.014288Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/lab_inheritance/shape.cpp</path>
+<path
+   action="M"
+   kind="file">/cliu81/lab_inheritance/shape.h</path>
+</paths>
+<msg>Exercise 1 0.01</msg>
+</logentry>
+<logentry
+   revision="10394">
+<author>bzhang44</author>
+<date>2015-02-11T21:32:22.033662Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/lab_inheritance</path>
+</paths>
+</logentry>
+<logentry
+   revision="10199">
+<author>tolar2</author>
+<date>2015-02-11T06:58:50.000915Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp2/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="10147">
+<author>nwang16</author>
+<date>2015-02-11T05:40:15.173422Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/cliu81/mp3</path>
+</paths>
+</logentry>
+<logentry
+   revision="9664">
+<author>tolar2</author>
+<date>2015-02-10T06:51:14.715221Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp2/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="8949">
+<author>tolar2</author>
+<date>2015-02-09T07:41:52.959323Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp2/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="8937">
+<author>tolar2</author>
+<date>2015-02-09T07:00:45.620229Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/lab_memory/grade_report_final.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="8244">
+<author>tolar2</author>
+<date>2015-02-08T06:57:52.435658Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp2/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="8049">
+<author>cliu81</author>
+<date>2015-02-08T00:02:31.440054Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp2/scene.cpp</path>
+</paths>
+<msg>DEBUG 0.64</msg>
+</logentry>
+<logentry
+   revision="7850">
+<author>tolar2</author>
+<date>2015-02-07T06:48:10.167736Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp2/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="7820">
+<author>cliu81</author>
+<date>2015-02-07T03:22:53.504908Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp2/scene.cpp</path>
+</paths>
+<msg>scene debug 0.61</msg>
+</logentry>
+<logentry
+   revision="7452">
+<author>tolar2</author>
+<date>2015-02-06T06:50:07.028477Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp2/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="7442">
+<author>cliu81</author>
+<date>2015-02-06T06:23:14.548522Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp2/scene.cpp</path>
+</paths>
+<msg>BUG FIX 0.5</msg>
+</logentry>
+<logentry
+   revision="7441">
+<author>cliu81</author>
+<date>2015-02-06T06:21:42.023420Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp2/scene.cpp</path>
+</paths>
+<msg>BUG FIX 0.6</msg>
+</logentry>
+<logentry
+   revision="7434">
+<author>cliu81</author>
+<date>2015-02-06T06:13:45.332523Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp2/scene.cpp</path>
+</paths>
+<msg>BUG FIX 0.5</msg>
+</logentry>
+<logentry
+   revision="7433">
+<author>cliu81</author>
+<date>2015-02-06T06:12:12.970586Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp2/scene.cpp</path>
+</paths>
+<msg>BUG FIX 0.4</msg>
+</logentry>
+<logentry
+   revision="7432">
+<author>cliu81</author>
+<date>2015-02-06T06:06:56.880532Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp2/scene.cpp</path>
+</paths>
+<msg>BUG FIX 0.3</msg>
+</logentry>
+<logentry
+   revision="7431">
+<author>cliu81</author>
+<date>2015-02-06T06:03:39.780213Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp2/scene.cpp</path>
+</paths>
+<msg>BUG FIX 0.2</msg>
+</logentry>
+<logentry
+   revision="7423">
+<author>cliu81</author>
+<date>2015-02-06T05:41:16.362662Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp2/scene.cpp</path>
+</paths>
+<msg>BUG FIX 0.1</msg>
+</logentry>
+<logentry
+   revision="6973">
+<author>tolar2</author>
+<date>2015-02-05T06:51:06.732729Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/mp2/grade_report.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="6897">
+<author>cliu81</author>
+<date>2015-02-05T01:51:38.905471Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/lab_memory/allocator.cpp</path>
+<path
+   action="M"
+   kind="file">/cliu81/lab_memory/allocator.h</path>
+<path
+   kind="file"
+   action="M">/cliu81/lab_memory/room.cpp</path>
+</paths>
+<msg>lab_memory submission 1</msg>
+</logentry>
+<logentry
+   revision="6865">
+<author>cliu81</author>
+<date>2015-02-04T22:19:49.697603Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp2/scene.cpp</path>
+</paths>
+<msg>memory leak debug 0.5</msg>
+</logentry>
+<logentry
+   revision="6820">
+<author>bzhang44</author>
+<date>2015-02-04T18:27:14.383504Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/lab_memory</path>
+</paths>
+</logentry>
+<logentry
+   revision="6795">
+<author>tolar2</author>
+<date>2015-02-04T07:17:05.917631Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/mp2/grade_report_extra_credit.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="6793">
+<author>cliu81</author>
+<date>2015-02-04T07:06:06.953960Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp2/scene.cpp</path>
+</paths>
+<msg>debug memory leak v0.2</msg>
+</logentry>
+<logentry
+   revision="6788">
+<author>tolar2</author>
+<date>2015-02-04T06:46:39.550230Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/mp1/grade_report_final.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="6783">
+<author>cliu81</author>
+<date>2015-02-04T06:36:12.505919Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/mp2/scene.cpp</path>
+</paths>
+<msg>memory leak debug 0.1</msg>
+</logentry>
+<logentry
+   revision="6646">
+<author>cliu81</author>
+<date>2015-02-04T04:15:03.664045Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp2/scene.cpp</path>
+</paths>
+<msg>testscene memory leak debug submission 0</msg>
+</logentry>
+<logentry
+   revision="6583">
+<author>cliu81</author>
+<date>2015-02-04T02:59:59.631802Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp2/Makefile</path>
+<path
+   kind="file"
+   action="M">/cliu81/mp2/scene.cpp</path>
+</paths>
+<msg>first working version</msg>
+</logentry>
+<logentry
+   revision="6554">
+<author>cliu81</author>
+<date>2015-02-04T02:23:46.779989Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp2/scene.cpp</path>
+</paths>
+<msg>scene.cpp debug</msg>
+</logentry>
+<logentry
+   revision="6433">
+<author>cliu81</author>
+<date>2015-02-03T20:29:40.298926Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp2/Makefile</path>
+</paths>
+<msg>fix makefile 1</msg>
+</logentry>
+<logentry
+   revision="6322">
+<author>cliu81</author>
+<date>2015-02-03T06:11:26.384879Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/mp2/Makefile</path>
+</paths>
+<msg>makefile uncompleted 1</msg>
+</logentry>
+<logentry
+   revision="6319">
+<author>cliu81</author>
+<date>2015-02-03T05:53:42.687298Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/mp2/scene.cpp</path>
+<path
+   action="A"
+   kind="file">/cliu81/mp2/scene.h</path>
+</paths>
+<msg>scene uncompleted 1</msg>
+</logentry>
+<logentry
+   revision="6113">
+<author>tolar2</author>
+<date>2015-02-02T06:30:20.632583Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/lab_debug/grade_report_final.txt</path>
+</paths>
+</logentry>
+<logentry
+   revision="5742">
+<author>cliu81</author>
+<date>2015-01-31T22:32:19.362931Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/hw0/hw0_soln.pdf</path>
+</paths>
+<msg>hw0 submission</msg>
+</logentry>
+<logentry
+   revision="5714">
+<author>cliu81</author>
+<date>2015-01-31T21:18:57.048058Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/cliu81/lab_intro/partners.txt</path>
+</paths>
+<msg>lab_intro submission3</msg>
+</logentry>
+<logentry
+   revision="5703">
+<author>cliu81</author>
+<date>2015-01-31T21:02:26.467871Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/mp2/partners.txt</path>
+</paths>
+<msg>mp2.1 submission2</msg>
+</logentry>
+<logentry
+   revision="5701">
+<author>cliu81</author>
+<date>2015-01-31T20:57:04.899356Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/mp2/Makefile</path>
+<path
+   action="A"
+   kind="file">/cliu81/mp2/image.cpp</path>
+<path
+   kind="file"
+   action="A">/cliu81/mp2/image.h</path>
+</paths>
+<msg>mp2.1 submission1</msg>
+</logentry>
+<logentry
+   revision="5694">
+<author>cliu81</author>
+<date>2015-01-31T20:40:24.827876Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/cliu81/lab_debug/sketchify.cpp</path>
+</paths>
+<msg>lab_debug submission 1</msg>
+</logentry>
+<logentry
+   revision="5692">
+<author>cliu81</author>
+<date>2015-01-31T20:37:31.066026Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/lab_intro/main.cpp</path>
+</paths>
+<msg>lab_intro submission 2</msg>
+</logentry>
+<logentry
+   revision="5686">
+<author>cliu81</author>
+<date>2015-01-31T20:11:05.831916Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/cliu81/lab_intro/main.cpp</path>
+<path
+   kind="file"
+   action="A">/cliu81/lab_intro/rgbapixel.cpp</path>
+<path
+   kind="file"
+   action="A">/cliu81/lab_intro/rgbapixel.h</path>
+</paths>
+<msg>lab_intro submission 1</msg>
+</logentry>
+<logentry
+   revision="5685">
+<author>cliu81</author>
+<date>2015-01-31T20:04:32.552199Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/cliu81/mp1/Makefile</path>
+<path
+   action="A"
+   kind="file">/cliu81/mp1/main.cpp</path>
+<path
+   action="A"
+   kind="file">/cliu81/mp1/partners.txt</path>
+<path
+   action="A"
+   kind="file">/cliu81/mp1/rgbapixel.cpp</path>
+<path
+   kind="file"
+   action="A">/cliu81/mp1/rgbapixel.h</path>
+</paths>
+<msg>mp1 submission1</msg>
+</logentry>
+<logentry
+   revision="5671">
+<author>tolar2</author>
+<date>2015-01-31T17:39:44.984067Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/cliu81/hw0</path>
+</paths>
+</logentry>
+<logentry
+   revision="5670">
+<author>tolar2</author>
+<date>2015-01-31T17:38:35.673785Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/cliu81/lab_debug</path>
+</paths>
+</logentry>
+<logentry
+   revision="5669">
+<author>tolar2</author>
+<date>2015-01-31T17:37:33.454973Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81/lab_intro</path>
+</paths>
+</logentry>
+<logentry
+   revision="5668">
+<author>tolar2</author>
+<date>2015-01-31T17:36:32.266595Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/cliu81/mp2</path>
+</paths>
+</logentry>
+<logentry
+   revision="5667">
+<author>tolar2</author>
+<date>2015-01-31T17:35:23.145383Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/cliu81/mp1</path>
+</paths>
+</logentry>
+<logentry
+   revision="5661">
+<author>root</author>
+<date>2015-01-31T15:15:02.458699Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/cliu81</path>
+</paths>
+<msg>created directory cliu81</msg>
+</logentry>
+</log>
